@@ -1,5 +1,5 @@
 html {
-	background: url(../images/home/DSC03065.jpg) no-repeat center center fixed; 
+/* 	background: url(../images/home/DSC03065.jpg) no-repeat center center fixed; */
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -15,10 +15,10 @@ header {
 	height: 100%;
 	width: 100%;
 	position: relative;
-	font-family: urw-din, sans-serif;
+	font-family: "din-2014", sans-serif;
 	font-style: normal;
-	font-weight: 400;
-	letter-spacing: -1;
+	font-weight: 600;
+
 	text-transform: uppercase;
 }
 
@@ -26,8 +26,8 @@ header h1 {
 	position: absolute;
 	bottom: 1em;
 	left: 0;
+	font-weight: inherit;
 	font-size: 2em;
-	font-weight: normal;
 	margin: 0;
 }
 
@@ -38,6 +38,7 @@ header h1 span {
 	margin-bottom: .2em;
 	float: left;
 	clear: both;
+	font-size: 1.2em;
 	padding-left: 1em;
 	padding-right: .5em;
 }
@@ -56,6 +57,7 @@ header nav ul {
 header nav li {
 	font-size: 2em;
 	margin-bottom: .2em;
+	position: relative;
 }
 
 header nav li a {
@@ -64,11 +66,15 @@ header nav li a {
 	text-decoration: none;
 	padding-left: .5em;
 	padding-right: 1em;
-	transition: all .5s;
+/* 	transition: all .5s; */
 }
 
 header nav li a:hover {
 	background: #000000;
+	color: #ffffff;
+}
+
+header nav li a:hover:after {
 	color: #ffffff;
 }
 
@@ -85,6 +91,21 @@ header nav li ul li a {
 	display: inline-block;
 	padding-top: .5em;
 	padding-bottom: .5em;
+}
+
+header nav li.hasChildren > a:after {
+	display: block;
+	position: absolute;
+	content: "+";
+	height: 1em;
+	width: 1em;
+	top: 0;
+	right: .3em;
+	font-weight: 400;
+}
+
+header nav li.hasChildren.expanded > a:after {
+	content: "-";
 }
 
 footer {
@@ -106,4 +127,8 @@ footer {
 
 #instagram:hover {
 	background-position: -25px 0;
+}
+
+#imageLoader {
+	display: none;
 }
