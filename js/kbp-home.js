@@ -8,7 +8,7 @@ $(document).ready(function(){
 
 	/* Expand menu */
 	$("header nav>ul>li>a").on("click", function(){
-		if ($(this).siblings('ul').is(":hidden")){
+		if($(this).siblings('ul').is(":hidden")){
 			$(this).siblings('ul').slideDown("fast").parent('li').addClass('expanded');
 		} else {
 			$(this).siblings('ul').slideUp("fast").parent('li').removeClass('expanded');
@@ -21,7 +21,6 @@ $(document).ready(function(){
 		homeImagesArray.push($(this).attr("src"));
 	});
 
-
 	var counter = 0;
 	var imagesLoaded = 0;
 	
@@ -31,6 +30,7 @@ $(document).ready(function(){
 	$("#imageLoader img").each(function(){
 		if(!$(this).prop('loaded')){
 			console.log("Waiting to be loaded!");
+			
 			$(this).on('load', function() {
 				console.log("Loaded!");
 				$(this).prop('loaded', true);
