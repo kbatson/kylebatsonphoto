@@ -35,6 +35,7 @@ $(document).ready(function(){
 				console.log("Loaded!");
 				$(this).prop('loaded', true);
 				console.log("loaded:", $(this).prop('complete'));
+				$("body").removeClass("loading");
 				//console.log($(this).complete);
 				imagesLoaded ++;
 				if(imagesLoaded === totalImages){
@@ -63,6 +64,6 @@ $(document).ready(function(){
 	function switchImages(imageIndex){
 		backgroundURL = homeImagesArray[imageIndex];
 		console.log('switch image', backgroundURL);
-		$('html').attr('style', "background-image: url(" + backgroundURL + ")");
+		$('body').attr('style', "background-image: url(" + backgroundURL + ")");
 	}
 });
