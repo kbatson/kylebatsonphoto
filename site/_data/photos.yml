@@ -1,4 +1,19 @@
 street1:
+  - title: Mermaid Amongst Children
+    caption: A scene of a dozen children playing in a pool of water backlit by the sun. In the forgeround, one of the older girls is dressed in a mermaid costume. The central figure is a young girl smiling.
+    location: Wichita, KS
+    url: /photos/street/DSC05111.jpg
+    
+  - title: Couple Kissing with Stroller
+    caption: Outdoors in a city, a couple is kissing. The man has one hand on a stroller with a child inside while yet another child holds on to the other handle of the stroller.
+    location: Wichita, KS
+    url: /photos/street/L1030206.jpg
+    
+  - title: Trio on a bench
+    caption: A man and two women share a bench in a park. The man has white hair and stares wearily at the camera.
+    location: Rio de Janiero, Brazil
+    url: /photos/street/L1030399.jpg
+
   - title: Street Missouri
     caption: Image of a woman outside crouched over taking a photograph of a subject out of frame while a young girl bends down to pet down a pug on a leash while a sculpture of a dinosaur looms in the background.
     location: Missouri
@@ -12,15 +27,20 @@ street1:
     url: /photos/street/DSC03065.jpg
     
 street2:
-  - title: Street Missouri
-    caption: Image of a woman outside crouched over taking a photograph of a subject out of frame while a young girl bends down to pet down a pug on a leash while a sculpture of a dinosaur looms in the background.
-    location: Missouri
+  - title: Citrus Belly
+    caption: Shadows obscure the face of a man standing at an intersection wearing a yellow shirt and yellow shorts holding a cane. His shirt is raised over his belly. In the foreground a sanitation worker with an orange shirt and an orange hat passes by, her face is obscured in shadow as well.
+    location: Rio de Janiero, Brazil
+    url: /photos/street/L1010962.jpg
+    
+  - title: Street Crossing, New York
+    caption: Two asian women hold hands as they cross the street in SoHo.
+    location: New York City
     year: 2018
     url: /photos/street/L1020039.jpg
 
-  - title: Street Missouri 2
-    caption: Image of a man outside crouching towards a hole cut out of a display meant for a face to poke through for tourist photos. Instead of a person's face, a dog is there instead. The cutout is positioned right on the rear end of the image of a deer next to the image of a zebra.
-    location: Missouri
+  - title: Spring Street
+    caption: A man and a woman cross the street wearing glasses. He is wearing white, she is wearing black. He also has reading glasses hanging from the collar of his shirt.
+    location: New York City
     year: 2018
     url: /photos/street/L1020042.jpg
 nature:
