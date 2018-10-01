@@ -17,6 +17,7 @@ body:before {
 	height: 50px;
 	width: 50px;
 	background: url("../images/kb-loading.svg");
+	opacity: .5;
 	z-index: -1;
 
     -webkit-animation:spin 1s linear infinite;
