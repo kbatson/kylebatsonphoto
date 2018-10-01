@@ -1,18 +1,10 @@
 ---
-layout: page
+layout: internal
 title: About
-permalink: /about/
 ---
+<img src="/images/profile.jpg" alt="Profile photo" class="left">
+<p>Kyle Batson was born in 1984 and has been practicing street photography for the last decade. Street photography focuses on unposed, candid moments in public places. It is a way to document the the time and and the world that we live in. Kyle uses photography as a way to satisfy his curiosity about the world and to fix in time brief moments of our shared humanity.</p>
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<p>Kyle studied Graphic Design and has worked in the software development, marketing, education and design industries.</p>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<p>You can follow Kyle's latest work on his <a href="http://www.instagram.com/kylebatsonphoto">Instagram page</a>. If you're interested in following his travels, he blogs about it <a href="http://www.desirepath.life">here</a> and he also has a separate <a href="http://www.instagram.com/desirepathlife">Instagram account</a>.

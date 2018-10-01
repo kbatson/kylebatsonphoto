@@ -11,7 +11,8 @@
 	<meta charset="UTF-8">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script type="text/javascript" src="js/slideshow.js"></script>
-	<script type="text/javascript" src="js/kbp-home.js"></script>
+	<script type="text/javascript" src="js/kbp-nav.js"></script>
+	{% if page.url == "/" %}<script type="text/javascript" src="js/kbp-home.js"></script>{% endif %}
 </head>
 <body{% if page.url == "/" %} class="loading"{% endif %}>
 	<header>

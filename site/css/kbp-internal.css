@@ -32,10 +32,19 @@ header nav li ul li a {
 main {
 	grid-area: content;
     width: calc(100vw - 192px);
+    align-self: start;
     
     display: grid;
     grid-template-rows: auto auto;
     grid-gap: 2rem;
+}
+
+main article {
+	padding: 1rem;
+}
+
+main.gallery article {
+	padding: 0;
 }
 
 .slideshow {
@@ -43,6 +52,10 @@ main {
 }
 
 article {
+	grid-row: 1;
+}
+
+.gallery article {
 	grid-row: 2;
 }
 
@@ -58,6 +71,12 @@ figcaption {
 figcaption .title {
 	display: block;
 	font-style: italic;
+}
+
+img.left {
+	width: 50%;
+	float: left;
+	margin: 0 1rem 1rem 0;
 }
 
 footer {
