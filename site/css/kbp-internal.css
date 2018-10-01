@@ -1,0 +1,66 @@
+body {
+	display: grid;
+	width: 100vw;
+	grid-template-areas:
+		"menu content";
+}
+
+header {
+	grid-area: menu;
+}
+
+header nav {
+	display: block;
+	font-size: .5rem;
+	float: left;
+	clear: left;
+}
+
+header nav li a {
+	padding-right: .5rem;
+}
+
+header nav li ul li {
+	font-size: 1em;
+}
+
+header nav li ul li a {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+main {
+	grid-area: content;
+    width: calc(100vw - 192px);
+    
+    display: grid;
+    grid-template-rows: auto auto;
+    grid-gap: 2rem;
+}
+
+.slideshow {
+	grid-row: 1;
+}
+
+article {
+	grid-row: 2;
+}
+
+figure {
+	margin: 0;
+}
+
+figcaption {
+	font-size: .9rem;
+	color: rgba(0,0,0, .7);
+}
+
+figcaption .title {
+	display: block;
+	font-style: italic;
+}
+
+footer {
+	right: auto;
+	left: 0;
+}

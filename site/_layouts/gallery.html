@@ -1,0 +1,30 @@
+{% include header.html %}
+	
+	<main>
+		<article>
+			<h1>{{ page.title }}</h1>
+			{{ content }}
+		</article>
+		{% assign gallery = site.data.photos[page.gallery] %}
+		<div class="slideshow">
+			<div class="slideshowWrapper">
+				<div class="slideshowContent">
+		
+					{% for photo in site.data.photos[page.gallery] %}
+					<figure class="slide">
+						<img src="{{ photo.url}}" alt="{{ photo.caption }}">
+						<figcaption>
+							<span class="title">{{ photo.title }}</span>
+							<span class="locationYear">{{ photo.location }}, {{ photo.year }}</span>
+						</figcaption>
+					</figure>
+					{% endfor %}
+				</div>
+			</div>
+			<nav class="slideshowControls">
+				
+			</nav>
+		</div>
+	</main>
+	
+{% include footer.html %}

@@ -1,0 +1,27 @@
+toc:
+  - title: Photos
+    subfolderitems:
+    - name: Street 1
+      link: /gallery-street1.html
+    - name: Street 2
+      link: /gallery-street2.html
+    - name: Structures
+      link: /gallery-structure.html
+    - name: Nature
+      link: /gallery-nature.html
+  - title: Commercial
+    subfolderitems:
+    - name: Weddings
+      link: /gallery-weddings.html
+    - name: Portraits
+      link: /gallery-portraits.html
+    - name: Interiors
+      link: /gallery-interiors.html
+  - title: Prints
+    link: /prints.html
+  - title: Books
+    link: /books.html
+  - title: About
+    link: /about.html
+  - title: Contact
+    link: /contact.html
