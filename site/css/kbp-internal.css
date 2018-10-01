@@ -2,7 +2,8 @@ body {
 	display: grid;
 	width: 100vw;
 	grid-template-areas:
-		"menu content";
+		"menu content"
+		"footer content";
 }
 
 header {
@@ -82,6 +83,7 @@ img.left {
 footer {
 	right: auto;
 	left: 0;
+	width: 192px;
 }
 
 footer nav ul {
@@ -91,4 +93,58 @@ footer nav ul {
 #instagram {
 	padding: .5rem .5rem .5rem 2rem;
 	background-position: 2rem center;
+}
+
+/** Mailchimp Signup Form **/
+#mc_embed_signup_scroll {
+	background: #f4f4f4;
+	padding: 1rem;
+	display: grid;
+	grid-template-areas:
+		"title . "
+		"text text"
+		"email submit";
+}
+
+#mc_embed_signup_scroll h2 {
+	grid-area: title;
+	margin: 0;
+}
+
+#mc_embed_signup_scroll p {
+	grid-area: text;
+}
+
+.mc-field-group {
+	grid-area: email;
+	display: grid;
+	grid-template-areas: "email";
+}
+
+.mc-field-group label {
+	grid-area: email;
+	padding: 1rem .5rem;
+	opacity: .7;
+	transition: .2s linear;
+}
+
+.mc-field-group input {
+	grid-area: email;
+	border: 1px solid #dddddd;
+	padding: 1rem .5rem;
+	background-color: #ffffff;
+	font-family: inherit;
+	font-size: inherit;
+	margin: 0;
+	align-self: stretch;
+}
+
+.mc-field-group input:focus + label {
+	font-size: .7rem;
+	margin-top: -.7rem;
+}
+
+#mc-embedded-subscribe {
+	grid-area: submit;
+	align-self: stretch;
 }

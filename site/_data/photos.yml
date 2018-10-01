@@ -23,3 +23,9 @@ street2:
     location: Missouri
     year: 2018
     url: /photos/street/L1020042.jpg
+nature:
+  - title: Yellowstone National Park
+    caption: Image of a woman outside crouched over taking a photograph of a subject out of frame while a young girl bends down to pet down a pug on a leash while a sculpture of a dinosaur looms in the background.
+    location: Yellowstone National Park, Wyoming
+    year: 2018
+    url: /photos/nature/DSC07590.jpg

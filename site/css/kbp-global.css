@@ -6,6 +6,22 @@ body {
 	font-family: "franklin-gothic-urw", sans-serif;
 }
 
+h2 {
+	font-size: 1rem;
+}
+
+.button {
+	border-radius: 0;
+	border: none;
+	font-family: inherit;
+	font-size: inherit;
+	background: #000000;
+	color: #ffffff;
+	padding: .5rem;
+	font-weight: bold;
+	margin: 0;
+}
+
 header {
 	font-family: "din-2014", sans-serif;
 	font-style: normal;
