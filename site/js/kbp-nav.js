@@ -8,6 +8,7 @@ $(document).ready(function(){
 
 	/* Expand menu */
 	$("header nav>ul>li.hasChildren>a").on("click", function(){
+		$("header nav>ul>li.hasChildren ul").slideUp("fast").parent('li').removeClass("expanded");
 		if($(this).siblings('ul').is(":hidden")){
 			$(this).siblings('ul').slideDown("fast").parent('li').addClass('expanded');
 		} else {
