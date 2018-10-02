@@ -91,6 +91,14 @@ figcaption .title {
 	font-style: italic;
 }
 
+.buyPrint {
+	font-family: "din-2014", sans-serif;
+	font-weight: 600;
+	text-transform: uppercase;
+	padding: 0 .2rem;
+	margin-left: .5rem;
+}
+
 img.left {
 	width: 50%;
 	float: left;
