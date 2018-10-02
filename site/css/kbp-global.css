@@ -79,7 +79,7 @@ header nav li a {
 /* 	transition: all .5s; */
 }
 
-header nav li a:hover {
+header nav li a:hover, header nav li.currentPage a {
 	background: #000000;
 	color: #ffffff;
 }
