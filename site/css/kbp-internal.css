@@ -40,24 +40,34 @@ main {
     grid-gap: 2rem;
 }
 
-main article {
-	padding: 1rem;
-}
-
-main.gallery article {
-	padding: 0;
-}
-
 .slideshow {
 	grid-row: 1;
 }
 
 article {
 	grid-row: 1;
+	display: grid;
+	grid-template-columns: minmax(5rem, auto) 30rem minmax(5rem, auto);
+}
+
+article h1 {
+	grid-column: 2 / span 2;
+    text-align: left;
+    border-top: 1rem solid black;
+    margin-top: 3.5rem;
+}
+
+article .content {
+	grid-column: 2;
+	padding: 1rem 1rem 1rem 0;
 }
 
 .gallery article {
 	grid-row: 2;
+}
+
+.gallery article h1 {
+	margin: 0;
 }
 
 figure {

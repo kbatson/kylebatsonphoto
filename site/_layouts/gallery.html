@@ -3,7 +3,9 @@
 	<main class="gallery">
 		<article>
 			<h1>{{ page.title }}</h1>
-			{{ content }}
+			<div class="content">
+				{{ content }}
+			</div>
 		</article>
 		{% assign gallery = site.data.photos[page.gallery] %}
 		<div class="slideshow">
