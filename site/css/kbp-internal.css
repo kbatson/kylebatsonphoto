@@ -217,7 +217,10 @@ li#instagram a {
 
     footer {
     	grid-area: footer;
-    	position: unset;
+    	position: fixed;
+    	top: 0;
+    	left: auto;
+    	right: 0;
     	width: 3rem;
     }
 
