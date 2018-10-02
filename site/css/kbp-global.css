@@ -56,6 +56,10 @@ header h1 span {
 	padding-right: .5em;
 }
 
+#navToggle {
+	display: none;
+}
+
 header nav ul {
 	list-style: none;
 }
@@ -123,14 +127,17 @@ footer nav li:hover {
 	color: #ffffff;
 }
 
-footer nav a {
-	padding: .5rem 2rem .5rem .5rem;
+li#instagram {
+	width: 4rem;
+	display: block;
 }
 
-#instagram {
+li#instagram a {
 	display: block;
-	height: 25px;
-	width: 25px;
+	height: 3rem;
+	width: 100%;
+	padding: .5rem;
+	box-sizing: border-box;
 	background-image: url(../images/instagram.svg);
 	filter: brightness(0);
 	background-repeat: no-repeat;
@@ -139,6 +146,6 @@ footer nav a {
 	text-indent: -999em;
 }
 
-#instagram:hover {
+li#instagram:hover a {
 	filter: brightness(1000);
 }

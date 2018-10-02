@@ -5,11 +5,15 @@ body {
 		"menu content"
 		"footer content";
 	grid-gap: 1rem;
+	grid-template-columns: 12rem auto;
 }
 
 header {
 	grid-area: menu;
 	width: 12rem;
+	position: fixed;
+	top: 0;
+	left: 0;
 }
 
 header nav {
@@ -56,7 +60,7 @@ article h1 {
 	grid-column: 2 / span 2;
     text-align: left;
     border-top: 1rem solid black;
-    margin-top: 3.5rem;
+    margin-top: 0;
 }
 
 article .content {
@@ -70,6 +74,7 @@ article .content {
 
 .gallery article h1 {
 	margin: 0;
+	margin-top: 3.5rem;
 }
 
 figure {
@@ -95,16 +100,20 @@ img.left {
 footer {
 	right: auto;
 	left: 0;
-	width: 192px;
+	width: 12rem;
 }
 
 footer nav ul {
 	padding: 0;
 }
 
-#instagram {
+li#instagram {
+	width: 6rem;
+}
+
+li#instagram a {
 	padding: .5rem .5rem .5rem 2rem;
-	background-position: 2rem center;
+	background-position: 3rem center;
 }
 
 /** Mailchimp Signup Form **/
@@ -159,4 +168,81 @@ footer nav ul {
 #mc-embedded-subscribe {
 	grid-area: submit;
 	align-self: stretch;
+}
+
+@media only screen and (max-width: 450px) {
+    body {
+    	display: unset;
+    }
+
+    header {
+    	width: 100vw;
+    	z-index: 1;
+    }
+
+    header nav {
+    	position: fixed;
+    	top: 0;
+    	left: 0;
+    }
+
+    header nav>ul {
+    	display: none;
+    }
+
+    header h1 {
+    	text-align: right;
+    	margin-left: 3rem;
+    	background: black;
+    	font-size: 4vh;
+    	height: 3rem;
+    }
+
+    header h1 span {
+    	float: none;
+    	padding: 0 .3rem;
+    }
+
+    main {
+    	width: 100vw;
+    	margin-top: 3rem;
+    }
+
+    article {
+    	display: unset;
+    }
+
+    article h1 {
+    	border: none;
+    }
+
+    #navToggle {
+    	display: block;
+    	height: 3rem;
+    	width: 3rem;
+    	padding: .3rem;
+    	background: black;
+    	color: white;
+    	box-sizing: border-box;
+    	font-size: 1rem;
+    	text-indent: -999em;
+    	position: relative;
+    }
+
+    #navToggle:after {
+    	content: "\2630";
+    	position: absolute;
+    	top: 0;
+    	left: 0;
+    	display: block;
+    	height: 3rem;
+    	width: 3rem;
+    	text-indent: 0;
+    	text-align: center;
+    	font-size: 2rem;
+    }
+
+    .slideshow {
+    	margin: 0;
+    }
 }

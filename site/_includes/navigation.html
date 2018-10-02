@@ -1,4 +1,5 @@
 <nav>
+		<a href="#" id="navToggle">Menu</a>
 			<ul>
 				{% for item in site.data.navigation.toc %}<li>
 					<a href="{% if item.link %}{{ item.link }}{% else %}#{% endif %}">{{ item.title }}</a>

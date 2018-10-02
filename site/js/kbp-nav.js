@@ -15,4 +15,14 @@ $(document).ready(function(){
 		}
 		return false;
 	});
+
+	/* Show responsive menu */
+	$("#navToggle").on('click', function(){
+		console.log('click me');
+		if($("header nav>ul").is(":hidden")){
+			$("header nav>ul").slideDown("fast");
+		} else {
+			$("header nav>ul").slideUp("fast");
+		}
+	});
 });
