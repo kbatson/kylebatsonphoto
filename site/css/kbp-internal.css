@@ -203,6 +203,7 @@ li#instagram a {
 
     header nav>ul {
     	display: none;
+    	background: white;
     }
 
     header h1 {
