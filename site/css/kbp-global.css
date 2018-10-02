@@ -102,6 +102,7 @@ header nav li ul li a {
 	display: inline-block;
 	padding-top: .5em;
 	padding-bottom: .5em;
+	padding-right: 2rem;
 }
 
 header nav li.hasChildren > a:after {
@@ -114,7 +115,7 @@ header nav li.hasChildren.expanded > a:after {
 }
 
 footer {
-	position: absolute;
+	position: fixed;
 	bottom: 1em;
 	right: 0;
 }
