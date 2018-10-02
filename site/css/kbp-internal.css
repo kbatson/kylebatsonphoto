@@ -4,10 +4,12 @@ body {
 	grid-template-areas:
 		"menu content"
 		"footer content";
+	grid-gap: 1rem;
 }
 
 header {
 	grid-area: menu;
+	width: 12rem;
 }
 
 header nav {
@@ -32,7 +34,7 @@ header nav li ul li a {
 
 main {
 	grid-area: content;
-    width: calc(100vw - 192px);
+    width: calc(100vw - 13rem);
     align-self: start;
     
     display: grid;
