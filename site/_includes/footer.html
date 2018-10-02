@@ -6,8 +6,10 @@
 		</nav>
 	</footer>
 	{% if page.url == "/" %}<div id="imageLoader">
-		<img src="/photos/street/DSC03063.jpg">
-		<img id="myImg" src="/photos/street/DSC03065.jpg">
-	</div>{% endif %}
+		{% for photo in site.data.photos.home %}
+		<img src="{{ photo.url}}" alt="{{ photo.title }}">
+		{% endfor %}
+	</div>
+	{% endif %}
 </body>
 </html>

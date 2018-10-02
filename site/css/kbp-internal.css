@@ -101,10 +101,12 @@ footer {
 	right: auto;
 	left: 0;
 	width: 12rem;
+	z-index: 1;
 }
 
 footer nav ul {
 	padding: 0;
+	margin: 0;
 }
 
 li#instagram {
@@ -170,14 +172,19 @@ li#instagram a {
 	align-self: stretch;
 }
 
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 850px) {
     body {
-    	display: unset;
+    	grid-template-areas:
+    		"menu footer"
+    		"content content";
+    	grid-template-columns: auto;
+    	grid-gap: 0;
     }
 
     header {
     	width: 100vw;
     	z-index: 1;
+    	background: black;
     }
 
     header nav {
@@ -191,11 +198,12 @@ li#instagram a {
     }
 
     header h1 {
-    	text-align: right;
-    	margin-left: 3rem;
-    	background: black;
-    	font-size: 4vh;
+    	width: 80vw;
+    	text-align: center;
+    	margin: 0 3rem 0 3rem;
+    	font-size: 3vw;
     	height: 3rem;
+    	line-height: 3rem;
     }
 
     header h1 span {
@@ -205,15 +213,22 @@ li#instagram a {
 
     main {
     	width: 100vw;
-    	margin-top: 3rem;
+    }
+
+    footer {
+    	grid-area: footer;
+    	position: unset;
+    	width: 3rem;
     }
 
     article {
     	display: unset;
+    	padding: 0 1rem
     }
 
-    article h1 {
+    article h1, .gallery article h1 {
     	border: none;
+    	margin: 1rem 0 -1rem 0;
     }
 
     #navToggle {
@@ -244,5 +259,25 @@ li#instagram a {
 
     .slideshow {
     	margin: 0;
+    }
+
+    .slideshowControls {
+    	justify-content: center;
+    }
+
+    .slide figcaption {
+    	padding: 0 1rem;
+    }
+
+    li#instagram {
+    	background: black;
+    	color: white;
+    	width: 3rem;
+    }
+
+    li#instagram a {
+    	filter: brightness(1000);
+    	padding: 0;
+    	background-position: center;
     }
 }
