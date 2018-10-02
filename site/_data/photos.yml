@@ -14,6 +14,26 @@ street1:
     location: Rio de Janiero, Brazil
     url: /photos/street/L1030399.jpg
 
+  - title: Men dancing in Hyderabad
+    caption: A group of young men are seen dancing and jumping in the air surrounded by drummers.
+    location: Hyderabad, India
+    url: /photos/street/DSC00209.jpg
+
+  - title: Family on a Scooter
+    caption: A family of a mother, father, two girls, and a boy are squeezed onto a scooter driving through the busy streets of Hyderabad.
+    location: Hyderabad, India
+    url: /photos/street/DSC00563.jpg
+
+  - title: Village Boys in Rwanda
+    caption: A group of four boys in ragged clothes look intently at the photographer on a hillside in Rwanda.
+    location: Musanze, Rwanda
+    url: /photos/street/DSC00614.jpg
+
+  - title: Boy Looks at Girls
+    caption: A teenage boy looks longingly at a group of three teenage girls who seem not to notice him.
+    location: Topeka, Kansas
+    url: /photos/street/DSC01476.jpg
+
   - title: Street Missouri
     caption: Image of a woman outside crouched over taking a photograph of a subject out of frame while a young girl bends down to pet down a pug on a leash while a sculpture of a dinosaur looms in the background.
     location: Missouri
@@ -31,6 +51,11 @@ street2:
     caption: Shadows obscure the face of a man standing at an intersection wearing a yellow shirt and yellow shorts holding a cane. His shirt is raised over his belly. In the foreground a sanitation worker with an orange shirt and an orange hat passes by, her face is obscured in shadow as well.
     location: Rio de Janiero, Brazil
     url: /photos/street/L1010962.jpg
+
+  - title: Rwandan Villagers in the Mountains
+    caption: Three young figures are pictured small in the corner of a scene amongst green fields and primitive homes on a hllside. Dark clouds hang overhead.
+    location: Musanze, Rwanda
+    url: /photos/street/DSC00602.jpg
     
   - title: Street Crossing, New York
     caption: Two asian women hold hands as they cross the street in SoHo.
@@ -43,6 +68,12 @@ street2:
     location: New York City
     year: 2018
     url: /photos/street/L1020042.jpg
+
+  - title: Spring Street
+    caption: A man relaxes by leaning back against a white wall with his eyes closed. On the concrete in front of him are various chairs.
+    location: Tulum, Mexico
+    year: 2018
+    url: /photos/street/DSC00007-Exposure.jpg
 nature:
   - title: Yellowstone National Park
     caption: Image of a woman outside crouched over taking a photograph of a subject out of frame while a young girl bends down to pet down a pug on a leash while a sculpture of a dinosaur looms in the background.

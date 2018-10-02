@@ -16,6 +16,9 @@ $(document).ready(function(){
 		return false;
 	});
 
+	/* Expand current menu on page load */
+	$("header nav>ul>li.hasChildren .currentPage").parent("ul").slideDown("fast").parent('li').addClass('expanded');
+
 	/* Show responsive menu */
 	$("#navToggle").on('click', function(){
 		console.log('click me');
