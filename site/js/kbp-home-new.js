@@ -8,19 +8,17 @@ $(document).ready(function(){
 	function changeImage(){
 		image = $("#imageLoader img")[i];
 		var imageSrc = $(image).attr("src");
-		//img.complete && typeof img.naturalWidth != 'undefined' && img.naturalWidth != 0;
-		if($(image).naturalWidth != 0 && $(image).naturalWidth != "undefined"){
-			$('body').removeClass('loading');
-			flag = true;
-			console.log('changeImage image', imageSrc);
-			imageSwap(imageSrc);
-		} else {
+		if(!$(image).complete || $(image).naturalWidth === 0){
 			flag = false;
 			$('body').addClass('loading')
 			window.setTimeout(function(){
 				changeImage(image);
 			}, 100);
-			
+		} else {
+			$('body').removeClass('loading');
+			flag = true;
+			console.log('changeImage image', imageSrc);
+			imageSwap(imageSrc);
 		}
 	}
 	changeImage();
