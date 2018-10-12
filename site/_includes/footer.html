@@ -10,7 +10,7 @@
 	$(document).ready(function(){
 		$("body").vegas({
 		    slides: [
-		    {% for photo in site.data.photos.home %}
+		    {% for photo in page.photos %}
 		        { src: "{{ photo.url}}" },{% endfor %}
 		    ]
 		});
