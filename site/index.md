@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 photos:
   - title: Gorilla in the Forest
     caption: A gorilla sits nestled amongst the foliage of a dense jungle in Rwanda.
