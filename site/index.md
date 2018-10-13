@@ -9,7 +9,7 @@ photos:
   - title: Mermaid Amongst Children
     caption: A scene of a dozen children playing in a pool of water backlit by the sun. In the forgeround, one of the older girls is dressed in a mermaid costume. The central figure is a young girl smiling.
     location: Wichita, KS
-    url: "/assets/photos/DSC05111.jpg"
+    url: "/assets/photos/DSC04213-Exposure.jpg"
 
   - title: Three Women in Bowler Hats
     caption: Three old women wearing traditional Bolivian bowler hats and layered skirts look on. The middle woman is covering her face.
