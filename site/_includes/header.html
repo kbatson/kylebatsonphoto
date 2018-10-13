@@ -4,18 +4,18 @@
 	<title>{{ page.title }}{% if page.title %} | {% endif %}Kyle Batson Photo</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" type="text/css" href="css/kbp-global.css">
-	<link rel="stylesheet" type="text/css" href="css/slideshow.css">
-	{% if page.url == "/" %}<link rel="stylesheet" type="text/css" href="css/kbp-home.css">
-	{% else %}<link rel="stylesheet" type="text/css" href="css/kbp-internal.css">{% endif %}
+	<link rel="stylesheet" type="text/css" href="/css/kbp-global.css">
+	<link rel="stylesheet" type="text/css" href="/css/slideshow.css">
+	{% if page.url == "/" %}<link rel="stylesheet" type="text/css" href="/css/kbp-home.css">
+	{% else %}<link rel="stylesheet" type="text/css" href="/css/kbp-internal.css">{% endif %}
 	<link rel="stylesheet" href="https://use.typekit.net/dln0vji.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-	<script src="js/jquery.touchSwipe.min.js"></script>
-	{% if page.url != "/" %}<script type="text/javascript" src="js/slideshow.js"></script>{% endif %}
-	<script type="text/javascript" src="js/kbp-nav.js"></script>
+	<script src="/js/jquery.touchSwipe.min.js"></script>
+	{% if page.url != "/" %}<script type="text/javascript" src="/js/slideshow.js"></script>{% endif %}
+	<script type="text/javascript" src="/js/kbp-nav.js"></script>
 	{% if page.url == "/" %}
-	<link rel="stylesheet" href="js/vegas/vegas.css">
-	<script src="js/vegas/vegas.min.js"></script>{% endif %}
+	<link rel="stylesheet" href="/js/vegas/vegas.css">
+	<script src="/js/vegas/vegas.min.js"></script>{% endif %}
 </head>
 <body{% if page.url == "/" %}{% endif %}>
 	<header>
