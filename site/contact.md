@@ -4,21 +4,4 @@ title: Contact
 ---
 <p>I would love to hear from you! The best way to contact me is by sending an email to <a href="mailto:kyledbatson@gmail.com">kyledbatson@gmail.com</a>.</p>
 <p>You can also follow my photography on my <a href="http://www.instagram.com/kylebatsonphoto">Instagram page</a>.</p>
-<div id="mc_embed_signup">
-<form action="https://kylebatsonphoto.us18.list-manage.com/subscribe/post?u=38322a4a3cc8a5aaccb4a5504&amp;id=415b97fb49" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-	<h2>Photo of the Week</h2>
-	<p>Enter your email to get my Photo of the Week sent straight to your inbox. I won't spam you or give your email to anyone else.</p>
-<div class="mc-field-group">
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-	<label for="mce-EMAIL">Email Address </label>
-</div>
-<!-- <p><a href="https://us18.campaign-archive.com/home/?u=38322a4a3cc8a5aaccb4a5504&id=415b97fb49" title="View previous campaigns">View previous campaigns.</a></p> -->
-	<div id="mce-responses">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_38322a4a3cc8a5aaccb4a5504_415b97fb49" tabindex="-1" value=""></div>
-	<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-</form>
-</div>
+{% include mailchimp.html %}

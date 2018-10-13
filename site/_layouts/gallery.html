@@ -12,16 +12,18 @@
 			<div class="slideshowWrapper">
 				<div class="slideshowContent">
 		
-					{% for photo in page.photos %}
-					<figure class="slide">
-						<img src="{{ photo.url}}" alt="{{ photo.caption }}">
-						<figcaption>
-							<span class="title">{{ photo.title }}</span>
-							<span class="locationYear">{{ photo.location }}</span>
-							{% if photo.print %}<a href="{{ photo.print }}" class="button buyPrint">Buy a Print</a>{% endif %}
-						</figcaption>
-					</figure>
-					{% endfor %}
+					{% for photo in page.photos %}{% if photo.shown %}
+					<div class="slide">
+						<figure>
+							<img src="{{ photo.url}}" alt="{{ photo.caption }}">
+							<figcaption>
+								<span class="title">{{ photo.title }}</span>
+								<span class="locationYear">{{ photo.location }}</span>
+								{% if photo.print %}<a href="{{ photo.print }}" class="button buyPrint">Buy a Print</a>{% endif %}
+							</figcaption>
+						</figure>
+					</div>
+					{% endif %}{% endfor %}
 				</div>
 			</div>
 			<nav class="slideshowControls">
