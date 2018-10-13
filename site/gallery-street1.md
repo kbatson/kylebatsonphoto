@@ -1,18 +1,48 @@
 ---
 layout: gallery
 title: Street 1
-gallery: street1
 photos:
   - title: Mermaid Amongst Children
     caption: A scene of a dozen children playing in a pool of water backlit by the sun. In the forgeround, one of the older girls is dressed in a mermaid costume. The central figure is a young girl smiling.
     location: Wichita, KS
     url: "/assets/photos/DSC05111.jpg"
+    print: https://gum.co/kLqJi
     shown: true
     
   - title: Couple Kissing with Stroller
     caption: Outdoors in a city, a couple is kissing. The man has one hand on a stroller with a child inside while yet another child holds on to the other handle of the stroller.
     location: Wichita, KS
     url: "/assets/photos/L1030206.jpg"
+    shown: true
+
+  - title: I Hate To and You Hate To
+    location: San Francisco, CA
+    year: 2016
+    url: "/assets/photos/L1007845.jpg"
+    shown: true
+
+  - title: Neck Brace and Others
+    location: Istanbul, Turkey
+    year: 2015
+    url: "/assets/photos/img252.jpg"
+    shown: true
+
+  - title: Cafe with a Blonde WOman
+    location: Istanbul, Turkey
+    year: 2015
+    url: "/assets/photos/DSC07456.jpg"
+    shown: true
+
+  - title: The Explanation
+    location: Istanbul, Turkey
+    year: 2015
+    url: "/assets/photos/DSC07049.jpg"
+    shown: true
+
+  - title: One-Eyed Man
+    location: Istanbul, Turkey
+    year: 2015
+    url: "/assets/photos/DSCF3408.jpg"
     shown: true
     
   - title: Trio on a bench
@@ -31,12 +61,6 @@ photos:
     caption: A family of a mother, father, two girls, and a boy are squeezed onto a scooter driving through the busy streets of Hyderabad.
     location: Hyderabad, India
     url: "/assets/photos/DSC00563.jpg"
-    shown: true
-
-  - title: Village Boys in Rwanda
-    caption: A group of four boys in ragged clothes look intently at the photographer on a hillside in Rwanda.
-    location: Musanze, Rwanda
-    url: "/assets/photos/DSC00614.jpg"
     shown: true
 
   - title: Boy Looks at Girls
@@ -85,26 +109,13 @@ photos:
     location: Copacabana, Bolivia
     year: 2014
     url: "/assets/photos/DSC04119.jpg"
+    print: https://gum.co/ySYRs
     shown: true
 
   - title: Kids Jumping in the Splash of Water
     caption: A blonde girl jumps for joy into the splash of water made by a carnival ride at night surrounded by other playing kids.
     location: Hutchinson, Kansas
     url: "/assets/photos/DSC04235.jpg"
-    shown: true
-
-  - title: Street Missouri
-    caption: Image of a woman outside crouched over taking a photograph of a subject out of frame while a young girl bends down to pet down a pug on a leash while a sculpture of a dinosaur looms in the background.
-    location: Missouri
-    year: 2018
-    url: "/assets/photos/DSC03063.jpg"
-    shown: true
-
-  - title: Street Missouri 2
-    caption: Image of a man outside crouching towards a hole cut out of a display meant for a face to poke through for tourist photos. Instead of a person's face, a dog is there instead. The cutout is positioned right on the rear end of the image of a deer next to the image of a zebra.
-    location: Missouri
-    year: 2018
-    url: "/assets/photos/DSC03065.jpg"
     shown: true
 ---
 <p>Introductory text about street photography.</p>
