@@ -116,6 +116,7 @@
 
 .slideshowDirection a span {
 	display: block;
+	pointer-events: none;
 	height: 3rem;
 	width: 2rem;
 	align-self: center;
