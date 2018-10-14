@@ -1,5 +1,4 @@
 ---
-layout: blog
+layout: internal
 title: Blog
 ---
-Testing
