@@ -84,6 +84,7 @@
 .slideshowDirection {
 	display: none;
 	position: absolute;
+	pointer-events: none;
 	top: 0;
 	left: 0;
 	width: 100%;
@@ -97,6 +98,7 @@
 .slideshowDirection a {
 	display: flex;
 	position: absolute;
+	pointer-events: all;
 	top: 0;
 	width: 25%;
 	height: 100%;
