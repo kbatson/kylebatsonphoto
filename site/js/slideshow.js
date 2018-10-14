@@ -39,6 +39,9 @@ var selectSlide = function(element){ //Get proper index for any selected slide
 
 //** Switch Slides**//
 var switchSlide = function(slideIndex){ //Switch to specified slide
+	if(slideIndex > (numSlides - 1)){
+		slideIndex = 0;
+	}
 	slideshowPosition = eval(0 - $(".slide:eq(" + slideIndex + ")").position().left);
 	$(".slideshowContent").css("left", slideshowPosition);
 	$(".slideControl").each(function(){
@@ -63,12 +66,7 @@ $(document).ready(function(){
 	});
 	
 	$("body").on('click', '.slide', function(){ //Navigate between slides by clicking on the slide itself
-		if(slideIndex < (numSlides -1)){
-			slideIndex = $(this).index() +1;
-		} else {
-			console.log('last slide');
-			slideIndex = 0;
-		}
+		slideIndex = $(this).index() +1;
 		switchSlide(slideIndex);
 	});
 
