@@ -6,3 +6,5 @@ fields:
 - type: datetime
   name: date
   label: Date
+pages:
+- site/_posts/street-photography-vlog-auto-show-in-wichita-ks.md
