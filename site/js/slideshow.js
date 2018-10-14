@@ -1,6 +1,6 @@
 //** Slideshow **//
 var numSlides = 0;
-var slideIndex = "";
+var slideIndex = 0;
 var slideWidth = 0;
 var slideshowPosition = 0;
 var resizeSlides = function(){
@@ -33,7 +33,7 @@ var removeSlideshowControls = function(){
 }
 
 var selectSlide = function(element){ //Get proper index for any selected slide
-	slideIndex = $(element).attr("data-slide");
+	slideIndex = parseInt($(element).attr("data-slide"));
 	switchSlide(slideIndex);
 }
 
@@ -44,7 +44,6 @@ var switchSlide = function(slideIndex){ //Switch to specified slide
 	$(".slideControl").each(function(){
 		$(this).removeClass("active");
 	});
-	console.log('slideIndex', $(".slideControl:eq(" + slideIndex + ")").attr("data-slide"));
 	$(".slideControl:eq(" + slideIndex + ")").addClass("active");
 
 }
@@ -59,18 +58,27 @@ $(document).ready(function(){
 	});
 	
 	$("body").on('click', '.slideControl', function(e){ //Navigate between slides by clicking on slide controls
-		console.log('click');
 		selectSlide($(this));
 		return false;
 	});
 	
 	$("body").on('click', '.slide', function(){ //Navigate between slides by clicking on the slide itself
 		if(slideIndex < (numSlides -1)){
-			slideIndex = $(this).index() + 1;
+			slideIndex = $(this).index() +1;
 		} else {
 			console.log('last slide');
 			slideIndex = 0;
 		}
+		switchSlide(slideIndex);
+	});
+
+	$("body").on('click', '.nextSlide', function(){
+		slideIndex = slideIndex +1;
+		switchSlide(slideIndex);
+	});
+
+	$("body").on('click', '.previousSlide', function(){
+		slideIndex = slideIndex - 1;
 		switchSlide(slideIndex);
 	});
 

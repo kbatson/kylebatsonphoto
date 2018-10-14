@@ -117,6 +117,7 @@ article .content {
 
 .slideshowControls {
     margin-left: calc(20vw + 1rem);
+    width: calc(100% - 20vw - 1rem);
 }
 
 .slide img {
