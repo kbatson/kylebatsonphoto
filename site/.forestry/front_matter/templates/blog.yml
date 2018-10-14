@@ -12,5 +12,6 @@ fields:
   hidden: true
   config:
     required: true
+  default: post
 pages:
 - site/_posts/street-photography-pov-video-auto-show.md
