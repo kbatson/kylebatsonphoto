@@ -112,6 +112,12 @@ photos:
     print: https://gum.co/QzCVF
     shown: true
 
+  - title: Shoe Shiner
+    location: La Paz, Bolivia
+    year: 2014
+    url: "/assets/photos/DSC05055-Exposure.jpg"
+    shown: true
+
   - title: Shopperes on the Street
     location: Philadelphia, Pennsylvania
     year: 2014

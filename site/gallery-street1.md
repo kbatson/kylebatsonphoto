@@ -76,6 +76,18 @@ photos:
     url: "/assets/photos/DSC01990.jpg"
     shown: true
 
+  - title: Bolivian Streets
+    location: La Paz, Bolivia
+    year: 2014
+    url: "/assets/photos/DSC05044.jpg"
+    shown: true
+
+  - title: Inquisitive Passenger
+    location: La Paz, Bolivia
+    year: 2014
+    url: "/assets/photos/DSC05099.jpg"
+    shown: true
+
   - title: Father Cradling Sleeping Son
     caption: A father (face not shown) cradles his sleeping son.
     location: Bangkok, Thailand

@@ -24,6 +24,11 @@ photos:
     url: "/assets/photos/DSC09378.jpg"
     shown: true
 
+  - title: Group of Kids Milling at Riverfest
+    location: Wichita, KS
+    url: "/assets/photos/DSC06241.jpg"
+    shown: true
+
   - title: Crowd in the Petting Area
     year: 2016
     location: Lawrence, KS
