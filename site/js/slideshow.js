@@ -75,11 +75,13 @@ $(document).ready(function(){
 	$("body").on('click', '.nextSlide', function(){
 		slideIndex = slideIndex +1;
 		switchSlide(slideIndex);
+		return false;
 	});
 
 	$("body").on('click', '.previousSlide', function(){
 		slideIndex = slideIndex - 1;
 		switchSlide(slideIndex);
+		return false;
 	});
 
 	$(".slide").swipe({
