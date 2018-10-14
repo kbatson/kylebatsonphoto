@@ -358,6 +358,8 @@ li#instagram a {
 
     .slideshowControls {
     	justify-content: center;
+        margin-left: 0;
+        width: 100%;
     }
 
     .slide figcaption {
