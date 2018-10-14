@@ -16,9 +16,11 @@
 title: Kyle Batson Photo
 email: kyledbatson@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Kyle Batson was born in 1984 and has been practicing street photography 
+  for the last decade. Street photography focuses on unposed, candid moments 
+  in public places. It is a way to document the the time and and the world 
+  that we live in. Kyle uses photography as a way to satisfy his curiosity 
+  about the world and to fix in time brief moments of our shared humanity.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://www.kylebatsonphoto.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kylebatsonphoto
