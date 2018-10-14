@@ -1,7 +1,7 @@
 ---
 title: Street Photography POV Video, Auto Show
 date: 2018-08-08 11:11:46 -0500
-layout: ''
+layout: post
 
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3oHUAa9Eavs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
