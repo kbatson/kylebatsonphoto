@@ -1,6 +1,7 @@
 ---
 title: Street Photography VLOG, Auto Show in Wichita, KS
 date: 2018-08-05 11:07:23 -0500
+layout: ''
 
 ---
     <iframe width="560" height="315" src="https://www.youtube.com/embed/3oHUAa9Eavs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
