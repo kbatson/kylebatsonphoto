@@ -4,7 +4,7 @@ title: Light and Shadow
 photos:
   - title: Buildings in Wichita
     caption: NA
-    location: Wichita, KS
+    location: Wichita, Kansas
     year: 2018
     url: "/assets/photos/L1000287.jpg"
 
@@ -16,17 +16,17 @@ photos:
 
   - title: Row of Chairs Through a Window
     year: 2017
-    location: Lawrence, KS
+    location: Lawrence, Kansas
     url: "/assets/photos/L1040683-Exposure.jpg"
 
   - title: Angles
     caption: NA
-    location: Wichita, KS
+    location: Wichita, Kansas
     url: "/assets/photos/DSC03243.jpg"
 
   - title: Yellow Shadows and Reflections
     caption: NA
-    location: Lawrence, KS
+    location: Lawrence, Kansas
     url: "/assets/photos/L1050914-Exposure.jpg"
 ---
 <p>Introductory text about structures.</p>

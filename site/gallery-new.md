@@ -3,81 +3,81 @@ layout: gallery
 title: New
 photos:
   - title: Shocked Expression?
-    location: SoHo, New York City, NY
+    location: SoHo, New York City, New York
     year: 2018
     url: "/assets/photos/L1020072.jpg"
 
   - title: Sunglasses Raised
-    location: SoHo, New York City, NY
+    location: SoHo, New York City, New York
     year: 2018
     url: "/assets/photos/L1020066.jpg"
 
   - title: Phones out at an Intersection
-    location: SoHo, New York City, NY
+    location: SoHo, New York City, New York
     year: 2018
     url: "/assets/photos/L1020434.jpg"
 
   - title: Sailors in a Row
-    location: New York City, NY
+    location: New York City, New York
     year: 2018
     url: "/assets/photos/L1020278.jpg"
 
   - title: Old Woman Making Faces at a Little Girl
-    location: SoHo, New York City, NY
+    location: SoHo, New York City, New York
     year: 2018
     url: "/assets/photos/L1020243.jpg"
 
   - title: Gathering in Front of a Nike Store
-    location: SoHo, New York City, NY
+    location: SoHo, New York City, New York
     year: 2018
     url: "/assets/photos/L1020180.jpg"
 
   - title: Men Moving Walls
-    location: Union Square, New York City, NY
+    location: Union Square, New York City, New York
     year: 2018
     url: "/assets/photos/L1020154.jpg"
 
   - title: Spring Street
     caption: A man and a woman cross the street wearing glasses. He is wearing white, she is wearing black. He also has reading glasses hanging from the collar of his shirt.
-    location: New York City
+    location: SoHo, New York City, New York
     year: 2018
     url: "/assets/photos/L1020042.jpg"
 
   - title: Street Crosswing with Yellow and Red
     year: 2018
-    location: New York City, NY
+    location: New York City, New York
     url: "/assets/photos/L1080172-Exposure.jpg"
 
   - title: Ice Cream Truck, Midtown
     year: 2018
-    location: New York City, NY
+    location: New York City, New York
     url: "/assets/photos/L1080231-Exposure.jpg"
 
   - title: Hot & Sweet Sausage
     year: 2018
-    location: Corning, NY
+    location: Corning, New York
     url: "/assets/photos/L1080467.jpg"
   
-  - title: Bunny with Ice Cream
+  - title: BunNew York with Ice Cream
     year: 2017
-    location: Lawrence, KS
+    location: Lawrence, Kansas
     url: "/assets/photos/L1010880.jpg"
 
   - title: Bending Nose in Stroller
     caption: Zoo
     year: 2016
-    location: Wichita, KS
+    location: Wichita, Kansas
     url: "/assets/photos/L1010507.jpg"
 
   - title: Kids playing in the fountain
     caption: Riverfest
     year: 2018
-    location: Wichita, KS
+    location: Wichita, Kansas
     url: "/assets/photos/DSC03910.jpg"
 
   - title: Sideways Glance
     year: 2018
-    location: Lawrence, KS
+    location: Lawrence, Kansas
     url: "/assets/photos/DSC02174.jpg"
 
   - title: Street Missouri

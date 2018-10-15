@@ -43,7 +43,7 @@ photos:
 
   - title: Swirling Clouds
     caption: NA
-    location: Lawrence, KS
+    location: Lawrence, Kansas
     year: 2016
     url: "/assets/photos/L1030604.jpg"
 

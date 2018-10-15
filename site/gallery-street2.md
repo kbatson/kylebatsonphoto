@@ -8,7 +8,7 @@ photos:
     url: "/assets/photos/L1010962.jpg"
 
   - title: The Bubble Man
-    location: Lawrence, KS
+    location: Lawrence, Kansas
     year: 2016
     url: "/assets/photos/L1010406-Lightroom.jpg"
     

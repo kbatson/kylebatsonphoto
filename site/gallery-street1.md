@@ -4,17 +4,17 @@ title: Street 1
 photos:
   - title: Mermaid Amongst Children
     caption: A scene of a dozen children playing in a pool of water backlit by the sun. In the forgeround, one of the older girls is dressed in a mermaid costume. The central figure is a young girl smiling.
-    location: Wichita, KS
+    location: Wichita, Kansas
     url: "/assets/photos/DSC05111.jpg"
     print: https://gum.co/kLqJi
     
   - title: Couple Kissing with Stroller
     caption: Outdoors in a city, a couple is kissing. The man has one hand on a stroller with a child inside while yet another child holds on to the other handle of the stroller.
-    location: Wichita, KS
+    location: Wichita, Kansas
     url: "/assets/photos/L1030206.jpg"
 
   - title: I Hate To and You Hate To
-    location: San Francisco, CA
+    location: San Francisco, California
     year: 2016
     url: "/assets/photos/L1007845.jpg"
 
@@ -53,8 +53,8 @@ photos:
     location: Hyderabad, India
     url: "/assets/photos/DSC00563.jpg"
 
-  - title: Boy Looks at Girls
-    caption: A teenage boy looks longingly at a group of three teenage girls who seem not to notice him.
+  - title: Boy LooKansas at Girls
+    caption: A teenage boy looKansas longingly at a group of three teenage girls who seem not to notice him.
     location: Topeka, Kansas
     url: "/assets/photos/DSC01476.jpg"
 
