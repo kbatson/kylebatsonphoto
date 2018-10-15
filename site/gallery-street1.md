@@ -64,6 +64,12 @@ photos:
     year: 2014
     url: "/assets/photos/DSC01990.jpg"
 
+  - title: Eyes closed
+    caption: ''
+    location: Cusco, Peru
+    year: 2014
+    url: "/assets/photos/DSC02066.jpg"
+
   - title: Bolivian Streets
     location: La Paz, Bolivia
     year: 2014
