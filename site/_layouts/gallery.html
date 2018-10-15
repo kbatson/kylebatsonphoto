@@ -12,7 +12,7 @@
 			<div class="slideshowWrapper">
 				<div class="slideshowContent">
 		
-					{% for photo in page.photos %}{% if photo.shown %}
+					{% for photo in page.photos %}{% unless photo.hidden %}
 					<div class="slide">
 						<figure>
 							<img src="{{ photo.url}}" alt="{{ photo.caption }}">
@@ -23,7 +23,7 @@
 							</figcaption>
 						</figure>
 					</div>
-					{% endif %}{% endfor %}
+					{% endunless %}{% endfor %}
 				</div>
 			</div>
 			<nav class="slideshowDirection">
