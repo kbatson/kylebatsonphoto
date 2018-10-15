@@ -366,6 +366,10 @@ li#instagram a {
     	padding: 0 1rem;
     }
 
+    .slide img {
+        max-height: calc(100vh - 3rem);
+    }
+
     li#instagram {
     	background: black;
     	color: white;
