@@ -19,10 +19,12 @@ toc:
       link: /gallery-weddings.html
     - name: Concerts
       link: /gallery-concerts.html
+      hidden: true
     - name: Portraits
       link: /gallery-portraits.html
     - name: Interiors
       link: /gallery-interiors.html
+      hidden: true
   - title: Prints
     link: https://gumroad.com/kylebatson
   - title: Books

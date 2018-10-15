@@ -4,8 +4,8 @@
 				{% for item in site.data.navigation.toc %}<li{% if page.url == item.link %} class="currentPage"{% endif %}>
 					<a href="{% if item.link %}{{ item.link }}{% else %}#{% endif %}">{{ item.title }}</a>
 					{% if item.subfolderitems[0] %}<ul>
-						{% for entry in item.subfolderitems %}
-						<li{% if page.url == entry.link %} class="currentPage"{% endif %}><a href="{{ entry.link }}">{{ entry.name }}</a></li>
+						{% for entry in item.subfolderitems %}{% unless entry.hidden %}
+						<li{% if page.url == entry.link %} class="currentPage"{% endif %}><a href="{{ entry.link }}">{{ entry.name }}</a></li>{% endunless %}
 						{% endfor %}
 					</ul>{% endif %}
 				</li>
