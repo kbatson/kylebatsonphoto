@@ -13,6 +13,12 @@ photos:
     location: Wichita, Kansas
     url: "/assets/photos/L1030206.jpg"
 
+  - title: Bending Nose in Stroller
+    caption: Zoo
+    year: 2016
+    location: Wichita, Kansas
+    url: "/assets/photos/L1010507.jpg"
+
   - title: I Hate To and You Hate To
     location: San Francisco, California
     year: 2016
@@ -23,7 +29,7 @@ photos:
     year: 2015
     url: "/assets/photos/img252.jpg"
 
-  - title: Cafe with a Blonde WOman
+  - title: Cafe with a Blonde Woman
     location: Istanbul, Turkey
     year: 2015
     url: "/assets/photos/DSC07456.jpg"
@@ -116,4 +122,3 @@ photos:
     location: Hutchinson, Kansas
     url: "/assets/photos/DSC04235.jpg"
 ---
-<p>Introductory text about street photography.</p>

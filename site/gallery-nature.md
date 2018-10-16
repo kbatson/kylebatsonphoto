@@ -72,4 +72,3 @@ photos:
     year: 2014
     url: "/assets/photos/DSC04793.jpg"
 ---
-<p>Introductory text about nature photography.</p>

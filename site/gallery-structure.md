@@ -29,4 +29,3 @@ photos:
     location: Lawrence, Kansas
     url: "/assets/photos/L1050914-Exposure.jpg"
 ---
-<p>Introductory text about structures.</p>

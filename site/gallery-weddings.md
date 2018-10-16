@@ -29,4 +29,3 @@ photos:
     location: Wichita, KS
     url: "/assets/photos/DSC09030-Exposure.jpg"
 ---
-<p>Festivals, Fairs, and Parades</p>

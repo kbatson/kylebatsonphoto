@@ -59,4 +59,3 @@ photos:
     year: 2014
     url: "/assets/photos/DSC02940.jpg"
 ---
-<p>Introductory text about travel photography.</p>

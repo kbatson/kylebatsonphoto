@@ -40,4 +40,3 @@ photos:
     location: Wichita, Kansas
     url: "/assets/photos/DSC03910.jpg"
 ---
-<p>Festivals, Fairs, and Parades</p>

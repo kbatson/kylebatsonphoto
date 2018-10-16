@@ -39,4 +39,3 @@ photos:
     caption: ''
     url: "/assets/photos/DSC00405-Provia.jpg"
 ---
-<p>Festivals, Fairs, and Parades</p>

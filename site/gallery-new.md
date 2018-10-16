@@ -57,17 +57,6 @@ photos:
     year: 2018
     location: Corning, New York
     url: "/assets/photos/L1080467.jpg"
-  
-  - title: BunNew York with Ice Cream
-    year: 2017
-    location: Lawrence, Kansas
-    url: "/assets/photos/L1010880.jpg"
-
-  - title: Bending Nose in Stroller
-    caption: Zoo
-    year: 2016
-    location: Wichita, Kansas
-    url: "/assets/photos/L1010507.jpg"
 
   - title: Kids playing in the fountain
     caption: Riverfest
@@ -92,4 +81,4 @@ photos:
     year: 2018
     url: "/assets/photos/DSC03065.jpg"
 ---
-<p>Latest photos</p>
+<p>These are some of the most recent photos I have taken over the past six months or so.</p>
