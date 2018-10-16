@@ -263,7 +263,6 @@ li#instagram a {
     }
 
     header h1 {
-    	width: 80vw;
     	text-align: center;
     	margin: 0 3rem 0 3rem;
     	font-size: 3vw;
@@ -273,7 +272,8 @@ li#instagram a {
 
     header h1 span {
     	float: none;
-    	padding: 0 .3rem;
+    	padding: 0;
+        display: inline;
     }
 
     main {
