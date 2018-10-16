@@ -11,6 +11,36 @@
                 {{ content }}
             </div>
         </article>
+        <div class="slideshow">
+            <div class="slideshowWrapper">
+                <div class="slideshowContent">
+        
+                    {% for photo in page.photos %}{% unless photo.hidden %}
+                    <div class="slide">
+                        <figure>
+                            <img src="{{ photo.url}}" alt="{{ photo.caption }}">
+                            <figcaption>
+                                <span class="title">{{ photo.title }}</span>
+                                <span class="locationYear">{{ photo.location }}</span>
+                                {% if photo.print %}<a href="{{ photo.print }}" class="button buyPrint">Buy a Print</a>{% endif %}
+                            </figcaption>
+                        </figure>
+                    </div>
+                    {% endunless %}{% endfor %}
+                </div>
+            </div>
+            <nav class="slideshowDirection">
+                <a href="#" class="previousSlide" title="Previous Slide">
+                    <span>Previous Slide</span>
+                </a>
+                <a href="#" class="nextSlide" title="Next Slide">
+                    <span>Next Slide</span>
+                </a>
+            </nav>
+            <nav class="slideshowControls">
+                
+            </nav>
+        </div>
     </main>
     
 {% include footer.html %}
