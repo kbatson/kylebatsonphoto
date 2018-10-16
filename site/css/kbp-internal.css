@@ -68,6 +68,15 @@ article .content {
     grid-column: 2 / span 2;
 }
 
+.blog .content img {
+    width: calc(100vw - 14rem - 20vw);
+}
+
+.blog .slideshow {
+    grid-column: 2 / span 2;
+    width: calc(100vw - 14rem - 20vw);
+}
+
 .blogPost {
     grid-column: 1 / span 2;
     display: grid;
