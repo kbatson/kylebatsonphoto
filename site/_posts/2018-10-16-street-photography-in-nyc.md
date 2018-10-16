@@ -36,7 +36,7 @@ photos:
   url: "/assets/photos/L1020042.jpg"
 
 ---
-![](/assets/photos/L1020072.jpg)
+![A woman appears to have a shocked expression as two women nearly kiss](/assets/photos/L1020072.jpg "Shocked expression? SoHo, NYC")
 
 A week ago, I had the opportunity to spend some time in New York City. There's an energy on the streets, as well as a particular aesthetic that's hard to replicate anywhere else in the world. As I am a native Kansan, getting to New York is a special opportunity to be able to shoot on the same streets as Garry Winogrand, Robert Frank, Sail Leiter and other legends of the medium.
 
