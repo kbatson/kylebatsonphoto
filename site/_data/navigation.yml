@@ -37,6 +37,5 @@ toc:
     link: /about.html
   - title: Blog
     link: /blog.html
-    hidden: true
   - title: Contact
     link: /contact.html
