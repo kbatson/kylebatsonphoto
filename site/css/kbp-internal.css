@@ -308,6 +308,15 @@ li#instagram a {
         padding: 0 1rem;
     }
 
+    .blog .content img {
+        width: 100vw;
+        margin-left: -1rem;
+    }
+
+    .blog .slideshow {
+        width: 100vw;
+    }
+
     .blogPost {
         display: grid;
         grid-template-columns: auto;
