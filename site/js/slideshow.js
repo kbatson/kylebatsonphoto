@@ -5,7 +5,6 @@ var slideWidth = 0;
 var slideshowPosition = 0;
 var resizeSlides = function(){
 	slideWidth = $(".slideshow").width();
-	console.log('slideWidth', slideWidth);
 	//$(".slideshow").width(slideWidth);
 	$(".slideshow .slide").width(slideWidth);
 	setSlideshowDimensions();
@@ -39,16 +38,23 @@ var selectSlide = function(element){ //Get proper index for any selected slide
 
 //** Switch Slides**//
 var switchSlide = function(slideIndex){ //Switch to specified slide
-	if(slideIndex > (numSlides - 1)){
+	console.log('slideIndex', slideIndex, 'numSlides', numSlides);
+	if(slideIndex == numSlides){
+		console.log('in condition?')
 		slideIndex = 0;
+		console.log('after set to 0', slideIndex);
 	}
 	slideshowPosition = eval(0 - $(".slide:eq(" + slideIndex + ")").position().left);
+	
+	$(".slide").removeClass("activeSlide");
+	$(".slide:eq(" + slideIndex + ")").addClass("activeSlide");
+	
 	$(".slideshowContent").css("left", slideshowPosition);
 	$(".slideControl").each(function(){
 		$(this).removeClass("active");
 	});
 	$(".slideControl:eq(" + slideIndex + ")").addClass("active");
-
+	console.log('checking slideIndex before return', slideIndex);
 }
 
 $(document).ready(function(){
@@ -68,16 +74,17 @@ $(document).ready(function(){
 	$("body").on('click', '.slide', function(){ //Navigate between slides by clicking on the slide itself
 		slideIndex = $(this).index() +1;
 		switchSlide(slideIndex);
+		return false;
 	});
 
 	$("body").on('click', '.nextSlide', function(){
-		slideIndex = slideIndex +1;
+		slideIndex = $(".activeSlide").index() +1;
 		switchSlide(slideIndex);
 		return false;
 	});
 
 	$("body").on('click', '.previousSlide', function(){
-		slideIndex = slideIndex - 1;
+		slideIndex = $(".activeSlide").index() -1;
 		switchSlide(slideIndex);
 		return false;
 	});
