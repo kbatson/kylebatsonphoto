@@ -26,6 +26,9 @@
 	{% if page.url == "/" %}
 	<link rel="stylesheet" href="/js/vegas/vegas.css">
 	<script src="/js/vegas/vegas.min.js"></script>{% endif %}
+	{% if page.url contains 'blog/' %}
+	<script async src="https://just-comments.com/w.js"></script>
+	{% endif %}
 </head>
 <body{% if page.url == "/" %}{% endif %}>
 	<header>
