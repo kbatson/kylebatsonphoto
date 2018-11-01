@@ -3,10 +3,6 @@ title: Trunk or Treat
 layout: post
 date: 2018-11-01 00:00:00 +0000
 photos:
-- title: Reaching in the bucket
-  location: Lawrence, KS
-  year: 2018
-  url: "/assets/photos/IMG_5932.JPG"
 - title: Face painting
   location: Lawrence, KS
   year: 2018
@@ -45,4 +41,4 @@ photos:
   url: "/assets/photos/IMG_5935.JPG"
 
 ---
-I was honored to be asked to photograph the annual Pinckney Neighborhood Trunk or Treat event in Lawrence, KS this year. Kids are always a treat to photograph, and especially so when they are dressed up in adorable costumes.
+![A girl in an "I love the 80s" costume looks away while reaching into a bucket of toys while other costumed children look on.](/assets/photos/IMG_5932.JPG "Reaching in the bucket")I was honored to be asked to photograph the annual Pinckney Neighborhood Trunk or Treat event in Lawrence, KS this year. Kids are always a treat to photograph, and especially so when they are dressed up in adorable costumes.
