@@ -29,4 +29,15 @@ $(document).ready(function(){
 			$("header nav>ul").slideUp("fast");
 		}
 	});
+
+	function identifyVertical(){
+        $(".slideshow img").each(function(){
+        	console.log($(this).attr("src"));
+            if($(this).height() > $(this).width()){
+                $(this).parent().addClass("vertical")
+            }
+        });
+    }
+
+    identifyVertical();
 });

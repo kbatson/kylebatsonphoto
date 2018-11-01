@@ -1,3 +1,9 @@
+---
+---
+@import "kbp-global";
+@import "slideshow";
+@import "modal";
+
 body {
 	display: grid;
 	width: 100vw;
@@ -136,8 +142,36 @@ article .content {
     width: calc(100% - 20vw - 1rem);
 }
 
+.slide .vertical {
+    margin-left: calc(20vw + 1rem);
+}
+
 .slide img {
     max-height: 75vh;
+}
+
+#overlay .slideshow {
+    width: 100vw;
+    height: 100vh;
+    max-height: unset;
+}
+
+#overlay .slide {
+    text-align: center;
+
+    figure {
+        margin: 0 auto;
+
+        img {
+            // max-height: 75vh;
+        }
+    }
+}
+
+#overlay .slideshowControls {
+    justify-content: center;
+    margin: 0;
+    width: auto;
 }
 
 figure {
@@ -382,6 +416,10 @@ li#instagram a {
     	margin: 0;
     }
 
+    .slideshow #enlarge {
+        display: none;
+    }
+
     .slideshowControls {
     	justify-content: center;
         margin-left: 0;
@@ -394,6 +432,10 @@ li#instagram a {
 
     .slide img {
         max-height: calc(100vh - 3rem);
+    }
+
+    .slide .vertical {
+        margin-left: 0;
     }
 
     li#instagram {
