@@ -8,7 +8,7 @@ photos:
     url: "/assets/photos/DSC00948-highres.jpg"
 
   - title: Traditional Mexican Dancers
-    caption: Women and men in traditional Mexican dress perform a dance at the Fiesta Mexicana event in Topeka, Kansas. The central figure is a young woman raising the edge of her dress into the air with one hand while holding a fan in the other. The rays of the setting sun highlight her.
+    caption: Women in traditional Mexican dress perform a dance at the Fiesta Mexicana event in Topeka, Kansas. The central figure is a young woman raising the edge of her dress into the air with one hand while holding a fan in the other. The rays of the setting sun highlight her.
     location: Topeka, Kansas
     url: "/assets/photos/DSC05062-highres.jpg"
 
