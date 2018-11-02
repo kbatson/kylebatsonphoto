@@ -33,7 +33,7 @@ $(document).ready(function(){
 	function identifyVertical(){
         $(".slideshow img").each(function(){
         	console.log($(this).attr("src"));
-            if($(this).height() > $(this).width()){
+            if($(this).height() >= $(this).width()){
                 $(this).parent().addClass("vertical")
             }
         });
