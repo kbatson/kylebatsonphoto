@@ -61,7 +61,12 @@
     }
 
     &:hover {
-        background: gray;
+        background: #ffffff;
+        color: #000000;
+
+        &:before {
+            color: #000000;
+        }
     }
 }
 
@@ -97,6 +102,11 @@
     }
 
     &:hover {
-        background: gray;
+        background: #ffffff;
+        color: #000000;
+
+        &:before {
+            color: #000000;
+        }
     }
 }
