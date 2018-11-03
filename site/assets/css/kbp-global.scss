@@ -79,7 +79,8 @@ header nav li a {
 	color: #000000;
 	text-decoration: none;
 	padding-left: .5em;
-	padding-right: 1em;
+	padding-right: 1.5em;
+	white-space: nowrap;
 /* 	transition: all .5s; */
 }
 
@@ -105,7 +106,7 @@ header nav li ul li a {
 	display: inline-block;
 	padding-top: .5em;
 	padding-bottom: .5em;
-	padding-right: 2rem;
+	padding-right: 3rem;
 }
 
 header nav li.hasChildren > a:after {
@@ -143,7 +144,7 @@ li#instagram a {
 	width: 100%;
 	padding: .5rem;
 	box-sizing: border-box;
-	background-image: url(../assets/images/instagram.svg);
+	background-image: url(/assets/images/instagram.svg);
 	filter: brightness(0);
 	background-repeat: no-repeat;
 	background-size: 25px 25px;

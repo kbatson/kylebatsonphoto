@@ -1,3 +1,9 @@
+---
+---
+@import "kbp-global";
+@import "slideshow";
+@import "modal";
+
 body {
 	display: grid;
 	width: 100vw;
@@ -23,12 +29,13 @@ header nav {
 	clear: left;
 }
 
-header nav ul ul {
-	padding-left: 1rem;
+header nav ul {
+    padding-left: 0;
 }
 
 header nav li a {
 	padding-right: .5rem;
+    padding-left: 2.5rem;
 }
 
 header nav li ul li {
@@ -38,6 +45,7 @@ header nav li ul li {
 header nav li ul li a {
 	padding-top: 0;
 	padding-bottom: 0;
+    padding-left: 3.5rem;
 }
 
 /*grid-template-columns: minmax(5rem, auto) auto;*/
@@ -136,8 +144,57 @@ article .content {
     width: calc(100% - 20vw - 1rem);
 }
 
+.slide .vertical {
+    margin-left: calc(20vw + 1rem);
+}
+
 .slide img {
     max-height: 75vh;
+}
+
+.slideshow #enlarge {
+    border-radius: 0;
+}
+
+#overlay .slideshow {
+    width: 100vw;
+    height: 100vh;
+    max-height: unset;
+}
+
+#overlay .slide {
+    text-align: center;
+
+    figure {
+        margin: 0 auto;
+
+        img {
+            max-width: 100%;
+        }
+    }
+}
+
+#overlay .slideshowControls {
+    justify-content: center;
+    margin: 0;
+    width: auto;
+}
+
+#overlay #closeModal {
+    padding: 0 2rem 0 .5rem;
+    width: auto;
+    top: 0;
+    right: 0;
+    border-radius: 0;
+
+    span {
+        margin: 0;
+    }
+
+    &:before {
+        left: auto;
+        right: .5rem;
+    }
 }
 
 figure {
@@ -382,6 +439,10 @@ li#instagram a {
     	margin: 0;
     }
 
+    .slideshow #enlarge {
+        display: none;
+    }
+
     .slideshowControls {
     	justify-content: center;
         margin-left: 0;
@@ -394,6 +455,10 @@ li#instagram a {
 
     .slide img {
         max-height: calc(100vh - 3rem);
+    }
+
+    .slide .vertical {
+        margin-left: 0;
     }
 
     li#instagram {

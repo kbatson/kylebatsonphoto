@@ -26,6 +26,8 @@ url: "http://www.kylebatsonphoto.com" # the base hostname & protocol for your si
 twitter_username: kylebatsonphoto
 github_username:  kbatson
 permalink: /blog/:year/:month/:day/:title:output_ext
+sass:
+    sass_dir: assets/css
 
 # Build settings
 markdown: kramdown

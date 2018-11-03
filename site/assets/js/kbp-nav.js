@@ -29,4 +29,14 @@ $(document).ready(function(){
 			$("header nav>ul").slideUp("fast");
 		}
 	});
+
+	function identifyVertical(){
+        $(".slideshow img").each(function(){
+            if($(this).height() >= $(this).width()){
+                $(this).parent().addClass("vertical")
+            }
+        });
+    }
+
+    identifyVertical();
 });

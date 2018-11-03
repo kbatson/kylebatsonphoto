@@ -9,7 +9,6 @@ photos:
     The rays of the setting sun highlight her.
   location: Topeka, Kansas
   url: "/assets/photos/DSC05062.jpg"
-  print: ''
   year: 2018
 - title: Shocked Expression?
   location: SoHo, New York City, New York

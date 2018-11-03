@@ -1,3 +1,7 @@
+---
+---
+@import "kbp-global";
+
 body {
 	/*background: url(../photos/street/DSC03065.jpg) no-repeat center center fixed;*/
 	/*background-repeat: no-repeat;
@@ -9,27 +13,6 @@ body {
 	background-size: cover;
 	transition: background-image .5s;
 	min-height: 100vh;*/
-}
-
-body:before {
-	position: absolute;
-	display: none;
-	top: 50vh;
-	left: 50vw;
-	content: "";
-	height: 50px;
-	width: 50px;
-	background: url("../assets/images/kb-loading.svg");
-	opacity: .5;
-	z-index: -1;
-
-    -webkit-animation:spin 1s linear infinite;
-    -moz-animation:spin 1s linear infinite;
-    animation:spin 1s linear infinite;
-}
-
-body.loading:before {
-	display: block;
 }
 	
 @-moz-keyframes spin {
@@ -69,7 +52,7 @@ header nav ul {
 }
 
 header nav li.hasChildren > a {
-	margin-right: -1.5rem;
+	padding-right: 1.5rem;
 }
 
 #imageLoader {
