@@ -29,7 +29,9 @@ $(document).ready(function(){
 			$("header nav>ul").slideUp("fast");
 		}
 	});
+});
 
+$(window).load(function(){
 	function identifyVertical(){
         $(".slideshow img").each(function(){
             if($(this).height() >= $(this).width()){
