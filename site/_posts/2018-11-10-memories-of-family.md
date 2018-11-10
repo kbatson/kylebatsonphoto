@@ -1,8 +1,12 @@
 ---
 title: Memories of Family
 layout: post
-date: 2018-11-10 11:44:10 -0600
+date: 2018-11-10 17:44:10 +0000
 photos:
+- title: Mom and my sister discuss playing outside
+  location: Wichita, Kansas
+  year: 2014
+  url: "/assets/photos/DSC01481.jpg"
 - title: Mom paints the porch while my sister supervises
   location: Wichita, Kansas
   year: 2014
@@ -31,10 +35,6 @@ photos:
   location: Wichita, Kansas
   year: 2014
   url: "/assets/photos/L1000922.jpg"
-- title: Bekah turns to look at me while playing on the porch
-  location: Wichita, Kansas
-  year: 2014
-  url: "/assets/photos/L1000934.jpg"
 - title: Mom makes breakfast in her bathrobe
   location: Wichita, Kansas
   year: 2014
@@ -45,7 +45,7 @@ photos:
   title: Mom sits on the porch look out into the distance
 
 ---
-![Mom and my sister discuss playing outside](/assets/photos/DSC01481.jpg "Mom and my sister discuss playing outside")
+![v](/assets/photos/L1000934.jpg "Bekah turns to look at me while playing on the porch")
 
 Looking across some old photos led me to ponder on the nature of photographs and why we take them. Despite the artistic endeavor, it has always been for me about memory. Looking through these old photos of four years ago helped me to remember and cherish the memories of experiences the past. I am very grateful I took them.
 
