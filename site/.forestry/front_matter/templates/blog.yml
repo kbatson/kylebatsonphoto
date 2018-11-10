@@ -32,6 +32,7 @@ fields:
     name: url
     label: URL
 pages:
+- site/_posts/memories-of-family.md
 - site/_posts/2018-11-01-trunk-or-treat.md
 - site/_posts/2015-05-23-sony-fe-28mm-f-2-0-lens-review.md
 - site/_posts/2018-08-08-street-photography-pov-video-auto-show.md
