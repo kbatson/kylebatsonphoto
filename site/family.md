@@ -1,7 +1,6 @@
 ---
 title: Family
-layout: post
-date: 2018-11-11 12:02
+layout: gallery
 photos:
 - title: Mom paints the porch while Rebekah leans over the railing
   location: Wichita, Kansas
@@ -75,6 +74,4 @@ photos:
   location: Wichita, Kansas
   url: "/assets/photos/DSC01590.jpg"
   year: 2014
-published: false
-
 ---
