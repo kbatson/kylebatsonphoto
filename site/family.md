@@ -74,4 +74,6 @@ photos:
   location: Wichita, Kansas
   url: "/assets/photos/DSC01590.jpg"
   year: 2014
+date: ''
+
 ---

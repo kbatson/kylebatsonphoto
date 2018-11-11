@@ -25,3 +25,5 @@ fields:
   - type: file
     name: url
     label: URL
+pages:
+- site/family.md
