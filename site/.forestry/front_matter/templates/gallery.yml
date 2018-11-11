@@ -1,0 +1,27 @@
+---
+label: Gallery
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: layout
+  label: Layout
+  default: gallery
+  config:
+    required: true
+- type: field_group_list
+  name: photos
+  label: Photos
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: text
+    name: location
+    label: Location
+  - type: text
+    name: year
+    label: Year
+  - type: file
+    name: url
+    label: URL
