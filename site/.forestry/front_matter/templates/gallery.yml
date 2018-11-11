@@ -9,6 +9,7 @@ fields:
   default: gallery
   config:
     required: true
+  hidden: true
 - type: field_group_list
   name: photos
   label: Photos
