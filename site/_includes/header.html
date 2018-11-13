@@ -29,7 +29,8 @@
 	<script async src="https://just-comments.com/w.js"></script>
 	{% endif %}
 </head>
-<body{% if page.url == "/" %}{% endif %}>
+<body>
+{% if page.url != "/" %}<a href="#main" class="at-only">Skip to main content</a>{% endif %}
 	<header>
 		<h1><a href="/"><span>Kyle </span><span>Batson </span><span>Photo</span></a></h1>
 		{% include navigation.html %}

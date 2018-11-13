@@ -1,4 +1,5 @@
-<nav>
+<nav aria-labeledby="mainNavTitle">
+		<h4 class="at-only" id="mainNavTitle">Main Navigation</h4>
 		<a href="#" id="navToggle">Menu</a>
 			<ul>
 				{% for item in site.data.navigation.toc %}{% unless item.hidden %}<li{% if page.url == item.link %} class="currentPage"{% endif %}>

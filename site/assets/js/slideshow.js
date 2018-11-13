@@ -14,26 +14,22 @@ function initializeSlideshow(additional){
 }
 
 function generateControls(){
-	$(".slideshow").each(function(i){
-		if(numSlides[i] > 1){
-			for(var j = 0; j < numSlides[i]; j++){
-				if(j == 0){
-					$(this).find(".slideshowControls").append("<a href='#' class='slideControl active' data-slide='" + j + "'>Slide " + 1 + "</a>");
-				} else {
-					$(this).find(".slideshowControls").append("<a href='#' class='slideControl' data-slide='" + j + "'>Slide " + eval(j+1) + "</a>");
-				}
-			}
-		}	
+	$(".slideshow").each(function(){
+		var controls = $(this).find(".slideshowControls");
+		$(this).find(".slide").each(function(j){
+			var caption = $(this).find("figcaption").text();
+			var image = $(this).find("img").clone();
+			$(controls).append("<a href='#' class='slideControl' data-slide='" + j + "' title='" + caption + "'>Slide " + eval(j+1) + "</a>");
+			// $(controls).append("<a href='#' class='slideControl' data-slide='" + j + "' title='" + caption + "'></a>");
+			// $(controls).find("a:eq(" + j + ")").append(image);
+		});
 	})
 }
 
 function resizeSlides(){
-	console.log('resizeSlides');
 	$(".slideshow").each(function(i){
-		// $(this).find(".slide").width("auto"); //Reset width to get default size
-		slideshowWidth[i] = $(this).width();
-		$(this).find(".slide").width(slideshowWidth[i]);
-		$(this).find(".slideshowContent").width(slideshowWidth[i] * numSlides[i]);
+		$(this).find(".slideshowContent").width($(this).width() * numSlides[i]);
+		$(this).find(".slide").width($(this).width());
 		switchSlides(i, activeSlide[i], false);
 	});
 }
@@ -71,10 +67,6 @@ $(document).ready(function(){
 	generateControls();
 	resizeSlides();
 
-	$("body").on("click", ".slide", function(){
-		slideDirection(slideshowIndex(this), "next");
-	});
-
 	$("body").on("click", ".nextSlide, .previousSlide", function(){
 		if($(this).hasClass("nextSlide")){
 			slideDirection(slideshowIndex(this), "next");
@@ -93,6 +85,21 @@ $(document).ready(function(){
 	$(window).on('resize', function(){ //Ensure dimensions are updated if window is resized
 		resizeSlides();
 	});
+
+	$(document).keyup(function(e) {
+		console.log('key', e.keyCode);
+		if (e.keyCode == 37) { // Left arrow
+			$(".slideshow").each(function(i){
+				slideDirection(i, "prev");
+			});
+		}
+		if (e.keyCode == 39) { // Right arrow
+			$(".slideshow").each(function(i){
+				slideDirection(i, "next");
+			});
+		}
+	});
+    
 
 	$(".slide").swipe({
         //Generic swipe handler for all directions

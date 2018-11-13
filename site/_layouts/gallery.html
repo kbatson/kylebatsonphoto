@@ -1,6 +1,6 @@
 {% include header.html %}
 	
-	<main class="gallery">
+	<main id="main" class="gallery">
 		<article>
 			<h1>{{ page.title }}</h1>
 			<div class="content">
@@ -33,8 +33,8 @@
 					<span>Next Slide</span>
 				</a>
 			</nav>
-			<nav class="slideshowControls">
-				
+			<nav class="slideshowControls" aria-labeledby="slideshowNavTitle">
+				<h4 class="at-only" id="slideshowNavTitle">Slideshow Navigation</h4>
 			</nav>
 			<button id="enlarge">Enlarge</button>
 		</div>
