@@ -7,18 +7,20 @@ $(document).ready(function(){
 	})
 
 	/* Expand menu */
-	$("header nav>ul>li.hasChildren>a").on("click", function(){
-		$("header nav>ul>li.hasChildren ul").slideUp("fast").parent('li').removeClass("expanded");
+	$("header nav>ul>li.hasChildren>.menuItem").on("click", function(){
+		$("header nav>ul>li.hasChildren ul").slideUp("fast").attr("aria-hidden", true).parent('li').removeClass("expanded");
 		if($(this).siblings('ul').is(":hidden")){
-			$(this).siblings('ul').slideDown("fast").parent('li').addClass('expanded');
+			$(this).siblings('ul').slideDown("fast").attr("aria-hidden", false).parent('li').addClass('expanded');
+			$(this).focus();
+			$(document).activeElement;
 		} else {
-			$(this).siblings('ul').slideUp("fast").parent('li').removeClass('expanded');
+			$(this).siblings('ul').slideUp("fast").attr("aria-hidden", true).parent('li').removeClass('expanded');
 		}
 		return false;
 	});
 
 	/* Expand current menu on page load */
-	$("header nav>ul>li.hasChildren .currentPage").parent("ul").slideDown("fast").parent('li').addClass('expanded');
+	$("header nav>ul>li.hasChildren .currentPage").parent("ul").slideDown("fast").attr("aria-hidden", false).parent('li').addClass('expanded');
 
 	/* Show responsive menu */
 	$("#navToggle").on('click', function(){

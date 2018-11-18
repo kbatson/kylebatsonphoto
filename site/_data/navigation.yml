@@ -10,8 +10,10 @@ toc:
       link: /gallery-street1.html
     - name: Street Color
       link: /gallery-street2.html
-    - name: Light & Shadow
-      link: /gallery-structure.html
+    - name: Urban Structure
+      link: /gallery-urbanstructure.html
+    - name: Light & Color
+      link: /gallery-lightandcolor.html
     - name: Nature
       link: /gallery-nature.html
     - name: Travel

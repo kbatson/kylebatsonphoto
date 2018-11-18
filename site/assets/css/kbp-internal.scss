@@ -33,7 +33,7 @@ header nav ul {
     padding-left: 0;
 }
 
-header nav li a {
+header nav li .menuItem {
 	padding-right: .5rem;
     padding-left: 2.5rem;
 }
@@ -42,7 +42,7 @@ header nav li ul li {
 	font-size: 1em;
 }
 
-header nav li ul li a {
+header nav li ul li .menuItem {
 	padding-top: 0;
 	padding-bottom: 0;
     padding-left: 3.5rem;

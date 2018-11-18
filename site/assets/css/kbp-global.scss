@@ -84,22 +84,23 @@ header nav li {
 	position: relative;
 }
 
-header nav li a {
+header nav li .menuItem {
 	background: #ffffff;
 	color: #000000;
 	text-decoration: none;
-	padding-left: .5em;
-	padding-right: 1.5em;
+	padding: 0 1.5em 0 .5em;
 	white-space: nowrap;
+	font-weight: 600;
+	text-transform: uppercase;
 /* 	transition: all .5s; */
 }
 
-header nav li a:hover, header nav li.currentPage a {
+header nav li .menuItem:hover, header nav li.currentPage .menuItem {
 	background: #000000;
 	color: #ffffff;
 }
 
-header nav li a:hover:after {
+header nav li .menuItem:hover:after {
 	color: #ffffff;
 }
 
@@ -112,19 +113,19 @@ header nav li ul li {
 	font-size: .5em;
 }
 
-header nav li ul li a {
+header nav li ul li .menuItem {
 	display: inline-block;
 	padding-top: .5em;
 	padding-bottom: .5em;
 	padding-right: 3rem;
 }
 
-header nav li.hasChildren > a:after {
+header nav li.hasChildren > .menuItem:after {
 	content: " +";
 	font-weight: 400;
 }
 
-header nav li.hasChildren.expanded > a:after {
+header nav li.hasChildren.expanded > .menuItem:after {
 	content: " -";
 }
 
