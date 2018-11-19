@@ -6,7 +6,7 @@ photos:
   caption: NA
   location: Kansas
   url: "/assets/photos/Scan-120930-0035.jpg"
-- title: Urban Pyramics
+- title: Urban Pyramids
   caption: NA
   location: Lawrence, Kansas
   url: "/assets/photos/img818+-+Version+2.jpg"
@@ -46,5 +46,12 @@ photos:
 - title: Reservoir barrier
   url: "/assets/photos/P1010537-Edit.jpg"
   location: Rural Washington
+- title: Taped broken window
+  location: Park City, Kansas
+  url: "/assets/photos/01-004.jpg"
+- title: Reflections on a car
+  location: Chennai, India
+  year: 2014
+  url: "/assets/photos/DSC09387-Exposure-2.jpg"
 
 ---
