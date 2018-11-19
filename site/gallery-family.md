@@ -2,6 +2,10 @@
 title: Family
 layout: gallery
 photos:
+- title: Family gathers on the porch
+  location: Wichita, Kansas
+  year: ''
+  url: "/assets/photos/PB220214.jpg"
 - title: A young Rebekah peeks around a corner into the light
   location: Wichita, Kansas
   year: ''
