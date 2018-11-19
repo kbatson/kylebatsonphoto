@@ -140,15 +140,8 @@ article .content {
 }
 
 .slideshowControls {
-    width: 100%;
-    display: block;
-    text-align: right;
-}
-
-.slideControl {
-    display: inline-block;
-    text-indent: 999em;
-    overflow: hidden;
+    margin-left: calc(20vw + 1rem);
+    width: calc(100% - 20vw - 1rem);
 }
 
 .slide .vertical {
@@ -182,7 +175,7 @@ article .content {
 }
 
 #overlay .slideshowControls {
-    text-align: center;
+    justify-content: center;
     margin: 0;
     width: auto;
 }
