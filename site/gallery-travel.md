@@ -51,9 +51,5 @@ photos:
   caption: TBD
   year: 2014
   url: "/assets/photos/DSC02940.jpg"
-- title: Sunset over the bay
-  location: Rio de Janiero, Brazil
-  year: 2016
-  url: "/assets/photos/L1010699.jpg"
 
 ---
