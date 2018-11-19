@@ -2,6 +2,10 @@
 title: Family
 layout: gallery
 photos:
+- title: A young Rebekah peeks around a corner into the light
+  location: Wichita, Kansas
+  year: ''
+  url: "/assets/photos/PB220112.jpg"
 - title: Mom paints the porch while Rebekah leans over the railing
   location: Wichita, Kansas
   year: 2014

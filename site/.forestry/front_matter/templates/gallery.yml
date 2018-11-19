@@ -27,6 +27,7 @@ fields:
     name: url
     label: URL
 pages:
+- site/gallery-family.md
 - site/gallery-weddings.md
 - site/gallery-urbanstructure.md
 - site/gallery-travel.md
@@ -37,4 +38,3 @@ pages:
 - site/gallery-nature.md
 - site/gallery-lightandcolor.md
 - site/gallery-festivals.md
-- site/gallery-family.md
