@@ -48,5 +48,13 @@ photos:
 - title: Fluorescent and Metal
   location: San Francisco, California
   url: "/assets/photos/L1010368.jpg"
+- location: São Paolo
+  year: 2016
+  url: "/assets/photos/L1000840-Exposure.jpg"
+  title: Radio tower in fog
+- title: Cushion on chair
+  location: New York City, New York
+  year: 2018
+  url: "/assets/photos/L1080311.jpg"
 
 ---
