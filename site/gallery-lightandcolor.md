@@ -39,5 +39,12 @@ photos:
 - title: Plastic Fire
   location: Lawrence, Kansas
   url: "/assets/photos/L1000119-Exposure.jpg"
+- title: Peaking into a storefront
+  year: 2015
+  url: "/assets/photos/DSC08880-1.jpg"
+  location: Istanbul, Turkey
+- title: Reservoir barrier
+  url: "/assets/photos/P1010537-Edit.jpg"
+  location: Rural Washington
 
 ---
