@@ -30,7 +30,7 @@ photos:
   location: San Francisco, California
   year: 2016
   url: "/assets/photos/L1007845.jpg"
-- title: Children amongst the crows
+- title: Children Amongst the Crowd
   location: Topeka, Kansas
   url: "/assets/photos/P7100049-1.jpg"
 - title: Neck Brace and Others
@@ -49,12 +49,12 @@ photos:
   location: Istanbul, Turkey
   year: 2015
   url: "/assets/photos/DSCF3408.jpg"
-- title: Trio on a bench
+- title: Trio on a Bench
   caption: A man and two women share a bench in a park. The man has white hair and
     stares wearily at the camera.
   location: Rio de Janiero, Brazil
   url: "/assets/photos/L1030399.jpg"
-- title: Men dancing in Hyderabad
+- title: Men Dancing in Hyderabad
   caption: A group of young men are seen dancing and jumping in the air surrounded
     by drummers.
   location: Hyderabad, India
@@ -64,7 +64,7 @@ photos:
     scooter driving through the busy streets of Hyderabad.
   location: Hyderabad, India
   url: "/assets/photos/DSC00563.jpg"
-- title: Boy LooKansas at Girls
+- title: Boy Looks at Girls
   caption: A teenage boy looKansas longingly at a group of three teenage girls who
     seem not to notice him.
   location: Topeka, Kansas
@@ -75,7 +75,7 @@ photos:
   location: Cusco, Peru
   year: 2014
   url: "/assets/photos/DSC01990.jpg"
-- title: Eyes closed
+- title: Eyes Closed
   caption: ''
   location: Cusco, Peru
   year: 2014
