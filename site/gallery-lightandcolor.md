@@ -52,6 +52,6 @@ photos:
 - title: Reflections on a car
   location: Chennai, India
   year: 2014
-  url: "/assets/photos/DSC09387-Exposure-2.jpg"
+  url: "/assets/photos/DSC09387-Exposure-1.jpg"
 
 ---
