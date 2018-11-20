@@ -2,6 +2,10 @@
 layout: gallery
 title: New
 photos:
+- title: Shocked Expression?
+  location: SoHo, New York City, New York
+  year: 2018
+  url: "/assets/photos/L1020072.jpg"
 - title: Traditional Mexican Dancers
   caption: Women and men in traditional Mexican dress perform a dance at the Fiesta
     Mexicana event in Topeka, Kansas. The central figure is a young woman raising
@@ -10,14 +14,14 @@ photos:
   location: Topeka, Kansas
   url: "/assets/photos/DSC05062.jpg"
   year: 2018
-- title: Shocked Expression?
-  location: SoHo, New York City, New York
-  year: 2018
-  url: "/assets/photos/L1020072.jpg"
 - title: Sunglasses Raised
   location: SoHo, New York City, New York
   year: 2018
   url: "/assets/photos/L1020066.jpg"
+- title: Retail Walls
+  location: SoHo, New York City, New York
+  year: 2018
+  url: "/assets/photos/L1020063.jpg"
 - title: Phones out at an Intersection
   location: SoHo, New York City, New York
   year: 2018
