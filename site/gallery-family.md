@@ -2,6 +2,10 @@
 title: Family
 layout: gallery
 photos:
+- title: Family Getting Food at the Zoo
+  location: Wichita, Kansas
+  year: ''
+  url: "/assets/photos/L1010539.jpg"
 - title: Rebekah has a discussion with her grandmother between portraits
   location: Wichita, Kansas
   year: ''
