@@ -46,6 +46,9 @@ photos:
 - title: Reservoir barrier
   url: "/assets/photos/P1010537-Edit.jpg"
   location: Rural Washington
+- title: Buoys and Reflected Mountains
+  location: Washington
+  url: "/assets/photos/P1010603-Exposure-1.jpg"
 - title: Taped broken window
   location: Park City, Kansas
   url: "/assets/photos/01-004.jpg"
