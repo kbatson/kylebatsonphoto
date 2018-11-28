@@ -2,6 +2,14 @@
 title: Family
 layout: gallery
 photos:
+- title: Bekah Learning to Jump Rope
+  location: Wichita, Kansas
+  year: 2015
+  url: "/assets/photos/DSC03867.jpg"
+- title: Bekah Near Her Dresser
+  location: Wichita, Kansas
+  year: 2015
+  url: "/assets/photos/DSC03613-1.jpg"
 - title: Family gathers on the porch
   location: Wichita, Kansas
   year: ''
