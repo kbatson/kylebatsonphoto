@@ -15,6 +15,9 @@ fields:
   config:
     required: true
   hidden: true
+- type: text
+  name: print
+  label: Print URL
 - type: field_group_list
   name: photos
   label: Photos
