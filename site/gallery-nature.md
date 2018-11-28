@@ -71,5 +71,9 @@ photos:
   location: Salar de Uyuni, Bolivia
   year: 2014
   url: "/assets/photos/DSC04793.jpg"
+- location: Washington
+  year: 2013
+  url: "/assets/photos/P1010506 - Version 2.jpg"
+  title: Reservoir Through Trees
 
 ---

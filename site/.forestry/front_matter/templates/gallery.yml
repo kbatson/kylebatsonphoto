@@ -32,12 +32,12 @@ fields:
     name: url
     label: URL
 pages:
-- site/gallery-nature.md
 - site/gallery-portraits.md
 - site/gallery-street2.md
 - site/gallery-urbanstructure.md
 - site/gallery-family.md
 - site/gallery-lightandcolor.md
+- site/gallery-nature.md
 - site/gallery-travel.md
 - site/gallery-festivals.md
 - site/gallery-new.md
