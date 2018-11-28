@@ -45,10 +45,12 @@ photos:
   location: Istanbul, Turkey
 - title: Reservoir barrier
   url: "/assets/photos/P1010537-Edit.jpg"
-  location: Rural Washington
+  location: Washington
+  year: 2013
 - title: Buoys and Reflected Mountains
   location: Washington
   url: "/assets/photos/P1010603-Exposure-1.jpg"
+  year: 2013
 - title: Taped broken window
   location: Park City, Kansas
   url: "/assets/photos/01-004.jpg"
