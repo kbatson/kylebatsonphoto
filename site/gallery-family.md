@@ -2,6 +2,14 @@
 title: Family
 layout: gallery
 photos:
+- title: Rebekah has a discussion with her grandmother between portraits
+  location: Wichita, Kansas
+  year: ''
+  url: "/assets/photos/L1010487.jpg"
+- title: Mom plays with the hospital monitor while mom recovers from surgery
+  location: Wichita, Kansas
+  year: 2018
+  url: "/assets/photos/L1010139.jpg"
 - title: Bekah Learning to Jump Rope
   location: Wichita, Kansas
   year: 2015
