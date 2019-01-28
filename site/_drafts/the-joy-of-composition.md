@@ -18,6 +18,7 @@ photos:
   location: Kansas City, Missouri
   year: 2019
   url: "/assets/photos/_DSC0899-resized.jpg"
+title: The Joy of Composition
 
 ---
 ![](/assets/photos/_DSC0899-resized.jpg)Talking about 50mm FOV and relearning the joy of composition.
