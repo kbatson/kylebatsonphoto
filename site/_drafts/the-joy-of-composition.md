@@ -21,4 +21,4 @@ photos:
 title: The Joy of Composition
 
 ---
-![](/assets/photos/_DSC0899-resized.jpg)Talking about 50mm FOV and relearning the joy of composition.
+![](/assets/photos/_DSC0899-resized.jpg)Talking about 50mm FOV and relearning the joy of composition. Some edits.
