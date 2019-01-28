@@ -23,5 +23,6 @@ build:
   - BUILD_DIR=site/
   publish_env:
   - JEKYLL_ENV=production
+  - BUILD_DIR=site
   preview_output_directory: site/_site
-  output_directory: _site
+  output_directory: site/_site
