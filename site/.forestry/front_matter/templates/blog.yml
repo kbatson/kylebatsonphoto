@@ -3,6 +3,11 @@ label: Blog
 hide_body: false
 is_partial: false
 fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
 - type: datetime
   name: date
   label: Date
