@@ -20,7 +20,9 @@ build:
   publish_command: bundle exec jekyll build -d _site
   preview_env:
   - JEKYLL_ENV=staging
+  - BUILD_DIR=site/
   publish_env:
   - JEKYLL_ENV=production
-  preview_output_directory: _site
-  output_directory: _site
+  - BUILD_DIR=site/
+  preview_output_directory: site/_site
+  output_directory: site/_site
