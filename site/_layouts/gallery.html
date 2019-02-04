@@ -18,7 +18,7 @@
 							<figcaption>
 								<span class="title">{{ photo.title }}</span>
 								<span class="locationYear">{{ photo.location }}</span>
-								{% if photo.print %}<a href="{{ photo.print }}" class="button buyPrint">Buy a Print</a>{% endif %}
+								{% if photo.print != "" %}<a href="{{ photo.print }}" class="button buyPrint">Buy a Print</a>{% endif %}
 							</figcaption>
 						</figure>
 					</div>
