@@ -2,6 +2,22 @@
 layout: gallery
 title: New
 photos:
+- title: Shadows and concrete
+  location: Wichita, KS
+  year: 2018
+  url: "/assets/photos/L1030435 (597 of 1903).jpg"
+- title: Eye to eye
+  location: Lawrence, KS
+  year: 2018
+  url: "/assets/photos/L1030851 (44 of 1903).jpg"
+- title: Foliage
+  location: Emporia, KS
+  year: 2018
+  url: "/assets/photos/L1020857 (1523 of 1903)-Edit.jpg"
+- title: Reflected Waves
+  location: Indiana
+  year: 2018
+  url: "/assets/photos/DSC03574_660846.jpg"
 - title: Shocked Expression?
   location: SoHo, New York City, New York
   year: 2018
