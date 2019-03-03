@@ -35,14 +35,14 @@ fields:
     name: url
     label: URL
 pages:
-- site/gallery-portraits.md
-- site/gallery-street2.md
-- site/gallery-urbanstructure.md
-- site/gallery-family.md
-- site/gallery-travel.md
-- site/gallery-festivals.md
-- site/gallery-new.md
-- site/gallery-weddings.md
-- site/gallery-street1.md
-- site/gallery-nature.md
 - site/gallery-lightandcolor.md
+- site/gallery-nature.md
+- site/gallery-family.md
+- site/gallery-urbanstructure.md
+- site/gallery-travel.md
+- site/gallery-weddings.md
+- site/gallery-street2.md
+- site/gallery-street1.md
+- site/gallery-portraits.md
+- site/gallery-new.md
+- site/gallery-festivals.md
