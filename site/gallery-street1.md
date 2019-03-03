@@ -9,6 +9,11 @@ photos:
   location: Wichita, Kansas
   url: "/assets/photos/DSC05111.jpg"
   print: https://gum.co/kLqJi
+- title: Kids in the crowd
+  location: Wichita, KS
+  year: 2012
+  print: ''
+  url: "/assets/photos/DSC06241-Exposure_339094.jpg"
 - title: Couple Kissing with Stroller
   caption: Outdoors in a city, a couple is kissing. The man has one hand on a stroller
     with a child inside while yet another child holds on to the other handle of the
