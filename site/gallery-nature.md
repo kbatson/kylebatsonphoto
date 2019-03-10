@@ -10,7 +10,7 @@ photos:
   year: 2016
   url: "/assets/photos/DSC00948.jpg"
   print: https://gum.co/GvmvI
-- title: Saddle-billed stork head-on
+- title: Saddle-billed Stork Head-on
   location: South Africa
   year: 2016
   print: ''
