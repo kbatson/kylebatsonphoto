@@ -10,6 +10,11 @@ photos:
   year: 2016
   url: "/assets/photos/DSC00948.jpg"
   print: https://gum.co/GvmvI
+- title: Saddle-billed stork head-on
+  location: South Africa
+  year: 2016
+  print: ''
+  url: "/assets/photos/DSC00798.jpg"
 - title: Dramatic Forest
   caption: Image of a woman outside crouched over taking a photograph of a subject
     out of frame while a young girl bends down to pet down a pug on a leash while
