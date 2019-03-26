@@ -34,8 +34,8 @@ fields:
     name: url
     label: URL
 pages:
-- site/gallery-nature.md
 - site/gallery-street2.md
+- site/gallery-nature.md
 - site/gallery-new.md
 - site/gallery-lightandcolor.md
 - site/gallery-family.md
