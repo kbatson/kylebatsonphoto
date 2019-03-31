@@ -2,6 +2,22 @@
 layout: gallery
 title: New
 photos:
+- title: Tree branches in front of windows at night
+  location: Lawrence, Kansas
+  year: 2019
+  url: "/assets/photos/_DSC1163-Edit-2.jpg"
+- title: Portrait of a woman in shadow
+  location: 'Lawrence, Kansas '
+  year: 2019
+  url: "/assets/photos/_DSC1155-Edit-2.jpg"
+- title: Nelson-Atkins Museum of Art
+  location: Kansas City, Missouri
+  year: 2019
+  url: "/assets/photos/DSC02218-highres.jpg"
+- title: Concrete, shadows, and a bar
+  location: Topeka, Kansas
+  year: 2019
+  url: "/assets/photos/DSC01747.jpg"
 - title: A group of adults and kids watching a parade
   location: Lawrence, KS
   year: 2019
