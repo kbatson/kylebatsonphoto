@@ -2,6 +2,18 @@
 layout: gallery
 title: Street Color
 photos:
+- title: Ice cream truck
+  location: New York City
+  year: 2018
+  url: "/assets/photos/L1080231-Exposure.jpg"
+- title: Phones out at an intersection
+  location: SoHo, New York City
+  year: 2018
+  url: "/assets/photos/L1020434.jpg"
+- title: Shocked expression?
+  location: SoHo, New York City
+  year: 2018
+  url: "/assets/photos/L1020072.jpg"
 - title: A traditional Mexican dance
   location: Topeka, KS
   year: 2018
@@ -21,10 +33,6 @@ photos:
   location: Wichita, KS
   year: 2014
   url: "/assets/photos/DSC06241-Exposure_339094.jpg"
-- title: Sleeping with the Paper
-  location: Merida, Mexico
-  year: 2018
-  url: "/assets/photos/DSC08007-Exposure.jpg"
 - title: Women
   location: Merida, Mexico
   year: 2018
@@ -55,10 +63,6 @@ photos:
   location: Istanbul, Turkey
   year: 2015
   url: "/assets/photos/DSC08803-Exposure.jpg"
-- title: Shopping in front of Mango
-  location: Istanbul, Turkey
-  year: 2015
-  url: "/assets/photos/DSC06932-Exposure.jpg"
 - title: Merchant at the Grand Bazaar
   location: Istanbul, Turkey
   year: 2015
@@ -88,7 +92,7 @@ photos:
   location: La Paz, Bolivia
   year: 2014
   url: "/assets/photos/DSC05055-Exposure.jpg"
-- title: Shopperes on the Street
+- title: Shoppers on the Street
   location: Philadelphia, Pennsylvania
   year: 2014
   url: "/assets/photos/P1000470-Edit.jpg"
