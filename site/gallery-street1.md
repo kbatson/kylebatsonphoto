@@ -45,10 +45,6 @@ photos:
   location: Istanbul, Turkey
   year: 2015
   url: "/assets/photos/DSC07049.jpg"
-- title: One-Eyed Man
-  location: Istanbul, Turkey
-  year: 2015
-  url: "/assets/photos/DSCF3408.jpg"
 - title: Trio on a Bench
   caption: A man and two women share a bench in a park. The man has white hair and
     stares wearily at the camera.
@@ -59,11 +55,6 @@ photos:
     by drummers.
   location: Hyderabad, India
   url: "/assets/photos/DSC00209.jpg"
-- title: Family on a Scooter
-  caption: A family of a mother, father, two girls, and a boy are squeezed onto a
-    scooter driving through the busy streets of Hyderabad.
-  location: Hyderabad, India
-  url: "/assets/photos/DSC00563.jpg"
 - title: Boy Looks at Girls
   caption: A teenage boy looKansas longingly at a group of three teenage girls who
     seem not to notice him.
