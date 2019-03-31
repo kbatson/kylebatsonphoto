@@ -1,7 +1,11 @@
 ---
 layout: gallery
-title: Street 2
+title: Street Color
 photos:
+- title: A traditional Mexican dance
+  location: Topeka, KS
+  year: 2018
+  url: "/assets/photos/DSC05062.jpg"
 - title: Yellow Belly Shirt
   caption: Shadows obscure the face of a man standing at an intersection wearing a
     yellow shirt and yellow shorts holding a cane. His shirt is raised over his belly.
