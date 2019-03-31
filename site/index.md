@@ -2,6 +2,11 @@
 layout: home
 title: Home
 photos:
+  - title: Colors and reflections
+    caption: Abstract, flat planes in primary hues
+    location: Topeka, Kansas
+    url: "/assets/photos/DSC02051-highres.jpg"
+
   - title: Gorilla in the Forest
     caption: A gorilla sits nestled amongst the foliage of a dense jungle in Rwanda.
     location: Musanze, Rwanda
