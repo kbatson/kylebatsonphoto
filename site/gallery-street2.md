@@ -51,10 +51,6 @@ photos:
   location: Tulum, Mexico
   year: 2018
   url: "/assets/photos/DSC00007-Exposure.jpg"
-- title: Bunny with Ice Cream
-  year: 2017
-  location: Lawrence, Kansas
-  url: "/assets/photos/L1010880.jpg"
 - title: Covered Women in Front of Advertisement
   location: Istanbul, Turkey
   year: 2015
@@ -63,10 +59,6 @@ photos:
   location: Istanbul, Turkey
   year: 2015
   url: "/assets/photos/DSC06932-Exposure.jpg"
-- title: Waiting for Food
-  location: Oludeniz, Turkey
-  year: 2015
-  url: "/assets/photos/DSCF3285-Exposure.jpg"
 - title: Merchant at the Grand Bazaar
   location: Istanbul, Turkey
   year: 2015
