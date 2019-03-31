@@ -36,7 +36,6 @@ fields:
     name: url
     label: URL
 pages:
-- site/_posts/abstraction-at-the-nelson.md
 - site/_posts/2019-01-28-the-joy-of-composition.md
 - site/_posts/2018-11-10-memories-of-family.md
 - site/_posts/2018-11-01-trunk-or-treat.md
