@@ -2,6 +2,22 @@
 layout: gallery
 title: Light & Color
 photos:
+- title: Nelson-Atkins Museum of Art
+  location: Kansas City, Missouri
+  year: 2019
+  url: "/assets/photos/DSC02184.jpg"
+- title: Nelson-Atkins Museum of Art
+  location: Kansas City, Missouri
+  year: 2019
+  url: "/assets/photos/DSC02218.jpg"
+- title: Nelson-Atkins Museum of Art
+  location: Kansas City, Missouri
+  year: 2019
+  url: "/assets/photos/DSC02255.jpg"
+- title: Abstract colors
+  location: Topeka, KS
+  year: 2019
+  url: "/assets/photos/DSC02051.jpg"
 - title: Gas Station
   caption: NA
   location: Kansas
@@ -43,14 +59,6 @@ photos:
   year: 2015
   url: "/assets/photos/DSC08880-1.jpg"
   location: Istanbul, Turkey
-- title: Reservoir barrier
-  url: "/assets/photos/P1010537-Edit.jpg"
-  location: Washington
-  year: 2013
-- title: Buoys and Reflected Mountains
-  location: Washington
-  url: "/assets/photos/P1010603-Exposure-1.jpg"
-  year: 2013
 - title: Taped broken window
   location: Park City, Kansas
   url: "/assets/photos/01-004.jpg"
@@ -58,8 +66,5 @@ photos:
   location: Chennai, India
   year: 2014
   url: "/assets/photos/DSC09387-Exposure-1.jpg"
-- title: Overpass Reflector
-  location: Bazaar Cattle Crossing, I-35 Kansas
-  url: "/assets/photos/L1010610.jpg"
 
 ---
