@@ -19,7 +19,10 @@ function generateControls(){
 		$(this).find(".slide").each(function(j){
 			var caption = $(this).find("figcaption").text();
 			var image = $(this).find("img").clone();
-			$(controls).append("<a href='#' class='slideControl' data-slide='" + j + "' title='" + caption + "'>Slide " + eval(j+1) + "</a>");
+			var control = $("<a href='#' class='slideControl' data-slide='" + j + "' title='" + caption + "'></a>").html(image);
+			$(controls).append(control);
+			// $(controls).append("<a href='#' class='slideControl' data-slide='" + j + "' title='" + caption + "'>Slide " + eval(j+1) + "</a>");
+			// $(controls).append("<a href='#' class='slideControl' data-slide='" + j + "' title='" + caption + "'></a>");
 			// $(controls).append("<a href='#' class='slideControl' data-slide='" + j + "' title='" + caption + "'></a>");
 			// $(controls).find("a:eq(" + j + ")").append(image);
 		});

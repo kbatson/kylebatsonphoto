@@ -45,26 +45,46 @@
 }
 
 .slideControl {
-	height: 1.5rem;
-	width: 1.5rem;
-	border: 2px solid transparent;
+	height: 2.5rem;
+	width: 2.5rem;
+	overflow: hidden;
+	border: 4px solid transparent;
 	box-sizing: border-box;
 	position: relative;
-	text-indent: -999rem;
+
+	img {
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		height: 100%;
+		width: auto;
+		-webkit-transform: translate(-50%,-50%);
+		  -ms-transform: translate(-50%,-50%);
+		  	  transform: translate(-50%,-50%);
+	}
+
+	&.vertical img {
+		width: 100%;
+		height: auto;
+	}
 
 	&:before {
 		content: "";
-		height: .75rem;
-		width: .75rem;
+		height: calc(2.5rem - 8px);
+		width: calc(2.5rem - 8px);
+
 		position: absolute;
-		top: .25rem;
-		left: .25rem;
-		background: #000000;
+		top: 0;
+		left: 0;
+		z-index: 1;
+
+		border: 2px solid #ffffff;
+		box-sizing: border-box;
 	}
 
 	&:hover {
 		&:before {
-			background: #cccccc;
+			background: rgba(255,255,255,.5);
 		}
 	}
 
