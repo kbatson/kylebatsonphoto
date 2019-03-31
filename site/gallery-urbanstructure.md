@@ -2,6 +2,18 @@
 layout: gallery
 title: Urban Structure
 photos:
+- title: Antenna with red and shadows
+  location: Topeka, Kansas
+  year: 2019
+  url: "/assets/photos/DSC01735.jpg"
+- title: Alley lit by a parking garage at night
+  location: Topeka, Kansas
+  year: 2019
+  url: "/assets/photos/_DSC1226.jpg"
+- title: Concrete and shadows with a bar
+  location: Topeka, Kansas
+  year: 2019
+  url: "/assets/photos/DSC01747.jpg"
 - title: Concrete Curves
   caption: NA
   location: São Paulo, Brazil
