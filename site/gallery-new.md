@@ -2,10 +2,6 @@
 layout: gallery
 title: New
 photos:
-- title: Abstracted primary colors
-  location: Topeka, KS
-  year: 2019
-  url: "/assets/photos/DSC02051.jpg"
 - title: A group of adults and kids watching a parade
   location: Lawrence, KS
   year: 2019
