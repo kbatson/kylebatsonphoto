@@ -5,11 +5,11 @@ photos:
 - title: Tree branches in front of windows at night
   location: Lawrence, Kansas
   year: 2019
-  url: "/assets/photos/_DSC1163-Edit-2.jpg"
+  url: "/assets/photos/DSC1163-Edit-2.jpg"
 - title: Portrait of a woman in shadow
   location: 'Lawrence, Kansas '
   year: 2019
-  url: "/assets/photos/_DSC1155-Edit-2.jpg"
+  url: "/assets/photos/DSC1155-Edit-2.jpg"
 - title: Nelson-Atkins Museum of Art
   location: Kansas City, Missouri
   year: 2019

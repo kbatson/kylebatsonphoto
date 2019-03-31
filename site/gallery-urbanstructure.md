@@ -9,7 +9,7 @@ photos:
 - title: Alley lit by a parking garage at night
   location: Topeka, Kansas
   year: 2019
-  url: "/assets/photos/_DSC1226.jpg"
+  url: "/assets/photos/DSC1226.jpg"
 - title: Concrete and shadows with a bar
   location: Topeka, Kansas
   year: 2019
