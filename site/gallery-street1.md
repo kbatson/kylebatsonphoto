@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: Street 1
+title: Street Black and White
 photos:
 - title: Mermaid Amongst Children
   caption: A scene of a dozen children playing in a pool of water backlit by the sun.
