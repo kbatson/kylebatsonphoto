@@ -7,4 +7,8 @@ I was born in Wichita, Kansas in 1984 and have been practicing street photograph
 
 I studied Visual Communication at the University of Kansas and have worked in the software development, marketing, education and design industries.
 
+## Artist's Statement
+
+My inspiration is a curiosity of the mundane. Walking through life can feel boring and routine, the familiar often fails to register our senses at all — so much background noise. But bringing a camera to my eye, frames the familiar in a new light. I can freeze one moment where light reflects off of the surface of monotony and the camera performs a wonderful alchemy of transformation of the mundane into something remarkable. Where before there was existence, now there is transcendence. My camera allows me to transform the commonplace into the remarkable. Or perhaps it shows me that it was remarkable all along and just gave me the eyes to see it.
+
 You can follow my latest work on my [Instagram page](). If you're interested in following my travels, I blog about it [here](http://www.desirepath.life) and I also have a separate travel [Instagram account](http://www.instagram.com/desirepathlife).
