@@ -2,10 +2,10 @@
 layout: home
 title: Home
 photos:
-  - title: Colors and reflections
-    caption: Abstract, flat planes in primary hues
-    location: Topeka, Kansas
-    url: "/assets/photos/DSC02051-highres.jpg"
+  - title: Communters in Red
+    caption: Two women walk in the street while a car drives past behind them.
+    location: Merida, Mexio
+    url: "/assets/photos/DSC08159-highres.jpg"
 
   - title: Gorilla in the Forest
     caption: A gorilla sits nestled amongst the foliage of a dense jungle in Rwanda.
