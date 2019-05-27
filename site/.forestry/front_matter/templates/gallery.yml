@@ -34,7 +34,7 @@ fields:
     name: url
     label: URL
   config:
-    labelField: print
+    labelField: title
 pages:
 - site/gallery-new.md
 - site/gallery-portraits.md
