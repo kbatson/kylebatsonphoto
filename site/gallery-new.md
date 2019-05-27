@@ -2,6 +2,16 @@
 layout: gallery
 title: New
 photos:
+- title: Crowd at a Festival
+  location: Lawrence, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/L1000677.jpg"
+- title: Girls at a Food Truck
+  location: Lawrence, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/L1000614.jpg"
 - title: Food Truck Festival
   location: Lawrence, Kansas
   year: "2019"
