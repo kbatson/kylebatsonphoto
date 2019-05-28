@@ -5,7 +5,7 @@ photos:
 - title: Mexican Commuters in Red
   caption: Two women walk in the street while a car drives past behind them.
   location: Merida, Mexio
-  url: "/assets/photos/DSC08159-highres.jpg"
+  url: "/assets/photos/DSC08159-Exposure.jpg"
 - title: Gorilla in the Forest
   caption: A gorilla sits nestled amongst the foliage of a dense jungle in Rwanda.
   location: Musanze, Rwanda
