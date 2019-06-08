@@ -110,11 +110,6 @@ iframe {
   font-size: 1.2rem;
 }
 
-.blogPost h2 a {
-  color: #000000;
-  text-decoration: none;
-}
-
 .blogPost .metadata {
   grid-column: 1;
   grid-row: 1;
@@ -219,16 +214,6 @@ figcaption {
 figcaption .title {
   display: block;
   font-style: italic;
-}
-
-.book-cover {
-  max-width: 15rem;
-  height: auto;
-  margin: 0 1rem 1rem 0;
-
-  img {
-    max-width: 100%;
-  }
 }
 
 .buyPrint {
