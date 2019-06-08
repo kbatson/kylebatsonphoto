@@ -4,17 +4,17 @@
     <h1>{{ page.title }}</h1>
       {% for book in page.books %}{% unless book.hidden %}
       <article class="book">
-        <h2><a href="{{ book.url }}">{{ book.title }}</a></h2>
         <figure class="book-cover">
           <a href="{{ book.url }}">
             <img src="{{ book.image }}" alt="{{ book.title }} cover">
           </a>
         </figure>
+        <h2><a href="{{ book.url }}">{{ book.title }}</a></h2>
+        <p class="metadata">
+          {{ book.price }}
+        </p>
         <section class="content">
           {{ book.description }}
-          <p class="metadata">
-            {{ book.price }}
-          </p>
         </section>
       </div>
     </article>
