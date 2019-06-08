@@ -1,5 +1,11 @@
 ---
-layout: internal
+layout: books
 title: Books
+books:
+- title: Tempo Moderato
+  description: This is a collection of images I took during a visit to Merida and Tulum, Mexico at the beginning of 2018. Mostly images taken in the streets, I look for that brief connection between the viewer and the subject that gives the subject individuality and depth.
+  year: 2019
+  price: $59.99
+  image: /assets/photos/book-tempo_moderato.jpeg
+  url: https://www.blurb.com/b/9513385-tempo-moderato
 ---
-<div style="width:615px;background:#FFFFFF;border:7px solid #FFFFFF;-moz-border-radius:4px;-webkit-border-radius:4px; color: #383131;font-family:'Trebuchet MS', Trebuchet, Sans-Serif;"><a href="http://www.magcloud.com/browse/issue/1475012?__r=1253123" class="test_navToIssue">      <img src="https://s3.amazonaws.com/storage3.magcloud.com/image/1b2e11eade00c5478763e8db2631480d.jpg" style="max-width:308px;margin-right:15px;float:left;border:0;" alt="Tempo Moderato" />    </a>    <div style="width:275px;float:left;">      <div style="margin: 10px 0 0 0;">        <h3 style="margin:0;font-size:18px;line-height:21px;font-family:'Trebuchet MS', Trebuchet, Sans-Serif">          <a href="http://www.magcloud.com/browse/issue/1475012?__r=1253123" style="color:#0E467D;text-decoration: none;font-weight:bold;" class="test_navToIssue">            Tempo Moderato          </a>        </h3>      </div>      <div style="margin:10px 0 0 0;font-size:11px;line-height:21px;font-family:Verdana, Arial, Sans-Serif">        <p style="margin:0">          By <a href='http://www.magcloud.com/user/kbatson'  class='test_navToUserHome'>Kyle Batson</a> in <a href='http://www.magcloud.com/browse/magazine/1524540'  class='test_navToUserHome'>Zines</a>                               </p>        <p style="margin:0">          38 pages, published 11/1/2018         </p>      </div>      <div style="margin:10px 0 0 0;font-size:13px;line-height:21px;">        This publication represents my photographic impression of the city of Merida, Mexico during a brief trip in January, 2018. I hope it captures the energy I felt during my stay which made me fall in love with the city.      </div>      <div style="margin:0;">        <a href="http://www.magcloud.com/browse/issue/1475012?__r=1253123" class="test_navToIssue">          <img src="http://www.magcloud.com/resource/Image/medium_widget_foot" alt="Find out more on MagCloud" border="0" style="margin:19px 0 6px 0;border:0;" />        </a>      </div></div><div style="clear:both;"></div></div>
