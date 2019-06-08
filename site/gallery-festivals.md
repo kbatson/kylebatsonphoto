@@ -47,6 +47,11 @@ photos:
   year: "2014"
   print: ''
   url: "/assets/photos/DSC00209.jpg"
+- title: Boy Looks at Girls
+  location: Hutchinson, Kansas
+  year: ''
+  print: ''
+  url: "/assets/photos/DSC01476.jpg"
 - title: A Splash Rains Down
   location: Hutchinson, Kansas
   year: 2011?
