@@ -22,6 +22,11 @@ photos:
   year: "2019"
   print: ''
   url: "/assets/photos/DSC06077.jpg"
+- title: Boy with Balloon
+  location: Wichita, Kansas
+  year: "2018"
+  print: ''
+  url: "/assets/photos/DSC03999_666129.jpg"
 - title: Traditional Mexican Dance
   location: Topeka, Kansas
   year: "2018"

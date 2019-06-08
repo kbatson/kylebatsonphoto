@@ -36,8 +36,8 @@ fields:
   config:
     labelField: title
 pages:
-- site/gallery-family.md
 - site/gallery-festivals.md
+- site/gallery-family.md
 - site/gallery-street2.md
 - site/gallery-new.md
 - site/gallery-urbanstructure.md
