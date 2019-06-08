@@ -37,11 +37,16 @@ photos:
   location: Corning, New York
   url: "/assets/photos/L1080467.jpg"
   print: ''
-- title: Sipping on a Drink
-  year: "2016"
-  location: Topeka, Kansas
-  url: "/assets/photos/L1030735-Exposure.jpg"
+- title: Young Men Dancing During Ganesh Chaturthi
+  location: Hyderabad, India
+  year: "2014"
   print: ''
+  url: "/assets/photos/DSC00209.jpg"
+- title: A Splash Rains Down
+  location: Hutchinson, Kansas
+  year: 2011?
+  print: ''
+  url: "/assets/photos/DSC04235.jpg"
 - title: Family Watching Pig Herding
   location: Lawrence, Kansas
   url: "/assets/photos/DSC09378.jpg"
@@ -68,11 +73,21 @@ photos:
   location: Wichita, Kansas
   url: "/assets/photos/DSC03910.jpg"
   print: ''
+- title: Sipping on a Drink
+  year: "2016"
+  location: Topeka, Kansas
+  url: "/assets/photos/L1030735-Exposure.jpg"
+  print: ''
 - title: Kids in the Crowd
   location: Topeka, Kansas
   year: "2014"
   print: ''
   url: "/assets/photos/P7100049-1.jpg"
+- title: Boys Jumping in a Fountain
+  location: Wichita, Kansas
+  year: "2015"
+  print: ''
+  url: "/assets/photos/FUJI1066.jpg"
 - title: Boy Jumping in a Fountain with a Toy Gun
   location: Wichita, Kansas
   year: "2015"
