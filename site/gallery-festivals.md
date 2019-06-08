@@ -72,6 +72,11 @@ photos:
   location: Lawrence, Kansas
   url: "/assets/photos/L1070379.jpg"
   print: ''
+- title: A Girl Dressed as a Mermaid Plays with Children in a Fountain
+  location: Wichita, Kansas
+  year: "2015"
+  print: ''
+  url: "/assets/photos/DSC05111_443700-Edit.jpg"
 - title: Kids Playing in a Fountain
   caption: Riverfest
   year: "2018"
