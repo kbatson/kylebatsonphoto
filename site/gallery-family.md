@@ -2,6 +2,26 @@
 title: Family
 layout: gallery
 photos:
+- title: Girls Play With Kittens as Mom Looks On
+  location: Wichita, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC06444-Edit.jpg"
+- title: Mother and Daughter
+  location: Wichita, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC06434-Edit.jpg"
+- title: Bekah and Cheyenne
+  location: Wichita, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC06421-Edit.jpg"
+- title: Mother and daughter
+  location: Wichita, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC06454-Edit.jpg"
 - title: Family Getting Food at the Zoo
   location: Wichita, Kansas
   year: ''
