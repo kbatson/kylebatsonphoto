@@ -5,28 +5,42 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  config:
+    required: true
+  default: books
 - type: text
   name: title
-  label: title
+  label: Title
+  config:
+    required: true
 - type: field_group_list
   name: books
-  label: books
+  label: Books
   fields:
   - type: text
     name: title
-    label: title
+    label: Book Title
+    config:
+      required: true
   - type: textarea
     name: description
-    label: description
+    label: Description
   - type: number
     name: year
-    label: year
+    label: Year Published
   - type: text
     name: price
-    label: price
+    label: Price
+    config:
+      required: false
   - type: file
     name: image
-    label: image
+    label: Cover Image
   - type: text
     name: url
-    label: url
+    label: Link
+    config:
+      required: true
+  config:
+    labelField: title
