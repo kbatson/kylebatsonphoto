@@ -153,10 +153,6 @@ iframe {
   display: inline-block;
 }
 
-.slide .vertical {
-  margin-left: calc(20vw + 1rem);
-}
-
 .slide img {
   max-height: 75vh;
 }
@@ -208,6 +204,10 @@ iframe {
 
 figure {
   margin: 0;
+}
+
+.slide figure {
+  margin-left: calc(20vw + 1rem);
 }
 
 figcaption {
