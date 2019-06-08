@@ -141,8 +141,7 @@ iframe {
 .slideshowControls {
   display: flex;
   flex-wrap: wrap;
-  margin-left: calc(20vw + 1rem);
-  width: calc(100% - 20vw - 1rem);
+  width: calc(100% - 1rem);
 }
 
 .slideControl {
