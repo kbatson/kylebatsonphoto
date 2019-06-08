@@ -36,9 +36,9 @@ fields:
   config:
     labelField: title
 pages:
+- site/gallery-street2.md
 - site/gallery-new.md
 - site/gallery-urbanstructure.md
-- site/gallery-street2.md
 - site/gallery-nature.md
 - site/gallery-lightandcolor.md
 - site/gallery-street1.md
