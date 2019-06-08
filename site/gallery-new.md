@@ -2,6 +2,31 @@
 layout: gallery
 title: New
 photos:
+- title: Merry-Go-Round
+  location: Wichita, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC06077.jpg"
+- title: Sky Bridge
+  location: Wichita, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC06351.jpg"
+- title: Pop
+  location: Carbondale, Illinois
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC05369.jpg"
+- title: Tunnel, Bridge, and Arch
+  location: Wichita, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC04901.jpg"
+- title: Pow Wow
+  location: Lawrence, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC02671-Edit-3.jpg"
 - title: Crowd at a Festival
   location: Lawrence, Kansas
   year: "2019"
