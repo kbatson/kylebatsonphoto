@@ -36,6 +36,7 @@ fields:
   config:
     labelField: title
 pages:
+- site/gallery-family.md
 - site/gallery-festivals.md
 - site/gallery-street2.md
 - site/gallery-new.md
@@ -45,5 +46,4 @@ pages:
 - site/gallery-street1.md
 - site/gallery-weddings.md
 - site/gallery-travel.md
-- site/gallery-family.md
 - site/gallery-portraits.md
