@@ -1,0 +1,32 @@
+---
+label: Books
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: field_group_list
+  name: books
+  label: books
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: description
+    label: description
+  - type: number
+    name: year
+    label: year
+  - type: text
+    name: price
+    label: price
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: url
+    label: url
