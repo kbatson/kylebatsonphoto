@@ -107,30 +107,10 @@ photos:
   year: "2018"
   url: "/assets/photos/DSC03574_660846.jpg"
   print: ''
-- title: Shocked Expression?
-  location: SoHo, New York City, New York
-  year: "2018"
-  url: "/assets/photos/L1020072.jpg"
-  print: ''
 - title: Sunglasses Raised
   location: SoHo, New York City, New York
   year: "2018"
   url: "/assets/photos/L1020066.jpg"
-  print: ''
-- title: Phones out at an Intersection
-  location: SoHo, New York City, New York
-  year: "2018"
-  url: "/assets/photos/L1020434.jpg"
-  print: ''
-- title: Ice Cream Truck, Midtown
-  year: "2018"
-  location: New York City, New York
-  url: "/assets/photos/L1080231-Exposure.jpg"
-  print: ''
-- title: Hot & Sweet Sausage
-  year: "2018"
-  location: Corning, New York
-  url: "/assets/photos/L1080467.jpg"
   print: ''
 
 ---
