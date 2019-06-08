@@ -55,7 +55,7 @@ main {
   width: calc(100vw - 13rem);
   grid-column: 2;
   display: grid;
-  grid-template-columns: 20vw 30rem auto;
+  grid-template-columns: 10vw 30rem 1fr;
   grid-gap: 1rem;
 }
 
@@ -81,7 +81,7 @@ iframe {
 }
 
 .blog .content img {
-  width: calc(100vw - 14rem - 20vw);
+  width: calc(100vw - 14rem - 10vw);
 }
 
 .blog .slideshow {
@@ -92,7 +92,7 @@ iframe {
 .blogPost {
   grid-column: 1 / span 2;
   display: grid;
-  grid-template-columns: 20vw 30rem;
+  grid-template-columns: 10vw 30rem;
   grid-template-rows: 2rem auto auto;
   grid-gap: 1rem;
 }
@@ -140,7 +140,7 @@ iframe {
 
 .slideshow {
   grid-row: 3;
-  grid-column: 1 / span 3;
+  grid-column: 2 / span 2;
 }
 
 .slideshowControls {
@@ -208,7 +208,7 @@ figure {
 }
 
 .slide figure {
-  margin-left: calc(20vw + 1rem);
+  margin-left: 0;
 }
 
 figcaption {
@@ -467,6 +467,10 @@ li#instagram a {
     justify-content: center;
     margin-left: 0;
     width: 100%;
+  }
+
+  .slide figure {
+    margin-left: 0;
   }
 
   .slide figcaption {
