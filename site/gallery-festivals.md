@@ -68,6 +68,16 @@ photos:
   location: Wichita, Kansas
   url: "/assets/photos/DSC03910.jpg"
   print: ''
+- title: Kids in the Crowd
+  location: Topeka, Kansas
+  year: "2014"
+  print: ''
+  url: "/assets/photos/P7100049-1.jpg"
+- title: Boy Jumping in a Fountain with a Toy Gun
+  location: Wichita, Kansas
+  year: "2015"
+  print: ''
+  url: "/assets/photos/FUJI1118.jpg"
 
 ---
-Images of festivals and carnivals.
+Images of festivals, carnivals, fairs, and parades.
