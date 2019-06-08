@@ -2,6 +2,11 @@
 title: Family
 layout: gallery
 photos:
+- title: Bekah Playing on the Porch with Her Dog Jake
+  location: Wichita, Kansas
+  year: "2015"
+  print: ''
+  url: "/assets/photos/FUJI1263.jpg"
 - title: Girls Play With Kittens as Mom Looks On
   location: Wichita, Kansas
   year: "2019"
