@@ -72,7 +72,7 @@ photos:
   location: Lawrence, Kansas
   url: "/assets/photos/L1070379.jpg"
   print: ''
-- title: Kids playing in the fountain
+- title: Kids Playing in a Fountain
   caption: Riverfest
   year: "2018"
   location: Wichita, Kansas
@@ -93,6 +93,11 @@ photos:
   year: "2015"
   print: ''
   url: "/assets/photos/FUJI1066.jpg"
+- title: Kids Playing in a Fountain
+  location: Wichita, Kansas
+  year: "2015"
+  print: ''
+  url: "/assets/photos/FUJI0952_404261.jpg"
 - title: Boy Jumping in a Fountain with a Toy Gun
   location: Wichita, Kansas
   year: "2015"
