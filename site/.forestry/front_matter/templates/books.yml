@@ -44,3 +44,5 @@ fields:
       required: true
   config:
     labelField: title
+pages:
+- site/books.md
