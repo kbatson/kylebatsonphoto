@@ -215,6 +215,12 @@ figcaption .title {
   font-style: italic;
 }
 
+.book-cover {
+  img {
+    max-width: 100%;
+  }
+}
+
 .buyPrint {
   font-family: "din-2014", sans-serif;
   font-weight: 600;
