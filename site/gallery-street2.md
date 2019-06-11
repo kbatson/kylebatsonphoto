@@ -12,7 +12,7 @@ photos:
   year: "2018"
   url: "/assets/photos/L1020434.jpg"
   print: ''
-- title: Shocked expression?
+- title: Women Kissing
   location: SoHo, New York City
   year: "2018"
   url: "/assets/photos/L1020072.jpg"
