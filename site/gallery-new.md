@@ -62,11 +62,6 @@ photos:
   year: "2019"
   url: "/assets/photos/DSC1155-Edit-2.jpg"
   print: ''
-- title: Nelson-Atkins Museum of Art
-  location: Kansas City, Missouri
-  year: "2019"
-  url: "/assets/photos/DSC02218-highres.jpg"
-  print: ''
 - title: Concrete, shadows, and a bar
   location: Topeka, Kansas
   year: "2019"
