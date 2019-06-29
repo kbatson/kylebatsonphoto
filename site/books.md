@@ -8,7 +8,7 @@ books:
     look for that brief connection between the viewer and the subject that gives the
     subject individuality and depth.
   year: 2019
-  price: "$15.00"
+  price: "$11.99"
   image: "/assets/photos/zine-tempo-moderato.jpg"
   url: http://www.magcloud.com/browse/issue/1475012
 
