@@ -351,9 +351,10 @@ li#instagram a {
   }
 
   main {
-    display: block;
+    display: grid;
     width: 100vw;
     margin-top: 3rem;
+    grid-template-columns: auto;
   }
 
   footer {
@@ -389,6 +390,8 @@ li#instagram a {
 
   .blog .slideshow {
     width: 100vw;
+    height: auto;
+    display: inline-block;
   }
 
   .blogPost {

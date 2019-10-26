@@ -7,6 +7,11 @@ photos:
   year: "2018"
   url: "/assets/photos/L1080231-Exposure.jpg"
   print: ''
+- title: Sunglasses Raised
+  location: SoHo, New York City, New York
+  year: "2018"
+  url: "/assets/photos/L1020066.jpg"
+  print: ''
 - title: Phones out at an intersection
   location: SoHo, New York City
   year: "2018"

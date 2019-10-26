@@ -2,10 +2,11 @@
 layout: gallery
 title: Light & Color
 photos:
-- title: Nelson-Atkins Museum of Art
-  location: Kansas City, Missouri
-  year: 2019
-  url: "/assets/photos/DSC02184.jpg"
+- title: Foliage
+  location: Emporia, KS
+  year: "2018"
+  url: "/assets/photos/L1020857 (1523 of 1903)-Edit.jpg"
+  print: ''
 - title: Nelson-Atkins Museum of Art
   location: Kansas City, Missouri
   year: 2019
@@ -14,10 +15,6 @@ photos:
   location: Kansas City, Missouri
   year: 2019
   url: "/assets/photos/DSC02255.jpg"
-- title: Abstract colors
-  location: Topeka, KS
-  year: 2019
-  url: "/assets/photos/DSC02051.jpg"
 - title: Gas Station
   caption: NA
   location: Kansas

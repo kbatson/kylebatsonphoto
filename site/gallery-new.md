@@ -2,16 +2,61 @@
 layout: gallery
 title: New
 photos:
+- title: Morning Reflections
+  location: Henderson, North Carolina
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC09897-Edit.jpg"
+- title: Badlands
+  location: South Dakota
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC08763-Edit-3.jpg"
+- title: Badlands
+  location: South Dakota
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC08958.jpg"
+- title: Badlands Sunset
+  location: South Dakota
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC09201.jpg"
+- title: Iowa State Fair Des Moines, Iowa
+  location: Henderson, North Carolina
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC09956-Edit.jpg"
+- title: Game On
+  location: Iowa State Fair Des Moines, Iowa
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC00080-Edit.jpg"
+- title: Standard Young
+  location: Douglas County Fair, Lawrence, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/L1010288-Edit-2.jpg"
+- title: Eye Contact
+  location: Douglas County Fair, Lawrence, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/L1010390-Edit.jpg"
+- title: Buffalo Sweat
+  location: Topeka, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC08166.jpg"
+- title: Fiesta Mexicana
+  location: Topeka, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC08357.jpg"
 - title: Merry-Go-Round
   location: Wichita, Kansas
   year: "2019"
   print: ''
   url: "/assets/photos/DSC06077.jpg"
-- title: Sky Bridge
-  location: Wichita, Kansas
-  year: "2019"
-  print: ''
-  url: "/assets/photos/DSC06351.jpg"
 - title: Pop
   location: Carbondale, Illinois
   year: "2019"
@@ -27,31 +72,16 @@ photos:
   year: "2019"
   print: ''
   url: "/assets/photos/DSC02671-Edit-3.jpg"
-- title: Crowd at a Festival
-  location: Lawrence, Kansas
-  year: "2019"
-  print: ''
-  url: "/assets/photos/L1000677.jpg"
 - title: Girls at a Food Truck
   location: Lawrence, Kansas
   year: "2019"
   print: ''
   url: "/assets/photos/L1000614.jpg"
-- title: Food Truck Festival
-  location: Lawrence, Kansas
-  year: "2019"
-  print: ''
-  url: "/assets/photos/L1000674.jpg"
 - title: Yellow and Legs
   location: Lawrence, Kansas
   year: "2019"
   print: ''
   url: "/assets/photos/DSC02440.jpg"
-- title: Nelson Atkins Museum of Art
-  location: Kansas City, Missouri
-  year: "2019"
-  print: ''
-  url: "/assets/photos/DSC02218-1.jpg"
 - title: Tree branches in front of windows at night
   location: Lawrence, Kansas
   year: "2019"
@@ -67,45 +97,10 @@ photos:
   year: "2019"
   url: "/assets/photos/DSC01747.jpg"
   print: ''
-- title: A group of adults and kids watching a parade
-  location: Lawrence, KS
-  year: "2019"
-  url: "/assets/photos/L1040093.jpg"
-  print: ''
-- title: A group of boys on the street watching a parade
-  location: Lawrence, KS
-  year: "2019"
-  url: "/assets/photos/L1040121.jpg"
-  print: ''
-- url: "/assets/photos/L1040078.jpg"
-  title: Kids on the street during a parade
-  location: Lawrence, KS
-  year: "2019"
-  print: ''
 - title: Shadows and concrete
   location: Wichita, KS
   year: "2018"
   url: "/assets/photos/L1030435 (597 of 1903).jpg"
-  print: ''
-- title: Eye to eye
-  location: Lawrence, KS
-  year: "2018"
-  url: "/assets/photos/L1030851 (44 of 1903).jpg"
-  print: ''
-- title: Foliage
-  location: Emporia, KS
-  year: "2018"
-  url: "/assets/photos/L1020857 (1523 of 1903)-Edit.jpg"
-  print: ''
-- title: Reflected Waves
-  location: Indiana
-  year: "2018"
-  url: "/assets/photos/DSC03574_660846.jpg"
-  print: ''
-- title: Sunglasses Raised
-  location: SoHo, New York City, New York
-  year: "2018"
-  url: "/assets/photos/L1020066.jpg"
   print: ''
 
 ---
