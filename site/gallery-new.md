@@ -22,8 +22,8 @@ photos:
   year: "2019"
   print: ''
   url: "/assets/photos/DSC09201.jpg"
-- title: Iowa State Fair Des Moines, Iowa
-  location: Henderson, North Carolina
+- title: Pony Competition
+  location: Iowa State Fair Des Moines, Iowa
   year: "2019"
   print: ''
   url: "/assets/photos/DSC09956-Edit.jpg"
