@@ -37,13 +37,13 @@ fields:
     labelField: title
 pages:
 - site/gallery-festivals.md
-- site/gallery-family.md
-- site/gallery-street2.md
 - site/gallery-new.md
-- site/gallery-urbanstructure.md
-- site/gallery-nature.md
+- site/gallery-street2.md
 - site/gallery-lightandcolor.md
-- site/gallery-street1.md
-- site/gallery-weddings.md
-- site/gallery-travel.md
+- site/gallery-family.md
+- site/gallery-urbanstructure.md
 - site/gallery-portraits.md
+- site/gallery-travel.md
+- site/gallery-weddings.md
+- site/gallery-street1.md
+- site/gallery-nature.md
