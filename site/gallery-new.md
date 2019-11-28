@@ -53,10 +53,15 @@ photos:
   print: ''
   url: "/assets/photos/DSC08357.jpg"
 - title: Merry-Go-Round
-  location: Wichita, Kansas
+  location: Wichita River Festival, Wichita, Kansas
   year: "2019"
   print: ''
   url: "/assets/photos/DSC06077.jpg"
+- title: Sizzler
+  location: Wichita River Festival, Wichita, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC06226.jpg"
 - title: Pop
   location: Carbondale, Illinois
   year: "2019"
