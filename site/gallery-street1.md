@@ -8,7 +8,6 @@ photos:
     central figure is a young girl smiling.
   location: Wichita, Kansas
   url: "/assets/photos/DSC05111.jpg"
-  print: https://gum.co/kLqJi
 - title: Couple Kissing with Stroller
   caption: Outdoors in a city, a couple is kissing. The man has one hand on a stroller
     with a child inside while yet another child holds on to the other handle of the
@@ -107,7 +106,6 @@ photos:
   location: Copacabana, Bolivia
   year: 2014
   url: "/assets/photos/DSC04119.jpg"
-  print: https://gum.co/ySYRs
 - title: Kids Jumping in the Splash of Water
   caption: A blonde girl jumps for joy into the splash of water made by a carnival
     ride at night surrounded by other playing kids.

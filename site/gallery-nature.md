@@ -9,7 +9,6 @@ photos:
   location: Volcanoes National Park, Rwanda
   year: 2016
   url: "/assets/photos/DSC00948.jpg"
-  print: https://gum.co/GvmvI
 - title: Saddle-billed Stork Head-on
   location: South Africa
   year: 2016
@@ -22,7 +21,6 @@ photos:
   location: Yellowstone National Park, Wyoming
   year: 2018
   url: "/assets/photos/DSC07530.jpg"
-  print: https://gum.co/syuny
 - title: Yellowstone National Park
   caption: Image of a woman outside crouched over taking a photograph of a subject
     out of frame while a young girl bends down to pet down a pug on a leash while
@@ -30,22 +28,18 @@ photos:
   location: Yellowstone National Park, Wyoming
   year: 2018
   url: "/assets/photos/DSC07590.jpg"
-  print: https://gum.co/ecQTF
 - title: Dunes at Sunset
   location: White Sands National Monument, New Meico
   year: 2018
   url: "/assets/photos/DSC08284.jpg"
-  print: https://gum.co/XkHrh
 - title: Sand Dunes
   location: Great Sand Dunes National Monument, Colorado
   year: 2018
   url: "/assets/photos/DSC08812.jpg"
-  print: https://gum.co/bkQPD
 - title: Sand Dunes
   location: Great Sand Dunes National Monument, Colorado
   year: 2018
   url: "/assets/photos/DSC08799.jpg"
-  print: https://gum.co/OWjPw
 - title: Swirling Clouds
   caption: NA
   location: Lawrence, Kansas
@@ -56,7 +50,6 @@ photos:
   location: Idaho
   year: 2017
   url: "/assets/photos/DSC05659.jpg"
-  print: https://gum.co/JFwwg
 - title: Sunrise over the bay
   location: Rio de Janiero, Brazil
   year: 2016
@@ -80,6 +73,5 @@ photos:
   year: 2013
   url: "/assets/photos/P1010506 - Version 2.jpg"
   title: Reservoir Through Trees
-  print: https://gum.co/GCdtW
 
 ---

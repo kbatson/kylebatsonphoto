@@ -117,7 +117,6 @@ photos:
   location: Copacabana, Bolivia
   year: "2014"
   url: "/assets/photos/DSC04213-Exposure.jpg"
-  print: https://gum.co/QzCVF
 - title: Shoe Shiner
   location: La Paz, Bolivia
   year: "2014"

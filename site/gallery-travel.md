@@ -7,11 +7,9 @@ photos:
     on the ground nearby and a rooster passes.
   location: Bangkok, Thailand
   url: "/assets/photos/DSC04828.jpg"
-  print: https://gum.co/gInN
 - title: Storefront Display with Flowers
   location: Merida, Mexico
   url: "/assets/photos/DSC07960-Exposure.jpg"
-  print: https://gum.co/BxzZz
 - title: Baptism
   location: Kigali, Rwanda
   caption: TBD
@@ -27,15 +25,15 @@ photos:
     green fields and primitive homes on a hllside. Dark clouds hang overhead.
   location: Musanze, Rwanda
   url: "/assets/photos/DSC00602.jpg"
-  print: https://gum.co/gtmzO
 - title: Rice Paddy Workers
   location: Andhra Pradesh, India
   url: "/assets/photos/DSC09924.jpg"
-- title: Truck Bed
+- title: Andean Truck Bed
   location: Peru
   caption: TBD
   year: 2014
   url: "/assets/photos/DSC02455-Exposure.jpg"
+  print: https://kylebatsonphoto.bigcartel.com/product/andean-truck-bed
 - title: Traditional Kitchen
   location: Peru
   caption: TBD
