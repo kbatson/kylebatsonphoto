@@ -7,7 +7,7 @@ photos:
     on the ground nearby and a rooster passes.
   location: Bangkok, Thailand
   url: "/assets/photos/DSC04828.jpg"
-- title: Storefront Display with Flowers
+- title: Her Constellation
   location: Merida, Mexico
   url: "/assets/photos/DSC07960-Exposure.jpg"
 - title: Baptism
