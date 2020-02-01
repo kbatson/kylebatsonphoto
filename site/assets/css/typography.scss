@@ -1,0 +1,72 @@
+.at-only:not(:focus):not(:active) { //For accessible technology only to be hidden from regular use
+    clip: rect(0 0 0 0);
+    clip-path: inset(100%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
+
+html, body {
+  margin: 0;
+}
+
+body {
+  font-family: "franklin-gothic-urw", sans-serif;
+}
+
+h1 {
+  font-family: "din-2014", sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 2.4rem;
+  margin: 0;
+}
+
+h2 {
+  font-size: 1.2rem;
+
+  a {
+    color: #000000;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.metadata {
+  margin-top: -1rem;
+  margin-bottom: 1rem;
+}
+
+header {
+  font-family: "din-2014", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.logo {
+  font-weight: inherit;
+  font-size: 2em;
+  text-align: right;
+}
+
+.logo span {
+  display: inline-block;
+  background: #000000;
+  color: #ffffff;
+  margin-bottom: .2em;
+  float: left;
+  clear: both;
+  font-size: 1.2em;
+  padding-left: 1em;
+  padding-right: .5em;
+}
+
+.logo a {
+  text-decoration: none;
+}

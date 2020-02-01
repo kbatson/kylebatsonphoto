@@ -1,0 +1,45 @@
+header {
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+}
+
+header h1 {
+  position: absolute;
+  bottom: 1em;
+  left: 0;
+}
+
+header nav {
+  position: absolute;
+  top: 1em;
+  right: 0;
+}
+
+header nav ul {
+  list-style: none;
+  text-align: right;
+}
+
+header nav li {
+  font-size: 2rem;
+  margin-bottom: .25rem;
+}
+
+header nav li ul li {
+  font-size: 1rem;
+
+  .menuItem {
+    padding: .5rem 3rem .5rem .5rem;
+  }
+}
+
+footer {
+  position: fixed;
+  bottom: 1em;
+  right: 0;
+}
+
+footer nav li {
+  padding-left: .5rem;
+}

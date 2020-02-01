@@ -1,0 +1,98 @@
+#navToggle {
+  display: none;
+}
+
+header nav ul {
+  list-style: none;
+  clear: both;
+  padding: 0;
+}
+
+header nav li {
+  font-size: 1em;
+  position: relative;
+  height: auto;
+  overflow: hidden;
+}
+
+header nav li .menuItem {
+  display: inline-block;
+  background: #ffffff;
+  color: #000000;
+  text-decoration: none;
+  padding: .25em .5rem;
+  white-space: nowrap;
+  font-weight: 600;
+  text-transform: uppercase;
+/*  transition: all .5s; */
+}
+
+header nav li .menuItem:hover, header nav li.currentPage .menuItem {
+  background: #000000;
+  color: #ffffff;
+}
+
+header nav li .menuItem:hover:after {
+  color: #ffffff;
+}
+
+header nav li ul {
+  display: none;
+  margin-top: .2em;
+}
+
+header nav li ul li {
+  font-size: 1em;
+}
+
+header nav li ul li .menuItem {
+  display: inline-block;
+  // padding: .5rem;
+}
+
+header nav li.hasChildren > .menuItem:after {
+  content: " +";
+  font-weight: 400;
+}
+
+header nav li.hasChildren.expanded > .menuItem:after {
+  content: " -";
+}
+
+footer nav ul {
+  padding: 0;
+  margin: 0;
+}
+
+footer nav li {
+  background-color: #ffffff;
+  padding-left: 2.5rem;
+}
+
+footer nav li:hover {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+li#instagram {
+  width: 4rem;
+  display: block;
+}
+
+li#instagram a {
+  display: block;
+  height: 3rem;
+  width: 100%;
+  padding: .5rem;
+  box-sizing: border-box;
+  background-image: url(/assets/images/instagram.svg);
+  filter: brightness(0);
+  background-repeat: no-repeat;
+  background-size: 25px 25px;
+  background-position: .5rem center;
+  text-indent: -999em;
+}
+
+li#instagram:hover a {
+  filter: brightness(1000);
+}

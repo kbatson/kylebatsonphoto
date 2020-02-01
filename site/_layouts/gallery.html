@@ -1,7 +1,7 @@
 {% include header.html %}
-	
+
 	<main id="main" class="gallery">
-		<article>
+		<article class="gallery-intro">
 			<h1>{{ page.title }}</h1>
 			<div class="content">
 				{{ content }}
@@ -10,7 +10,7 @@
 		<div class="slideshow">
 			<div class="slideshowWrapper">
 				<div class="slideshowContent">
-		
+
 					{% for photo in page.photos %}{% unless photo.hidden %}
 					<div class="slide">
 						<figure>
@@ -36,8 +36,8 @@
 			<nav class="slideshowControls" aria-labeledby="slideshowNavTitle">
 				<h4 class="at-only" id="slideshowNavTitle">Slideshow Navigation</h4>
 			</nav>
-			<button id="enlarge">Enlarge</button>
+			<!-- <button id="enlarge">Enlarge</button> -->
 		</div>
 	</main>
-	
+
 {% include footer.html %}

@@ -15,8 +15,8 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="alternate" type="application/rss+xml"  href="{{ site.url }}/feed.xml" title="{{ site.title }}">
-	{% if page.url == "/" %}<link rel="stylesheet" type="text/css" href="/assets/css/kbp-home.css">
-	{% else %}<link rel="stylesheet" type="text/css" href="/assets/css/kbp-internal.css">{% endif %}
+	{% if page.url == "/" %}<link rel="stylesheet" type="text/css" href="/assets/css/home.css">
+	{% else %}<link rel="stylesheet" type="text/css" href="/assets/css/main.css">{% endif %}
 	<link rel="stylesheet" href="https://use.typekit.net/dln0vji.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script src="/assets/js/jquery.touchSwipe.min.js"></script>
@@ -33,6 +33,6 @@
 <body>
 {% if page.url != "/" %}<a href="#main" class="at-only">Skip to main content</a>{% endif %}
 	<header>
-		<h1><a href="/"><span>Kyle </span><span>Batson </span><span>Photo</span></a></h1>
+		<h1 class="logo"><a href="/"><span>Kyle </span><span>Batson </span><span>Photo</span></a></h1>
 		{% include navigation.html %}
 	</header>
