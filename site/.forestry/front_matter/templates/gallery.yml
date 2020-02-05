@@ -36,14 +36,14 @@ fields:
   config:
     labelField: title
 pages:
+- site/gallery-travel.md
+- site/gallery-street1.md
+- site/gallery-street2.md
+- site/gallery-new.md
+- site/gallery-nature.md
+- site/gallery-urbanstructure.md
 - site/gallery-family.md
 - site/gallery-festivals.md
 - site/gallery-lightandcolor.md
-- site/gallery-nature.md
-- site/gallery-new.md
-- site/gallery-portraits.md
-- site/gallery-street1.md
-- site/gallery-street2.md
-- site/gallery-travel.md
-- site/gallery-urbanstructure.md
 - site/gallery-weddings.md
+- site/gallery-portraits.md
