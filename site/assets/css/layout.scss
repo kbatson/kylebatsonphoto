@@ -9,20 +9,25 @@ body {
 
 header {
   grid-area: sidebar;
+  position: fixed;
 }
 
 main {
-  width: 100%;
+  width: 100vw;
   grid-area: main;
   border-top: 1rem solid #000000;
 
   display: grid;
   grid-template-areas:
-    "intro spacer"
-    "article spacer"
-    "slideshow spacer"
-    "comments spacer";
+    "intro ."
+    "article ."
+    "slideshow ."
+    "comments .";
   grid-template-columns: minmax(auto, calc(100vw - #{$sidebar-minWidth} - 1rem)) minmax(1rem, 1fr);
+}
+
+main h1 {
+  grid-area: intro;
 }
 
 header nav li .menuItem {
@@ -101,4 +106,34 @@ article figure {
 
 .comments {
   grid-area: comments;
+}
+
+@media (max-width: 850px){
+  body {
+    grid-template-areas:
+      "sidebar"
+      "main";
+  }
+
+  header {
+    width: 100vw;
+    min-height: 3rem;
+    background: #000000;
+  }
+
+  main {
+    margin: 4rem auto;
+    border: none;
+    grid-template-areas:
+      ". intro ."
+      ". article ."
+      ". slideshow ."
+      ". comments .";
+    grid-template-columns: minmax(1rem, auto) 90vw minmax(1rem, auto);
+  }
+
+  article.blogPost {
+    grid-area: auto;
+    grid-column: 2;
+  }
 }
