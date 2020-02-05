@@ -1,5 +1,5 @@
 {% include header.html %}
-    
+
     <main class="blog" id="main">
         <h1>Blog</h1>
         <article class="blogPost">
@@ -14,7 +14,7 @@
         <div class="slideshow">
             <div class="slideshowWrapper">
                 <div class="slideshowContent">
-        
+
                     {% for photo in page.photos %}{% unless photo.hidden %}
                     <div class="slide">
                         <figure>
@@ -38,14 +38,14 @@
                 </a>
             </nav>
             <nav class="slideshowControls">
-                
+
             </nav>
-            <button id="enlarge">Enlarge</button>
+            <!-- <button id="enlarge">Enlarge</button> -->
         </div>
         <section class="comments">
             <div class="just-comments" data-apikey="6b3b805e-5796-4354-bb76-914b419ecf73">
             </div>
         </section>
     </main>
-    
+
 {% include footer.html %}
