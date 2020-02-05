@@ -15,7 +15,7 @@
 
 .slideshowContent {
 	width: inherit;
-	height: 100%;
+	max-height: inherit;
 	position: relative;
 	top: 0;
 	left: 0;
@@ -26,15 +26,18 @@
 .slide {
 	cursor: pointer;
 	width: inherit;
+	max-height: inherit;
 }
 
 .slide figure {
+	max-height: inherit;
 	width: auto;
 	display: inline-block;
 }
 
 .slide img {
 	max-width: 100%;
+	max-height: inherit;
 }
 
 .slideshowControls {
@@ -66,7 +69,7 @@
 
 	&.vertical img {
 		width: 100%;
-		height: auto;
+		height: unset;
 	}
 
 	&:before {
@@ -133,11 +136,10 @@
 	pointer-events: none;
 	height: 3rem;
 	width: 2rem;
-	align-self: flex-start;
+	align-self: center;
 	position: relative;
 	text-indent: -999rem;
 	background: rgba(0,0,0,.3);
-	margin-top: 30vh;
 }
 
 .slideshowDirection a:hover span {
@@ -165,4 +167,4 @@
 .slideshowDirection a.nextSlide span:before {
 	border-width: 2px 2px 0 0;
 }
-/** Slideshown END **/
+/** Slideshow END **/

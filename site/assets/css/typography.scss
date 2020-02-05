@@ -49,6 +49,10 @@ header {
   text-transform: uppercase;
 }
 
+.buyPrint {
+  display: inline-block;
+}
+
 .logo {
   font-weight: inherit;
   font-size: 2em;
@@ -69,23 +73,4 @@ header {
 
 .logo a {
   text-decoration: none;
-}
-
-.buyPrint {
-  display: inline-block;
-}
-
-@media(max-width: 850px){
-  .logo {
-    text-align: center;
-    margin: 0 3rem 0 3rem;
-    font-size: 3vw;
-    line-height: 3rem;
-
-    span {
-      float: none;
-      display: inline;
-      padding: 0;
-    }
-  }
 }

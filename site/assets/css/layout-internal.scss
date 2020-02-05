@@ -13,7 +13,6 @@ header {
 }
 
 main {
-  width: 100vw;
   grid-area: main;
   border-top: 1rem solid #000000;
 
@@ -80,12 +79,17 @@ article figure {
 
 .slideshow {
   grid-area: slideshow;
-  max-height: unset;
+  max-height: 70vh;
 }
 
 .slideshowWrapper {
   max-width: 1000px;
-  height: inherit;
+  max-height: inherit;
+  z-index: 0;
+}
+
+.slideshowDirection {
+  z-index: 1;
 }
 
 .slide {
@@ -119,6 +123,19 @@ article figure {
     width: 100vw;
     min-height: 3rem;
     background: #000000;
+  }
+
+  .logo {
+    text-align: center;
+    margin: 0 3rem 0 3rem;
+    font-size: 3vw;
+    line-height: 3rem;
+
+    span {
+      float: none;
+      display: inline;
+      padding: 0;
+    }
   }
 
   main {

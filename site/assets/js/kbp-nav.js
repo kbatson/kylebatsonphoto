@@ -32,15 +32,10 @@ $(document).ready(function(){
 		}
 	});
 
-
-
-});
-
-$(window).on('load', function(){
-    console.log('loaded');
-    $(".slideshow img").each(function(){
+	$(".slideshow img").each(function(){
         if($(this).height() >= $(this).width()){
             $(this).parent().addClass("vertical")
         }
     });
+
 });

@@ -21,10 +21,6 @@ function generateControls(){
 			var image = $(this).find("img").clone();
 			var control = $("<a href='#' class='slideControl' data-slide='" + j + "' title='" + caption + "'></a>").html(image);
 			$(controls).append(control);
-			// $(controls).append("<a href='#' class='slideControl' data-slide='" + j + "' title='" + caption + "'>Slide " + eval(j+1) + "</a>");
-			// $(controls).append("<a href='#' class='slideControl' data-slide='" + j + "' title='" + caption + "'></a>");
-			// $(controls).append("<a href='#' class='slideControl' data-slide='" + j + "' title='" + caption + "'></a>");
-			// $(controls).find("a:eq(" + j + ")").append(image);
 		});
 	})
 }
@@ -34,15 +30,6 @@ function resizeSlides(){
 		$(this).find(".slideshowContent").width($(this).width() * numSlides[i]);
 		$(this).find(".slide").width($(this).width());
 		switchSlides(i, activeSlide[i], false);
-	});
-}
-
-function resizeControls(){
-	$(".slideshow").each(function(i){
-		currentSlide = $(this).find(".slide:eq(" + activeSlide[i] + ")").children($("img"));
-		currentSlideImage = currentSlide.children($("img"));
-		slideHeight = currentSlideImage.height();
-		$(this).find(".slideshowDirection").height(slideHeight);
 	});
 }
 
@@ -72,14 +59,12 @@ function slideDirection(slideshow, direction){
 		activeSlide[slideshow] = 0;
 	}
 	switchSlides(slideshow, activeSlide[slideshow], true);
-	resizeControls();
 }
 
 $(document).ready(function(){
 	initializeSlideshow();
 	generateControls();
 	resizeSlides();
-	resizeControls();
 
 	$("body").on("click", ".nextSlide, .previousSlide", function(){
 		if($(this).hasClass("nextSlide")){
