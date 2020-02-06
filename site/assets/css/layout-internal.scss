@@ -23,6 +23,9 @@ main {
     "slideshow ."
     "comments .";
   grid-template-columns: minmax(auto, calc(100vw - #{$sidebar-minWidth} - 1rem)) minmax(1rem, 1fr);
+
+  width: calc(100vw - 16rem);
+  max-width: 1000px;
 }
 
 main h1 {
@@ -50,7 +53,8 @@ $image-maxWidth: 1000px;
 $image-maxHeight: $image-maxWidth;
 
 article, .slideshow {
-  max-width: 1000px;
+  width: inherit;
+  max-width: inherit;
   // width: 75vw;
   margin-left: 0;
 }
