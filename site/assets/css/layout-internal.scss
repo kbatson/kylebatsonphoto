@@ -83,13 +83,17 @@ article figure {
 
 .slideshow {
   grid-area: slideshow;
-  max-height: 80vh;
+  height: 80vh;
 }
 
 .slideshowWrapper {
   max-width: 1000px;
-  max-height: inherit;
+  height: inherit;
   z-index: 0;
+}
+
+.slideshowContent {
+  height: inherit;
 }
 
 .slideshowDirection {
@@ -104,7 +108,7 @@ article figure {
       "caption";
     grid-template-rows: 1fr 3rem;
     grid-gap: .5rem;
-    height: $imageHeight;
+    height: calc(100% - 3rem);
 
     img {
       grid-area: image;
