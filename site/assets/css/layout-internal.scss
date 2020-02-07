@@ -48,7 +48,7 @@ footer {
   z-index: 1;
 }
 
-$imageHeight: 70vh;
+$imageHeight: 62vh;
 $image-maxWidth: 1000px;
 $image-maxHeight: $image-maxWidth;
 
@@ -83,7 +83,7 @@ article figure {
 
 .slideshow {
   grid-area: slideshow;
-  max-height: 70vh;
+  max-height: 80vh;
 }
 
 .slideshowWrapper {
@@ -98,17 +98,31 @@ article figure {
 
 .slide {
   figure {
-    margin: 0;
+    display: grid;
+    grid-template-areas:
+      "image"
+      "caption";
+    grid-template-rows: 1fr 3rem;
+    grid-gap: .5rem;
+    height: $imageHeight;
 
-    &.vertical {
-      height: $imageHeight;
-      max-height: $image-maxHeight;
-
-      img {
-        width: unset;
-        max-height: 100%;
-      }
+    img {
+      grid-area: image;
     }
+
+    figcaption {
+      grid-area: caption;
+    }
+
+    // &.vertical {
+    //   height: $imageHeight;
+
+    //   img {
+    //     width: unset;
+    //     height: $imageHeight;
+    //     max-height: 100%;
+    //   }
+    // }
   }
 }
 
@@ -120,7 +134,9 @@ article figure {
   body {
     grid-template-areas:
       "sidebar"
-      "main";
+      "main"
+      "footer";
+    grid-template-columns: auto;
   }
 
   header {
@@ -143,7 +159,8 @@ article figure {
   }
 
   main {
-    margin: 4rem auto;
+    margin: 4rem 0;
+    width: 100vw;
     border: none;
     grid-template-areas:
       ". intro ."
@@ -153,8 +170,20 @@ article figure {
     grid-template-columns: minmax(1rem, auto) 90vw minmax(1rem, auto);
   }
 
+  article, .slideshow {
+    width: 100%;
+  }
+
   article.blogPost {
     grid-area: auto;
     grid-column: 2;
+  }
+
+  footer {
+    grid-area: footer;
+    position: relative;
+    bottom: auto;
+    left: auto;
+    margin-top: 4rem;
   }
 }

@@ -8,6 +8,19 @@
     width: 1px;
 }
 
+.button, button {
+  border-radius: 0;
+  border: none;
+  font-family: inherit;
+  font-size: inherit;
+  background: #000000;
+  color: #ffffff;
+  padding: .5rem;
+  font-weight: bold;
+  margin: 0;
+  text-decoration: none;
+}
+
 html, body {
   margin: 0;
 }
@@ -51,6 +64,7 @@ header {
 
 .buyPrint {
   display: inline-block;
+  padding: .25rem .5rem;
 }
 
 .logo {

@@ -32,12 +32,16 @@
 .slide figure {
 	max-height: inherit;
 	width: auto;
+	height: 100%;
+	margin: 0;
 	display: inline-block;
 }
 
 .slide img {
-	max-width: 100%;
-	max-height: inherit;
+	width: 100%;
+	object-fit: scale-down;
+	object-position: center left;
+	height: 100%;
 }
 
 .slideshowControls {

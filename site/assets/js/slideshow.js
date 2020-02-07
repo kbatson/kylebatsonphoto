@@ -114,3 +114,7 @@ $(document).ready(function(){
         threshold:75
     });
 });
+
+$(window).on('load', function(){
+	resizeSlides();
+});
