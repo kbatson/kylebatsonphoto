@@ -2,6 +2,16 @@
 layout: gallery
 title: Street Color
 photos:
+- title: Pow Wow
+  location: Lawrence, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC02671-Edit-3.jpg"
+- title: Girls at a Food Truck
+  location: Lawrence, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/L1000614.jpg"
 - title: Ice cream truck
   location: New York City
   year: "2018"

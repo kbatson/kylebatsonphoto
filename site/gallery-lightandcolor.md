@@ -2,6 +2,11 @@
 layout: gallery
 title: Light & Color
 photos:
+- title: Yellow and Legs
+  location: Lawrence, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC02440.jpg"
 - title: Foliage
   location: Emporia, KS
   year: "2018"
@@ -63,5 +68,10 @@ photos:
   location: Chennai, India
   year: 2014
   url: "/assets/photos/DSC09387-Exposure-1.jpg"
+- title: Tree branches in front of windows at night
+  location: Lawrence, Kansas
+  year: "2019"
+  url: "/assets/photos/DSC1163-Edit-2.jpg"
+  print: ''
 
 ---

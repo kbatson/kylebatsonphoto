@@ -2,6 +2,11 @@
 layout: gallery
 title: Portraits
 photos:
+- title: Portrait of a woman in shadow
+  location: 'Lawrence, Kansas '
+  year: "2019"
+  url: "/assets/photos/DSC1155-Edit-2.jpg"
+  print: ''
 - title: Portrait of a woman
   location: ''
   url: "/assets/photos/DSC02341.jpg"

@@ -2,6 +2,21 @@
 layout: gallery
 title: Urban Structure
 photos:
+- title: Shadows and concrete
+  location: Wichita, KS
+  year: "2018"
+  url: "/assets/photos/L1030435 (597 of 1903).jpg"
+  print: ''
+- title:  Concrete, shadows, and a bar
+  location: Topeka, Kansas
+  year: "2019"
+  url: "/assets/photos/DSC01747.jpg"
+  print: ''
+- title: Tunnel, Bridge, and Arch
+  location: Wichita, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC04901.jpg"
 - title: Antenna with red and shadows
   location: Topeka, Kansas
   year: 2019
