@@ -38,4 +38,3 @@ photos:
   url: "/assets/photos/DSC00405-Provia.jpg"
 
 ---
-<p>These are some of the most recent photos I have taken over the past six months or so.</p>

@@ -2,6 +2,11 @@
 layout: gallery
 title: New
 photos:
+- title: Arizona Sunset
+  location: Quartzsite, Arizona
+  year: "2020"
+  print: https://kylebatsonphoto.bigcartel.com/product/arizona-sunset
+  url: "/assets/photos/DSC02691-Edit.jpg"
 - title: Springfield Reflections
   location: Springfield, Missouri
   year: "2019"
