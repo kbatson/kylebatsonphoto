@@ -24,7 +24,6 @@ $(document).ready(function(){
 
 	/* Show responsive menu */
 	$("#navToggle").on('click', function(){
-		console.log('click me');
 		if($("header nav>ul").is(":hidden")){
 			$("header nav>ul").slideDown("fast");
 		} else {
@@ -32,10 +31,46 @@ $(document).ready(function(){
 		}
 	});
 
-	$(".slideshow img").each(function(){
-        if($(this).height() >= $(this).width()){
-            $(this).parent().addClass("vertical")
-        }
-    });
+	var owl = $('.owl-carousel');
+	owl.owlCarousel({
+		items: 1,
+		nav: true,
+		lazyLoad: true,
+		lazyLoadEager: 3,
+		URLhashListener:true,
+    startPosition: 'URLHash'
+	});
 
+	$(document).keyup(function(e) {
+		if (e.keyCode == 37) { // Left arrow
+			owl.trigger('prev.owl.carousel');
+		}
+		if (e.keyCode == 39) { // Right arrow
+			owl.trigger('next.owl.carousel');
+		}
+	});
+
+	owl.on('loaded.owl.lazy', function(event) {
+		verticalCheck(event.item.index);
+	});
+
+	owl.on('changed.owl.carousel', function(event) {
+		$(event.currentTarget).attr('aria-live', 'polite');
+		$('.owl-item').attr('aria-hidden', 'true');
+		$('.owl-item').find('.buyPrint').attr('tabindex', '-1');
+
+		var activeItem = $('.owl-item').eq(event.item.index);
+		activeItem.attr('aria-hidden', 'false');
+		console.log(activeItem.find('button.buyPrint'));
+		activeItem.find('.buyPrint').attr('tabindex', '0');
+	});
+
+	function verticalCheck(index){
+		var image = $(".slideshow .owl-item").eq(index).find('img');
+		if(image.height() >= image.width()){
+      image.parent().addClass("vertical");
+      window.dispatchEvent(new Event('resize'));
+    }
+	}
 });
+
