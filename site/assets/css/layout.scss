@@ -86,6 +86,11 @@ article figure {
 .slide {
   figure {
     margin: 0;
+    max-height: $image-maxHeight;
+
+    img {
+      max-height: 100%;
+    }
 
     &.vertical {
       height: $imageHeight;
