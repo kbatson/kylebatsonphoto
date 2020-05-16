@@ -73,6 +73,10 @@ article figure {
   margin: 0;
 }
 
+figcaption {
+  margin-top: 1rem;
+}
+
 .slideshow {
   grid-area: slideshow;
   max-height: unset;

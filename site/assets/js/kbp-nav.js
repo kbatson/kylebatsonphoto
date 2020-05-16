@@ -54,9 +54,19 @@ $(document).ready(function(){
 		verticalCheck(event.item.index);
 	});
 
+	owl.on('changed.owl.carousel', function(event) {
+		$(event.currentTarget).attr('aria-live', 'polite');
+		$('.owl-item').attr('aria-hidden', 'true');
+		$('.owl-item').find('.buyPrint').attr('tabindex', '-1');
+
+		var activeItem = $('.owl-item').eq(event.item.index);
+		activeItem.attr('aria-hidden', 'false');
+		console.log(activeItem.find('button.buyPrint'));
+		activeItem.find('.buyPrint').attr('tabindex', '0');
+	});
+
 	function verticalCheck(index){
 		var image = $(".slideshow .owl-item").eq(index).find('img');
-		console.log(image, image.height(), image.width());
 		if(image.height() >= image.width()){
       image.parent().addClass("vertical");
       window.dispatchEvent(new Event('resize'));
