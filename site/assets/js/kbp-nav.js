@@ -69,8 +69,8 @@ $(document).ready(function(){
 		var image = $(".slideshow .owl-item").eq(index).find('img');
 		if(image.height() >= image.width()){
       image.parent().addClass("vertical");
-      window.dispatchEvent(new Event('resize'));
     }
+    window.dispatchEvent(new Event('resize'));
 	}
 });
 
