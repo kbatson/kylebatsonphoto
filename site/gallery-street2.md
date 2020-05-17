@@ -2,6 +2,39 @@
 layout: gallery
 title: Street Color
 photos:
+- title: Game On
+  location: Iowa State Fair Des Moines, Iowa
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC00080-Edit.jpg"
+- title: Pony Competition
+  location: Iowa State Fair Des Moines, Iowa
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC09956-Edit.jpg"
+  hidden: true
+- title: Sizzler
+  location: Wichita River Festival, Wichita, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC06226.jpg"
+- title: Merry-Go-Round
+  location: Wichita River Festival, Wichita, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC06077.jpg"
+- title: Fiesta Mexicana
+  location: Topeka, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC08357.jpg"
+  hidden: true
+- title: Buffalo Sweat
+  location: Topeka, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC08166.jpg"
+  hidden: true
 - title: Pow Wow
   location: Lawrence, Kansas
   year: "2019"
@@ -76,6 +109,7 @@ photos:
   year: "2018"
   url: "/assets/photos/DSC08297-Exposure.jpg"
   print: ''
+  hidden: true
 - title: Man Crossing the Street with Earbuds
   location: Merida, Mexico
   year: "2018"

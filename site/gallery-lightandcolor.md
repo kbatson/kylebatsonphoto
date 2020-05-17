@@ -2,6 +2,11 @@
 layout: gallery
 title: Light & Color
 photos:
+- title: Morning Reflections
+  location: Henderson, North Carolina
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC09897-Edit.jpg"
 - title: Yellow and Legs
   location: Lawrence, Kansas
   year: "2019"

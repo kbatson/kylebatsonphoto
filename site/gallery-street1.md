@@ -8,6 +8,12 @@ photos:
     central figure is a young girl smiling.
   location: Wichita, Kansas
   url: "/assets/photos/DSC05111.jpg"
+- title: Eye Contact
+  location: Douglas County Fair, Lawrence, Kansas
+  year: "2019"
+  print: ''
+  url: "/assets/photos/L1010390-Edit.jpg"
+  hidden: true
 - title: Couple Kissing with Stroller
   caption: Outdoors in a city, a couple is kissing. The man has one hand on a stroller
     with a child inside while yet another child holds on to the other handle of the

@@ -2,6 +2,12 @@
 layout: gallery
 title: Nature
 photos:
+- title: Badlands Sunset
+  location: South Dakota
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC09201.jpg"
+  hidden: true
 - title: Gorilla in the Forest
   caption: Image of a woman outside crouched over taking a photograph of a subject
     out of frame while a young girl bends down to pet down a pug on a leash while
@@ -9,6 +15,17 @@ photos:
   location: Volcanoes National Park, Rwanda
   year: 2016
   url: "/assets/photos/DSC00948.jpg"
+- title: Dakota Layers
+  location: South Dakota
+  year: "2019"
+  print: https://kylebatsonphoto.bigcartel.com/product/dakota-layers
+  url: "/assets/photos/DSC08958.jpg"
+- title: Mists on the Badlands
+  location: South Dakota
+  year: "2019"
+  print: https://kylebatsonphoto.bigcartel.com/product/mists-on-the-badlands
+  url: "/assets/photos/DSC08763-Edit-3.jpg"
+  hidden: true
 - title: Saddle-billed Stork Head-on
   location: South Africa
   year: 2016

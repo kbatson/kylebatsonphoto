@@ -7,6 +7,86 @@ photos:
   year: "2020"
   print: https://kylebatsonphoto.bigcartel.com/product/arizona-sunset
   url: "/assets/photos/DSC02691-Edit.jpg"
+- title: Arizona Sunset
+  location: Quartzsite, Arizona
+  year: "2020"
+  print: ''
+  url: "/assets/photos/DSC02886-Edit.jpg"
+- title: Arizona Sunset
+  location: Quartzsite, Arizona
+  year: "2020"
+  print: ''
+  url: "/assets/photos/DSC02702.jpg"
+- title: Arizona Sunset
+  location: Quartzsite, Arizona
+  year: "2020"
+  print: ''
+  url: "/assets/photos/DSC02606-Edit.jpg"
+- title: Cactus on Blue
+  location: Campo, California
+  year: "2020"
+  print: ''
+  url: "/assets/photos/DSC03013-Edit.jpg"
+- title: Easy Speaking, Pub Street
+  location: Siem Reap, Cambodia
+  year: "2020"
+  print: https://kylebatsonphoto.bigcartel.com/product/pub-street-siem-reap-cambodi
+  url: "/assets/photos/DSC02470-Edit.jpg"
+- title: Outdoor Restaurant at Sunset
+  location: Siem Reap, Cambodia
+  year: "2020"
+  print: ''
+  url: "/assets/photos/DSC02712-Edit.jpg"
+- title: Girl in Red with Water Bottle
+  location: Siem Reap, Cambodia
+  year: "2020"
+  print: ''
+  url: "/assets/photos/DSC02674-Edit.jpg"
+- title: Girl with Onlookers in Road
+  location: Kompong Pluk, Cambodia
+  year: "2020"
+  print: ''
+  url: "/assets/photos/DSC01372-Edit.jpg"
+- title: Boy with Bucket
+  location: Kompong Pluk, Cambodia
+  year: "2020"
+  print: ''
+  url: "/assets/photos/DSC01295-Edit.jpg"
+- title: Cambodian Classroom
+  location: Kompong Pluk, Cambodia
+  year: "2020"
+  print: ''
+  url: "/assets/photos/DSC01396-Edit.jpg"
+- title: Monk Shopping
+  location: Kompong Pluk, Cambodia
+  year: "2020"
+  print: ''
+  url: "/assets/photos/DSC01375-Edit-Edit.jpg"
+- title: Kompong Pluk, Cambodia
+  location: Kompong Pluk, Cambodia
+  year: "2020"
+  print: ''
+  url: "/assets/photos/DSC01611-Edit.jpg"
+- title: Boats in Line
+  location: Kompong Pluk, Cambodia
+  year: "2020"
+  print: ''
+  url: "/assets/photos/DSC01242-Edit.jpg"
+- title: Burning Flow
+  location: Siem Reap, Cambodia
+  year: "2020"
+  print: https://kylebatsonphoto.bigcartel.com/product/burning-flow
+  url: "/assets/photos/DSC01786-Edit.jpg"
+- title: Grasses Through the Window
+  location: Los Angeles, California
+  year: "2020"
+  print: ''
+  url: "/assets/photos/DSC03034-Edit.jpg"
+- title: Airport Terminal
+  location: Guangzhou, China
+  year: "2020"
+  print: ''
+  url: "/assets/photos/DSC01883.jpg"
 - title: Springfield Reflections
   location: Springfield, Missouri
   year: "2019"
@@ -22,66 +102,10 @@ photos:
   year: "2019"
   print: https://kylebatsonphoto.bigcartel.com/product/as-the-moon-rises
   url: "/assets/photos/DSC01610.jpg"
-- title: Morning Reflections
-  location: Henderson, North Carolina
-  year: "2019"
-  print: ''
-  url: "/assets/photos/DSC09897-Edit.jpg"
-- title: Mists on the Badlands
-  location: South Dakota
-  year: "2019"
-  print: https://kylebatsonphoto.bigcartel.com/product/mists-on-the-badlands
-  url: "/assets/photos/DSC08763-Edit-3.jpg"
-- title: Dakota Layers
-  location: South Dakota
-  year: "2019"
-  print: https://kylebatsonphoto.bigcartel.com/product/dakota-layers
-  url: "/assets/photos/DSC08958.jpg"
-- title: Badlands Sunset
-  location: South Dakota
-  year: "2019"
-  print: ''
-  url: "/assets/photos/DSC09201.jpg"
-- title: Pony Competition
-  location: Iowa State Fair Des Moines, Iowa
-  year: "2019"
-  print: ''
-  url: "/assets/photos/DSC09956-Edit.jpg"
-- title: Game On
-  location: Iowa State Fair Des Moines, Iowa
-  year: "2019"
-  print: ''
-  url: "/assets/photos/DSC00080-Edit.jpg"
-- title: Standard Young
-  location: Douglas County Fair, Lawrence, Kansas
-  year: "2019"
-  print: ''
-  url: "/assets/photos/L1010288-Edit-2.jpg"
-- title: Eye Contact
-  location: Douglas County Fair, Lawrence, Kansas
-  year: "2019"
-  print: ''
-  url: "/assets/photos/L1010390-Edit.jpg"
-- title: Buffalo Sweat
-  location: Topeka, Kansas
-  year: "2019"
-  print: ''
-  url: "/assets/photos/DSC08166.jpg"
-- title: Fiesta Mexicana
-  location: Topeka, Kansas
-  year: "2019"
-  print: ''
-  url: "/assets/photos/DSC08357.jpg"
-- title: Merry-Go-Round
-  location: Wichita River Festival, Wichita, Kansas
-  year: "2019"
-  print: ''
-  url: "/assets/photos/DSC06077.jpg"
-- title: Sizzler
-  location: Wichita River Festival, Wichita, Kansas
-  year: "2019"
-  print: ''
-  url: "/assets/photos/DSC06226.jpg"
+
+
+
+
 
 
 ---
