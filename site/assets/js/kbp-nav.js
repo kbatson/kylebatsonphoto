@@ -37,6 +37,7 @@ $(document).ready(function(){
 		nav: true,
 		lazyLoad: true,
 		lazyLoadEager: 3,
+		loop: true,
 		URLhashListener:true,
     startPosition: 'URLHash',
     autoHeight: true
