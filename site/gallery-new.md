@@ -37,6 +37,11 @@ photos:
   year: "2020"
   print: ''
   url: "/assets/photos/DSC02712-Edit.jpg"
+- title: Street Shopping
+  location: Siem Reap, Cambodia
+  year: "2020"
+  print: ''
+  url: "/assets/photos/DSC02588-Edit.jpg"
 - title: Girl in Red with Water Bottle
   location: Siem Reap, Cambodia
   year: "2020"
