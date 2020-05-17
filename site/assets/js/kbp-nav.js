@@ -38,7 +38,8 @@ $(document).ready(function(){
 		lazyLoad: true,
 		lazyLoadEager: 3,
 		URLhashListener:true,
-    startPosition: 'URLHash'
+    startPosition: 'URLHash',
+    autoHeight: true
 	});
 
 	$(document).keyup(function(e) {

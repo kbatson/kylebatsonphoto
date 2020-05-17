@@ -22,8 +22,8 @@ main {
     "article spacer"
     "slideshow spacer"
     "comments spacer";
-  grid-template-columns: minmax(auto, calc(100vw - #{$sidebar-minWidth} - 1rem)) minmax(1rem, 1fr);
-  grid-template-rows: auto auto minmax(50vh, 70vh) auto;
+  grid-template-columns: minmax(30vw, calc(100vw - #{$sidebar-minWidth} - 1rem)) minmax(1rem, 1fr);
+  grid-template-rows: auto auto minmax(50vh, 85vh) 10rem;
 }
 
 header nav li .menuItem {
@@ -42,7 +42,7 @@ footer {
   z-index: 1;
 }
 
-$imageHeight: 70vh;
+$imageHeight: 80vh;
 $image-maxWidth: 1000px;
 $image-maxHeight: $image-maxWidth;
 
@@ -76,6 +76,18 @@ article figure {
 
 figcaption {
   margin-top: 1rem;
+
+  .title {
+    font-weight: bold;
+  }
+
+  .locationYear {
+    display: block;
+  }
+
+  .buyPrint {
+    margin-top: 1rem;
+  }
 }
 
 .slideshow {
@@ -103,7 +115,7 @@ figcaption {
 
       img {
         width: unset;
-        max-height: 100%;
+        max-height: calc(100% - 7rem); /* Make space for caption */
       }
     }
   }
