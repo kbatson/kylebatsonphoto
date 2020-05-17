@@ -61,8 +61,8 @@ $(document).ready(function(){
 
 		var activeItem = $('.owl-item').eq(event.item.index);
 		activeItem.attr('aria-hidden', 'false');
-		console.log(activeItem.find('button.buyPrint'));
 		activeItem.find('.buyPrint').attr('tabindex', '0');
+		verticalCheck(event.item.index);
 	});
 
 	function verticalCheck(index){
