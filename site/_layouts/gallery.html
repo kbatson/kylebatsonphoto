@@ -10,7 +10,7 @@
 		<div class="slideshow owl-carousel">
 
 			{% for photo in page.photos %}{% unless photo.hidden %}
-			<div class="slide">
+			<div class="slide" data-hash="{{ forloop.index }}">
 				<figure>
 					<img class="owl-lazy" data-src="{{ photo.url }}" alt="{{ photo.caption }}">
 					<figcaption>

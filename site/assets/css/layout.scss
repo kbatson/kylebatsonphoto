@@ -23,6 +23,7 @@ main {
     "slideshow spacer"
     "comments spacer";
   grid-template-columns: minmax(auto, calc(100vw - #{$sidebar-minWidth} - 1rem)) minmax(1rem, 1fr);
+  grid-template-rows: auto auto minmax(50vh, 70vh) auto;
 }
 
 header nav li .menuItem {
