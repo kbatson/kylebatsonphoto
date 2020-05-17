@@ -7,12 +7,10 @@ photos:
     url: "/assets/photos/DSC02527.jpg"
 
   - title: Bride and groom
-    year: ''
     location: ''
     url: "/assets/photos/DSC02430-Exposure.jpg"
 
   - title: Signing of marriage certificate
-    year: ''
     location: ''
     url: "/assets/photos/DSC02900.jpg"
 
@@ -21,7 +19,8 @@ photos:
     url: "/assets/photos/DSC03224-Exposure.jpg"
 
   - title: Embracing couple
-    location: ''
+    location: Wichita, KS
+    year: 2018
     url: "/assets/photos/DSC09328-Exposure.jpg"
 
   - title: Exchanging of vows

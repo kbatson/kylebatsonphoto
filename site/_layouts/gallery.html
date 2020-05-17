@@ -15,7 +15,7 @@
 					<img class="owl-lazy" data-src="{{ photo.url }}" alt="{{ photo.caption }}">
 					<figcaption>
 						<span class="title">{{ photo.title }}</span>
-						<span class="locationYear">{{ photo.location }}{% if photo.year %}, {{ photo.year }}{% endif %}</span>
+						<span class="locationYear">{{ photo.location }}{% if photo.year and photo.year != '' and photo.location and photo.location != '' %}, {% endif %}{{ photo.year }}</span>
 						{% if photo.print and photo.print != '' %}<a href="{{ photo.print }}" class="button buyPrint">Buy a Print</a>{% endif %}
 					</figcaption>
 				</figure>
