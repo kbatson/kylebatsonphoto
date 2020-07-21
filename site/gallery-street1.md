@@ -8,6 +8,7 @@ photos:
     central figure is a young girl smiling.
   location: Wichita, Kansas
   url: "/assets/photos/DSC05111.jpg"
+  print: 'https://kylebatsonphoto.bigcartel.com/product/mermaid-amongst-children'
 - title: Eye Contact
   location: Douglas County Fair, Lawrence, Kansas
   year: "2019"
@@ -112,6 +113,7 @@ photos:
   location: Copacabana, Bolivia
   year: 2014
   url: "/assets/photos/DSC04119.jpg"
+  print: https://kylebatsonphoto.bigcartel.com/product/women-in-bowler-hats
 - title: Kids Jumping in the Splash of Water
   caption: A blonde girl jumps for joy into the splash of water made by a carnival
     ride at night surrounded by other playing kids.

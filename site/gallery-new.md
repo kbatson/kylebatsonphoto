@@ -2,6 +2,11 @@
 layout: gallery
 title: New
 photos:
+- title: Bald Eagle
+  location: Frog Lake, Oregon
+  year: "2020"
+  print: https://kylebatsonphoto.bigcartel.com/product/bald-eagle
+  url: "/assets/photos/DSC05415-Edit.jpg"
 - title: Arizona Sunset
   location: Quartzsite, Arizona
   year: "2020"

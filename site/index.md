@@ -2,6 +2,9 @@
 layout: home
 title: Home
 photos:
+- title: Bald Eagle
+  location: Frog Lake, Oregon
+  url: "/assets/photos/DSC05415-highres.jpg"
 - title: Mexican Commuters in Red
   caption: Two women walk in the street while a car drives past behind them.
   location: Merida, Mexio

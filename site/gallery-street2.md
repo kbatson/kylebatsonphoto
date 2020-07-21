@@ -59,7 +59,7 @@ photos:
   location: SoHo, New York City
   year: "2018"
   url: "/assets/photos/L1020434.jpg"
-  print: ''
+  print: 'https://kylebatsonphoto.bigcartel.com/product/phones-out-at-intersection'
 - title: Women Kissing
   location: SoHo, New York City
   year: "2018"
@@ -83,7 +83,7 @@ photos:
   location: Rio de Janiero, Brazil
   url: "/assets/photos/L1010962.jpg"
   year: ''
-  print: ''
+  print: 'https://kylebatsonphoto.bigcartel.com/product/yellow-belly-shirt'
 - title: The Bubble Man
   location: Lawrence, Kansas
   year: "2016"
@@ -98,7 +98,7 @@ photos:
   location: Merida, Mexico
   year: "2018"
   url: "/assets/photos/DSC08159-Exposure.jpg"
-  print: ''
+  print: 'https://kylebatsonphoto.bigcartel.com/product/pedestrians-merida-mexico'
 - title: Cop with Workers
   location: Merida, Mexico
   year: "2018"
@@ -146,7 +146,7 @@ photos:
   location: Istanbuyl, Turkey
   year: "2015"
   url: "/assets/photos/DSC07081-Exposure.jpg"
-  print: ''
+  print: 'https://kylebatsonphoto.bigcartel.com/product/confectioners'
 - title: Motorcycle Riders in Traffic
   location: Bengalaru, India
   year: "2014"
