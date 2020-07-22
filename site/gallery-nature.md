@@ -15,6 +15,7 @@ photos:
   location: Volcanoes National Park, Rwanda
   year: 2016
   url: "/assets/photos/DSC00948.jpg"
+  print: https://kylebatsonphoto.bigcartel.com/product/gorilla-in-the-forest-rwanda
 - title: Dakota Layers
   location: South Dakota
   year: "2019"
