@@ -2,12 +2,6 @@
 layout: gallery
 title: Nature
 photos:
-- title: Badlands Sunset
-  location: South Dakota
-  year: "2019"
-  print: ''
-  url: "/assets/photos/DSC09201.jpg"
-  hidden: true
 - title: Gorilla in the Forest
   caption: Image of a woman outside crouched over taking a photograph of a subject
     out of frame while a young girl bends down to pet down a pug on a leash while
@@ -16,11 +10,27 @@ photos:
   year: 2016
   url: "/assets/photos/DSC00948.jpg"
   print: https://kylebatsonphoto.bigcartel.com/product/gorilla-in-the-forest-rwanda
+- title: As the Moon Rises
+  location: Yuma, Arizona
+  year: "2019"
+  print: https://kylebatsonphoto.bigcartel.com/product/as-the-moon-rises
+  url: "/assets/photos/DSC01610.jpg"
+- title: Badlands Sunset
+  location: South Dakota
+  year: "2019"
+  print: ''
+  url: "/assets/photos/DSC09201.jpg"
+  hidden: true
 - title: Dakota Layers
   location: South Dakota
   year: "2019"
   print: https://kylebatsonphoto.bigcartel.com/product/dakota-layers
   url: "/assets/photos/DSC08958.jpg"
+- title: Dunes at White Sands
+  location: White Sands National Monument, New Mexico
+  year: "2019"
+  print: https://kylebatsonphoto.bigcartel.com/product/dunes-at-white-sands
+  url: "/assets/photos/DSC08293_683826.jpg"
 - title: Mists on the Badlands
   location: South Dakota
   year: "2019"
@@ -33,23 +43,19 @@ photos:
   print: ''
   url: "/assets/photos/DSC00798.jpg"
 - title: Dramatic Forest
-  caption: Image of a woman outside crouched over taking a photograph of a subject
-    out of frame while a young girl bends down to pet down a pug on a leash while
-    a sculpture of a dinosaur looms in the background.
   location: Yellowstone National Park, Wyoming
   year: 2018
   url: "/assets/photos/DSC07530.jpg"
 - title: Yellowstone National Park
-  caption: Image of a woman outside crouched over taking a photograph of a subject
-    out of frame while a young girl bends down to pet down a pug on a leash while
-    a sculpture of a dinosaur looms in the background.
   location: Yellowstone National Park, Wyoming
   year: 2018
   url: "/assets/photos/DSC07590.jpg"
+  print: https://kylebatsonphoto.bigcartel.com/product/yellowstone-valley
 - title: Dunes at Sunset
-  location: White Sands National Monument, New Meico
+  location: White Sands National Monument, New Mexico
   year: 2018
   url: "/assets/photos/DSC08284.jpg"
+  print: https://kylebatsonphoto.bigcartel.com/product/dunes-at-sunset
 - title: Sand Dunes
   location: Great Sand Dunes National Monument, Colorado
   year: 2018

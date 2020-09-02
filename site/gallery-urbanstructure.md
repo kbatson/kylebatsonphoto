@@ -2,6 +2,16 @@
 layout: gallery
 title: Urban Structure
 photos:
+- title: Springfield Reflections
+  location: Springfield, Missouri
+  year: "2019"
+  print: https://kylebatsonphoto.bigcartel.com/product/springfield-reflections
+  url: "/assets/photos/DSC00346.jpg"
+- title: East of Yuma, Arizona
+  location: Yuma, Arizona
+  year: "2019"
+  print: https://kylebatsonphoto.bigcartel.com/product/east-of-yuma-arizona
+  url: "/assets/photos/DSC01592.jpg"
 - title: Shadows and concrete
   location: Wichita, KS
   year: "2018"

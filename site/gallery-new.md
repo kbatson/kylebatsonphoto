@@ -2,20 +2,35 @@
 layout: gallery
 title: New
 photos:
+- title: Osprey Fishing
+  location: Frog Lake, Oregon
+  year: "2020"
+  print: ''
+  url: "/assets/photos/DSC00252-Edit.jpg"
 - title: Bald Eagle
   location: Frog Lake, Oregon
   year: "2020"
   print: https://kylebatsonphoto.bigcartel.com/product/bald-eagle
   url: "/assets/photos/DSC05415-Edit.jpg"
+- title: Rainstorm Over Idaho
+  location: Idaho
+  year: "2020"
+  print: https://kylebatsonphoto.bigcartel.com/product/rainstorm-over-idaho
+  url: "/assets/photos/DSC05286-Edit.jpg"
+- title: Milky Way With Wagon Wheel
+  location: Scott City, Kansas
+  year: "2020"
+  print: https://kylebatsonphoto.bigcartel.com/product/milky-way-with-wagon-wheel
+  url: "/assets/photos/DSC04413-Edit.jpg"
+- title: Western Kansas Thunderstorm
+  location: Scott City, Kansas
+  year: "2020"
+  print: https://kylebatsonphoto.bigcartel.com/product/western-kansas-thunderstorm
+  url: "/assets/photos/DSC05080-2-Edit.jpg"
 - title: Arizona Sunset
   location: Quartzsite, Arizona
   year: "2020"
   print: https://kylebatsonphoto.bigcartel.com/product/arizona-sunset
-  url: "/assets/photos/DSC02691-Edit.jpg"
-- title: Arizona Sunset
-  location: Quartzsite, Arizona
-  year: "2020"
-  print: ''
   url: "/assets/photos/DSC02886-Edit.jpg"
 - title: Arizona Sunset
   location: Quartzsite, Arizona
@@ -97,21 +112,7 @@ photos:
   year: "2020"
   print: ''
   url: "/assets/photos/DSC01883.jpg"
-- title: Springfield Reflections
-  location: Springfield, Missouri
-  year: "2019"
-  print: https://kylebatsonphoto.bigcartel.com/product/springfield-reflections
-  url: "/assets/photos/DSC00346.jpg"
-- title: East of Yuma, Arizona
-  location: Yuma, Arizona
-  year: "2019"
-  print: https://kylebatsonphoto.bigcartel.com/product/east-of-yuma-arizona
-  url: "/assets/photos/DSC01592.jpg"
-- title: As the Moon Rises
-  location: Yuma, Arizona
-  year: "2019"
-  print: https://kylebatsonphoto.bigcartel.com/product/as-the-moon-rises
-  url: "/assets/photos/DSC01610.jpg"
+  hidden: true
 
 
 
