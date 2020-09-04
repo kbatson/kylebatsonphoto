@@ -1,16 +1,46 @@
 @import "theme.default";
 
-.owl-carousel .owl-stage-outer {
-  height: 100%;
-}
+.owl-carousel {
+  .owl-stage-outer {
+    height: 100%;
+  }
 
-.owl-carousel figure {
-  background: url("/assets/images/ajax-loader.gif") center center no-repeat;
-
-  &.vertical {
-    background-position: center left;
+  .owl-stage {
+    height: inherit;
   }
 }
+
+.owl-item {
+  height: inherit;
+
+  .slide {
+    height: inherit;
+  }
+
+  figure {
+    height: inherit;
+    margin: 0;
+    display: grid;
+    grid-template-rows: calc(100% - 6rem) 6rem;
+  }
+
+  img {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: scale-down;
+    object-position: top left;
+  }
+}
+
+// @media(max-width: 500px){
+//   .owl-carousel {
+//     .owl-item {
+//       figure {
+//         grid-template-rows: 75% 25%;
+//       }
+//     }
+//   }
+// }
 
 .owl-nav {
   display: none;
@@ -19,8 +49,7 @@
   top: 0;
   left: 0;
   width: 100%;
-  height: calc(80vh - 12rem);
-  min-height: 60vh;
+  height: 85%;
 }
 
 .slideshow:hover .owl-nav {
@@ -47,7 +76,6 @@
   pointer-events: none;
   height: 3rem;
   width: 2rem;
-  margin-top: -10rem;
   align-self: center;
   position: relative;
   text-indent: -999rem;
@@ -87,7 +115,7 @@
     button.owl-dot {
       height: 1rem;
       width: 1rem;
-      margin-right: 1rem;
+      margin: 0 1rem .5rem 0;
       background: #000000;
 
       &.active {

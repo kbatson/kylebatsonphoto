@@ -75,7 +75,7 @@ article figure {
 }
 
 figcaption {
-  margin-top: 1rem;
+  margin: .5rem 0;
 
   .title {
     font-weight: bold;
@@ -92,37 +92,27 @@ figcaption {
 
 .slideshow {
   grid-area: slideshow;
-  max-height: unset;
+  // max-height: unset;
 }
 
-.slideshowWrapper {
-  max-width: 1000px;
-  height: inherit;
-}
-
-.slide {
-  figure {
-    margin: 0;
-    max-height: $image-maxHeight;
-
-    img {
-      max-height: 100%;
-    }
-
-    &.vertical {
-      height: $imageHeight;
-      max-height: $image-maxHeight;
-
-      img {
-        width: unset;
-        max-height: calc(100% - 7rem); /* Make space for caption */
-      }
-    }
-  }
+main.gallery {
+  grid-template-rows: 1fr minmax(0, auto) calc(80vh - 1rem) minmax(0, auto);
 }
 
 .comments {
   grid-area: comments;
+}
+
+@media(max-width: 500px){
+  main.gallery {
+    grid-template-rows: 1fr minmax(0, auto) calc(63vh - 3rem) minmax(0, auto);
+  }
+}
+
+@media(min-width: 500px) and (max-width: 800px){
+  main.gallery {
+    grid-template-rows: 1fr minmax(0, auto) calc(70vh - 3rem) minmax(0, auto);
+  }
 }
 
 @media(max-width: 800px){
@@ -141,6 +131,7 @@ figcaption {
       background: #000000;
       width: 100%;
       padding-left: 4rem;
+      min-height: 3rem;
 
       a span {
         clear: none;

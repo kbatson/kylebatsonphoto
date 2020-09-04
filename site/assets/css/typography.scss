@@ -82,9 +82,15 @@ header {
   clear: both;
   font-size: 1.2em;
   padding-left: 1em;
-  padding-right: .5em;
+  padding-right: .3em;
 }
 
 .logo a {
   text-decoration: none;
+}
+
+@media(max-width: 500px){
+  .logo span {
+    font-size: 8vw;
+  }
 }
