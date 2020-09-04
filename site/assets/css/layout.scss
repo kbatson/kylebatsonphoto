@@ -96,7 +96,11 @@ figcaption {
 }
 
 main.gallery {
-  grid-template-rows: 1fr minmax(0, auto) calc(80vh - 1rem) minmax(0, auto);
+  grid-template-areas:
+        "intro spacer"
+        "slideshow spacer"
+        "comments spacer";
+  grid-template-rows: minmax(0, auto) calc(80vh - 1rem) minmax(0, auto);
 }
 
 .comments {
@@ -105,13 +109,13 @@ main.gallery {
 
 @media(max-width: 500px){
   main.gallery {
-    grid-template-rows: 1fr minmax(0, auto) calc(63vh - 3rem) minmax(0, auto);
+    grid-template-rows: 1fr calc(63vh - 3rem) minmax(0, auto);
   }
 }
 
 @media(min-width: 500px) and (max-width: 800px){
   main.gallery {
-    grid-template-rows: 1fr minmax(0, auto) calc(70vh - 3rem) minmax(0, auto);
+    grid-template-rows: 1fr calc(70vh - 3rem) minmax(0, auto);
   }
 }
 
