@@ -1,0 +1,60 @@
+.theater {
+  background: black;
+  color: white;
+
+  grid-template-columns: 0 100%;
+
+  header, footer {
+    display: none;
+  }
+
+  main.gallery {
+    grid-template-columns: 100% 0;
+    grid-template-rows: 0 calc(90vh - 1rem) 0;
+
+    article.gallery-intro {
+      display: none;
+    }
+
+    article, .slideshow {
+      max-width: unset;
+    }
+
+    figure {
+      img {
+        align-self: center
+      }
+
+      figcaption {
+        margin: .5rem 1rem;
+      }
+    }
+  }
+
+  .buyPrint {
+    background: white;
+    color: black;
+  }
+
+  .owl-carousel {
+    .owl-dots {
+      margin: 1rem 1rem 0 1rem;
+      button.owl-dot {
+        background: #ffffff;
+
+        &.active {
+          outline-color: #ffffff;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 800px){
+  body.theater {
+    grid-template-areas:
+      "sidebar"
+      "main";
+    grid-template-columns: 100%;
+  }
+}

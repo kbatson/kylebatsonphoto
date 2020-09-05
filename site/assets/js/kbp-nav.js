@@ -42,6 +42,7 @@ $(document).ready(function(){
     startPosition: 'URLHash'
 	});
 
+
 	$(document).keyup(function(e) {
 		if (e.keyCode == 37) { // Left arrow
 			owl.trigger('prev.owl.carousel');
@@ -59,6 +60,15 @@ $(document).ready(function(){
 		var activeItem = $('.owl-item').eq(event.item.index);
 		activeItem.attr('aria-hidden', 'false');
 		activeItem.find('.buyPrint').attr('tabindex', '0');
+	});
+
+	function toggleTheater(e){
+		$('body').toggleClass('theater');
+		owl.trigger('refresh.owl.carousel');
+	}
+
+	$('#theaterToggle').on('click', function(e){
+		toggleTheater(e);
 	});
 });
 

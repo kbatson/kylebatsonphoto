@@ -7,8 +7,9 @@
 				{{ content }}
 			</div>
 		</article>
-		<div class="slideshow owl-carousel">
+		<button id="theaterToggle">Theater</button>
 
+		<div class="slideshow owl-carousel">
 			{% for photo in page.photos %}{% unless photo.hidden %}
 			<div class="slide" data-hash="{{ forloop.index }}">
 				<figure>

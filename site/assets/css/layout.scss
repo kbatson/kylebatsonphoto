@@ -74,6 +74,15 @@ article figure {
   margin: 0;
 }
 
+#theaterToggle {
+  grid-area: slideshow;
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 2;
+}
+
 figcaption {
   margin: .5rem 0;
 
