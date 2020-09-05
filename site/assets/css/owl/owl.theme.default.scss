@@ -15,6 +15,7 @@
 
   .slide {
     height: inherit;
+    margin-right: 1px; //fixes sliver of image from appearing
   }
 
   figure {
@@ -28,19 +29,9 @@
     max-height: 100%;
     max-width: 100%;
     object-fit: scale-down;
-    object-position: top left;
+    // object-position: top left;
   }
 }
-
-// @media(max-width: 500px){
-//   .owl-carousel {
-//     .owl-item {
-//       figure {
-//         grid-template-rows: 75% 25%;
-//       }
-//     }
-//   }
-// }
 
 .owl-nav {
   display: none;
@@ -121,6 +112,16 @@
       &.active {
         outline: 2px solid #000000;
         outline-offset: 2px;
+      }
+    }
+  }
+}
+
+@media(max-width: 800px){
+  main.gallery {
+    .owl-carousel {
+      .owl-dots {
+        margin: 1rem 1rem 0 1rem;
       }
     }
   }

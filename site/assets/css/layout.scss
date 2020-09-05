@@ -187,6 +187,19 @@ main.gallery {
     width: calc(100% - 2rem);
     border-top: none;
     margin: 0 1rem;
+
+    &.gallery {
+      width: 100%;
+      margin: 0;
+
+      article.gallery-intro {
+        margin: 0 1rem;
+      }
+
+      figcaption {
+        margin: .5rem 1rem;
+      }
+    }
   }
 
   footer nav li {
