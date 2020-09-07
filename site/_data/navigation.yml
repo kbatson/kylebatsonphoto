@@ -1,15 +1,13 @@
 toc:
   - title: Photos
     subfolderitems:
-    - name: New
-      link: /gallery-new.html
     - name: Festivals
       link: /gallery-festivals.html
       hidden: true
-    - name: Street B&W
-      link: /gallery-street1.html
     - name: Street Color
       link: /gallery-street2.html
+    - name: Street B&W
+      link: /gallery-street1.html
     - name: Urban Structure
       link: /gallery-urbanstructure.html
     - name: Light & Color
@@ -18,6 +16,8 @@ toc:
       link: /gallery-nature.html
     - name: Travel
       link: /gallery-travel.html
+    - name: New
+      link: /gallery-new.html
   - title: Commercial
     subfolderitems:
     - name: Weddings
