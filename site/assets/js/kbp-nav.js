@@ -38,8 +38,10 @@ $(document).ready(function(){
 		lazyLoad: true,
 		lazyLoadEager: 3,
 		loop: true,
+		dots: false,
 		URLhashListener:true,
-    startPosition: 'URLHash'
+    startPosition: 'URLHash',
+    onInitialized: selectItem
 	});
 
 
@@ -53,14 +55,30 @@ $(document).ready(function(){
 	});
 
 	owl.on('changed.owl.carousel', function(event) {
-		$(event.currentTarget).attr('aria-live', 'polite');
-		$('.owl-item').attr('aria-hidden', 'true');
-		$('.owl-item').find('.buyPrint').attr('tabindex', '-1');
-
-		var activeItem = $('.owl-item').eq(event.item.index);
-		activeItem.attr('aria-hidden', 'false');
-		activeItem.find('.buyPrint').attr('tabindex', '0');
+		onChanged: selectItem(event);
 	});
+
+	// owl.on('initialized.owl.carousel', function(event) {
+	// 	onInitialized: selectItem(event);
+	// });
+
+	owl.on('translated.owl.carousel', function(event) {
+		onTranslated: selectItem(event);
+	});
+
+	function selectItem(event){
+		$('.slide').attr('aria-hidden', true);
+		$('.slide').each(function(){
+			$(this).find('.buyPrint').attr('tabindex', '-1');
+		});
+		var currentSlide = $('.owl-item').eq(event.item.index).children('.slide');
+		currentSlide.attr('aria-hidden', false);
+		currentSlide.find('.buyPrint').attr('tabindex', '0');
+		var carouselIndex = currentSlide.attr('data-hash');
+
+		$('.thumbnail').removeClass('active');
+		$(`.thumbnail[href="#${carouselIndex}"]`).addClass('active');
+	}
 
 	function toggleTheater(e){
 		$('body').toggleClass('theater');

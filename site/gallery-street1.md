@@ -102,8 +102,8 @@ photos:
   location: Aguas Calientes, Peru
   year: 2014
   url: "/assets/photos/DSC03909.jpg"
-- title: Old Man Sitting in Front of Church Wall
-  caption: An older man in a suite and hat sits on a concrete wall in front of a church.
+- title: Old Man Sitting On a Church Wall
+  caption: An older man in a suit and hat sits on a concrete wall in front of a church.
   location: Copacabana, Bolivia
   year: 2014
   url: "/assets/photos/DSC04111.jpg"

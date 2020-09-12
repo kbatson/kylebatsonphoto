@@ -48,6 +48,14 @@
       }
     }
   }
+
+  .thumbnails {
+    margin-left: 1rem;
+  }
+
+  .thumbnail.active img {
+    outline-color: #ffffff;
+  }
 }
 
 @media (max-width: 800px){

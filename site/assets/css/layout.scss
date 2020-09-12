@@ -108,12 +108,48 @@ main.gallery {
   grid-template-areas:
         "intro spacer"
         "slideshow spacer"
+        "thumbnails spacer"
         "comments spacer";
-  grid-template-rows: minmax(0, auto) calc(80vh - 1rem) minmax(0, auto);
+  grid-template-rows: minmax(0, auto) calc(70vh - 1rem) 10vh minmax(0, auto);
 }
 
 .comments {
   grid-area: comments;
+}
+
+.thumbnails {
+  grid-area: thumbnails;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.thumbnail {
+  margin: 0 1rem .5rem 0;
+
+  figure {
+    margin: 0;
+  }
+
+  figcaption {
+    height: 0;
+    width: 0;
+    margin: 0;
+    overflow: hidden;
+  }
+
+  img {
+    height: 30px;
+    width: 30px;
+    object-fit: fill;
+    object-position: 50%;
+  }
+
+  &.active {
+    img {
+      outline: 2px solid #000000;
+      outline-offset: 2px;
+    }
+  }
 }
 
 @media(max-width: 500px){
