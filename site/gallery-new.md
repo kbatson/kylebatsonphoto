@@ -2,6 +2,11 @@
 layout: gallery
 title: New
 photos:
+- title: Where the Crawdads Sing
+  location: Outer Banks, North Carolina
+  year: "2020"
+  print: 'https://kylebatsonphoto.bigcartel.com/product/where-the-crawdads-sing'
+  url: "/assets/photos/M10A0358-Edit.jpg"
 - title: Osprey Fishing
   location: Frog Lake, Oregon
   year: "2020"
@@ -36,11 +41,6 @@ photos:
   location: Quartzsite, Arizona
   year: "2020"
   print: ''
-  url: "/assets/photos/DSC02702.jpg"
-- title: Arizona Sunset
-  location: Quartzsite, Arizona
-  year: "2020"
-  print: ''
   url: "/assets/photos/DSC02606-Edit.jpg"
 - title: Cactus on Blue
   location: Campo, California
@@ -57,15 +57,15 @@ photos:
   year: "2020"
   print: ''
   url: "/assets/photos/DSC02712-Edit.jpg"
-- title: Street Shopping
+- title: Street market
   location: Siem Reap, Cambodia
   year: "2020"
-  print: ''
-  url: "/assets/photos/DSC02588-Edit.jpg"
-- title: Girl in Red with Water Bottle
+  print: 'https://kylebatsonphoto.bigcartel.com/product/street-market'
+  url: "/assets/photos/DSC02587-Edit.jpg"
+- title: Girl in Red Dress with Water Bottle
   location: Siem Reap, Cambodia
   year: "2020"
-  print: ''
+  print: 'https://kylebatsonphoto.bigcartel.com/product/girl-in-red-dress-with-water-bottle'
   url: "/assets/photos/DSC02674-Edit.jpg"
 - title: Girl with Onlookers in Road
   location: Kompong Pluk, Cambodia
@@ -75,12 +75,12 @@ photos:
 - title: Boy with Bucket
   location: Kompong Pluk, Cambodia
   year: "2020"
-  print: ''
+  print: 'https://kylebatsonphoto.bigcartel.com/product/boy-with-bucket'
   url: "/assets/photos/DSC01295-Edit.jpg"
-- title: Cambodian Classroom
+- title: Outdoor Classroom
   location: Kompong Pluk, Cambodia
   year: "2020"
-  print: ''
+  print: 'https://kylebatsonphoto.bigcartel.com/product/outdoor-classroom'
   url: "/assets/photos/DSC01396-Edit.jpg"
 - title: Monk Shopping
   location: Kompong Pluk, Cambodia

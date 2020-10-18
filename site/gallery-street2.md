@@ -2,6 +2,11 @@
 layout: gallery
 title: Street Color
 photos:
+- title: Street Crossing
+  location: SoHo, New York
+  year: "2018"
+  print: 'https://kylebatsonphoto.bigcartel.com/product/street-crossing'
+  url: "/assets/photos/L1020258_690817-Edit.jpg"
 - title: Concessions at the Fair
   location: Cheyenne Frontier Days, Wyoming
   year: "2018"
@@ -10,7 +15,7 @@ photos:
 - title: Moving a Bus Stuck in Sand
   location: Slab City, California
   year: "2019"
-  print: ''
+  print: 'https://kylebatsonphoto.bigcartel.com/product/stuck-bus-at-slab-city'
   url: "/assets/photos/DSC02979-Edit.jpg"
 - title: Hot & Sweet Sausage
   location: Corning, New York
@@ -25,7 +30,7 @@ photos:
 - title: Game On
   location: Iowa State Fair Des Moines, Iowa
   year: "2019"
-  print: ''
+  print: 'https://kylebatsonphoto.bigcartel.com/product/waiting-in-line-at-the-fair'
   url: "/assets/photos/DSC00080-Edit.jpg"
 - title: Traditional Mexican dance
   location: Topeka, KS
@@ -178,10 +183,10 @@ photos:
   year: "2015"
   url: "/assets/photos/DSC07081-Exposure.jpg"
   print: 'https://kylebatsonphoto.bigcartel.com/product/confectioners'
-- title: Motorcycle Riders in Traffic
+- title: Bikes in shopping district
   location: Bengalaru, India
   year: "2014"
-  url: "/assets/photos/DSC09247-Exposure.jpg"
+  url: "/assets/photos/DSC09247_328944-Edit.jpg"
   print: ''
 - title: An Offering for Ganesha
   location: Bengalaru, India
