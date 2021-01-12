@@ -83,6 +83,12 @@ $(document).ready(function(){
 	function toggleTheater(e){
 		$('body').toggleClass('theater');
 		owl.trigger('refresh.owl.carousel');
+		
+		if($('body').hasClass('theater')){
+			$('#theaterToggle').text('Exit Fullscreen').attr('aria-pressed', true);
+		} else {
+			$('#theaterToggle').text('Enter Fullscreen').attr('aria-pressed', false);
+		}
 	}
 
 	$('#theaterToggle').on('click', function(e){

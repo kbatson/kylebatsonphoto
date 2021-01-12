@@ -35,10 +35,6 @@ photos:
   location: Topeka, Kansas
   year: 2019
   url: "/assets/photos/DSC1226.jpg"
-- title: Concrete and shadows with a bar
-  location: Topeka, Kansas
-  year: 2019
-  url: "/assets/photos/DSC01747.jpg"
 - title: Concrete Curves
   caption: NA
   location: São Paulo, Brazil

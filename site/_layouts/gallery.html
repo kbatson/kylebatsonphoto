@@ -7,7 +7,7 @@
 				{{ content }}
 			</div>
 		</article>
-		<button id="theaterToggle">Theater</button>
+		<button id="theaterToggle" aria-pressed="false">Enter Fullscreen</button>
 
 		<div class="slideshow owl-carousel">
 			{% for photo in page.photos %}{% unless photo.hidden %}
