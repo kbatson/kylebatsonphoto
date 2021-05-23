@@ -22,7 +22,9 @@ jobs:
         sudo apt-get install -y ncftp
 
     - name: Build Site with Jekyll.
-      run: JEKYLL_ENV=production bundle exec jekyll build
+      run: |
+        cd site
+        JEKYLL_ENV=production bundle exec jekyll build
 
     - name: Upload site to FTP.
       env:

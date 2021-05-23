@@ -33,6 +33,9 @@ GEM
       sass (~> 3.4)
     jekyll-seo-tag (2.5.0)
       jekyll (~> 3.3)
+    jekyll-thumb (0.2.1)
+      jekyll (> 2)
+      ruby-vips
     jekyll-watch (2.0.0)
       listen (~> 3.0)
     kramdown (1.17.0)
@@ -53,6 +56,8 @@ GEM
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
     rouge (3.2.1)
+    ruby-vips (2.0.17)
+      ffi (~> 1.9)
     ruby_dep (1.5.0)
     safe_yaml (1.0.4)
     sass (3.6.0)
@@ -67,6 +72,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.8.4)
   jekyll-feed (~> 0.6)
+  jekyll-thumb
   minima (~> 2.0)
   tzinfo-data
 
