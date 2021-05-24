@@ -15,7 +15,7 @@ photos:
 - title: Foliage
   location: Emporia, KS
   year: "2018"
-  url: "/assets/photos/L1020857 (1523 of 1903)-Edit.jpg"
+  url: "/assets/photos/L1020857-Edit.jpg"
   print: ''
 - title: Nelson-Atkins Museum of Art
   location: Kansas City, Missouri
@@ -32,7 +32,7 @@ photos:
 - title: Urban Pyramids
   caption: NA
   location: Lawrence, Kansas
-  url: "/assets/photos/img818+-+Version+2.jpg"
+  url: "/assets/photos/img818-Version2.jpg"
 - title: Firelane
   location: Wichita, Kansas
   url: "/assets/photos/img766.jpg"

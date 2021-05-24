@@ -91,7 +91,7 @@ photos:
   url: "/assets/photos/L1080311.jpg"
 - title: Brick and Shadows
   location: Wichita, Kansas
-  url: "/assets/photos/DSC01065 - Version 2.jpg"
+  url: "/assets/photos/DSC01065-Version2.jpg"
 - title: Intersections with Brick
   location: Wichita, Kansas
   url: "/assets/photos/DSC01316-Exposure.jpg"
