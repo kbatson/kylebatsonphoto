@@ -34,4 +34,4 @@ jobs:
         remote_path: /domains/kylebatsonphoto.com/html
         remote_host: ${{ secrets.ftp_location }}
         remote_user: ${{ secrets.ftp_username }}
-        remote_key: ${{ secrets.ftp_password }}
+        remote_key: ${{ secrets.DEPLOY_KEY }}
