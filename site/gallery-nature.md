@@ -8,94 +8,94 @@ photos:
     a sculpture of a dinosaur looms in the background.
   location: Volcanoes National Park, Rwanda
   year: 2016
-  url: "/assets/photos/DSC00948.jpg"
+  url: "assets/photos/DSC00948.jpg"
   print: https://kylebatsonphoto.bigcartel.com/product/gorilla-in-the-forest-rwanda
 - title: As the Moon Rises
   location: Yuma, Arizona
   year: "2019"
   print: https://kylebatsonphoto.bigcartel.com/product/as-the-moon-rises
-  url: "/assets/photos/DSC01610.jpg"
+  url: "assets/photos/DSC01610.jpg"
 - title: Badlands Sunset
   location: South Dakota
   year: "2019"
   print: ''
-  url: "/assets/photos/DSC09201.jpg"
+  url: "assets/photos/DSC09201.jpg"
   hidden: true
 - title: Dakota Layers
   location: South Dakota
   year: "2019"
   print: https://kylebatsonphoto.bigcartel.com/product/dakota-layers
-  url: "/assets/photos/DSC08958.jpg"
+  url: "assets/photos/DSC08958.jpg"
 - title: Dunes at White Sands
   location: White Sands National Monument, New Mexico
   year: "2019"
   print: https://kylebatsonphoto.bigcartel.com/product/dunes-at-white-sands
-  url: "/assets/photos/DSC08293_683826.jpg"
+  url: "assets/photos/DSC08293_683826.jpg"
 - title: Mists on the Badlands
   location: South Dakota
   year: "2019"
   print: https://kylebatsonphoto.bigcartel.com/product/mists-on-the-badlands
-  url: "/assets/photos/DSC08763-Edit-3.jpg"
+  url: "assets/photos/DSC08763-Edit-3.jpg"
   hidden: true
 - title: Saddle-billed Stork Head-on
   location: South Africa
   year: 2016
   print: ''
-  url: "/assets/photos/DSC00798.jpg"
+  url: "assets/photos/DSC00798.jpg"
 - title: Dramatic Forest
   location: Yellowstone National Park, Wyoming
   year: 2018
-  url: "/assets/photos/DSC07530.jpg"
+  url: "assets/photos/DSC07530.jpg"
 - title: Yellowstone National Park
   location: Yellowstone National Park, Wyoming
   year: 2018
-  url: "/assets/photos/DSC07590.jpg"
+  url: "assets/photos/DSC07590.jpg"
   print: https://kylebatsonphoto.bigcartel.com/product/yellowstone-valley
 - title: Dunes at Sunset
   location: White Sands National Monument, New Mexico
   year: 2018
-  url: "/assets/photos/DSC08284.jpg"
+  url: "assets/photos/DSC08284.jpg"
   print: https://kylebatsonphoto.bigcartel.com/product/dunes-at-sunset
 - title: Sand Dunes
   location: Great Sand Dunes National Monument, Colorado
   year: 2018
-  url: "/assets/photos/DSC08812.jpg"
+  url: "assets/photos/DSC08812.jpg"
 - title: Sand Dunes
   location: Great Sand Dunes National Monument, Colorado
   year: 2018
-  url: "/assets/photos/DSC08799.jpg"
+  url: "assets/photos/DSC08799.jpg"
 - title: Swirling Clouds
   caption: NA
   location: Lawrence, Kansas
   year: 2016
-  url: "/assets/photos/L1030604.jpg"
+  url: "assets/photos/L1030604.jpg"
 - title: Owl
   caption: NA
   location: Idaho
   year: 2017
-  url: "/assets/photos/DSC05659.jpg"
+  url: "assets/photos/DSC05659.jpg"
 - title: Sunrise over the bay
   location: Rio de Janiero, Brazil
   year: 2016
-  url: "/assets/photos/L1010699.jpg"
+  url: "assets/photos/L1010699.jpg"
 - title: Peruvian Forest
   caption: NA
   location: Peru
   year: 2014
-  url: "/assets/photos/DSC03214.jpg"
+  url: "assets/photos/DSC03214.jpg"
 - title: Clouds over Machu Picchu
   caption: NA
   location: Peru
   year: 2014
-  url: "/assets/photos/DSC03604.jpg"
+  url: "assets/photos/DSC03604.jpg"
 - title: Sulfur Fumes
   caption: NA
   location: Salar de Uyuni, Bolivia
   year: 2014
-  url: "/assets/photos/DSC04793.jpg"
+  url: "assets/photos/DSC04793.jpg"
 - location: Washington
   year: 2013
-  url: "/assets/photos/P1010506 - Version 2.jpg"
+  url: "assets/photos/P1010506 - Version 2.jpg"
   title: Reservoir Through Trees
 
 ---

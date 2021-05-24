@@ -6,42 +6,42 @@ photos:
 - title: Mom and my sister discuss playing outside
   location: Wichita, Kansas
   year: 2014
-  url: "/assets/photos/DSC01481.jpg"
+  url: "assets/photos/DSC01481.jpg"
 - title: Mom paints the porch while my sister supervises
   location: Wichita, Kansas
   year: 2014
-  url: "/assets/photos/DSC01550.jpg"
+  url: "assets/photos/DSC01550.jpg"
 - title: Mom painting the porch
   location: Wichita, Kansas
   year: 2014
-  url: "/assets/photos/DSC01590.jpg"
+  url: "assets/photos/DSC01590.jpg"
 - title: My mom and sister play outside
   location: Wichita, Kansas
   year: 2014
-  url: "/assets/photos/DSC01653.jpg"
+  url: "assets/photos/DSC01653.jpg"
 - title: Bekah plays with scrabble tiles
   location: Wichita, Kansas
   year: 2014
-  url: "/assets/photos/L1000961.jpg"
+  url: "assets/photos/L1000961.jpg"
 - title: Bekah plays with Scrabble tiles
   location: Wichita, Kansas
   year: 2014
-  url: "/assets/photos/L1000959.jpg"
+  url: "assets/photos/L1000959.jpg"
 - location: Wichita, Kansas
   year: 2014
-  url: "/assets/photos/L1000970.jpg"
+  url: "assets/photos/L1000970.jpg"
   title: Bekah plays with Scrabble tiles
 - title: Bekah sitting on the porch with a pumpkin
   location: Wichita, Kansas
   year: 2014
-  url: "/assets/photos/L1000922.jpg"
+  url: "assets/photos/L1000922.jpg"
 - title: Mom makes breakfast in her bathrobe
   location: Wichita, Kansas
   year: 2014
-  url: "/assets/photos/L1000786.jpg"
+  url: "assets/photos/L1000786.jpg"
 - location: Wichita, Kansas
   year: 2014
-  url: "/assets/photos/L1001255.jpg"
+  url: "assets/photos/L1001255.jpg"
   title: Mom sits on the porch look out into the distance
 
 ---

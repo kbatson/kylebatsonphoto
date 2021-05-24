@@ -28,12 +28,19 @@ github_username:  kbatson
 permalink: /blog/:year/:month/:day/:title:output_ext
 sass:
     sass_dir: assets/css
+responsive_image:
+  template: _includes/thumbnail.html
+  sizes:
+    - width: 320
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-responsive-image
+
+encoding: utf-8
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

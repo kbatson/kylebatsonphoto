@@ -16,7 +16,7 @@
       {% for photo in page.photos %}{% unless photo.hidden %}
       <div class="slide">
         <figure>
-          <img class="owl-lazy" data-src="{{ photo.url }}" alt="{{ photo.caption }}">
+          <img class="owl-lazy" data-src="/{{ photo.url }}" alt="{{ photo.caption }}">
           <figcaption>
             <span class="title">{{ photo.title }}</span>
             <span class="locationYear">{{ photo.location }}</span>

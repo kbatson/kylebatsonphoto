@@ -6,48 +6,48 @@ photos:
   caption: A Buddhist monk walks into the light in a temple complex while a dog sleeps
     on the ground nearby and a rooster passes.
   location: Bangkok, Thailand
-  url: "/assets/photos/DSC04828.jpg"
+  url: "assets/photos/DSC04828.jpg"
 - title: Her Constellation
   location: Merida, Mexico
-  url: "/assets/photos/DSC07960-Exposure.jpg"
+  url: "assets/photos/DSC07960-Exposure.jpg"
 - title: Baptism
   location: Kigali, Rwanda
   caption: TBD
   year: 2016
-  url: "/assets/photos/L1020600-Exposure.jpg"
+  url: "assets/photos/L1020600-Exposure.jpg"
 - title: Children in Rwanda
   location: Musanze, Rwanda
   caption: TBD
   year: 2016
-  url: "/assets/photos/DSC00614.jpg"
+  url: "assets/photos/DSC00614.jpg"
 - title: Rwandan Villagers in the Mountains
   caption: Three young figures are pictured small in the corner of a scene amongst
     green fields and primitive homes on a hllside. Dark clouds hang overhead.
   location: Musanze, Rwanda
-  url: "/assets/photos/DSC00602.jpg"
+  url: "assets/photos/DSC00602.jpg"
 - title: Rice Paddy Workers
   location: Andhra Pradesh, India
-  url: "/assets/photos/DSC09924.jpg"
+  url: "assets/photos/DSC09924.jpg"
 - title: Andean Truck Bed
   location: Peru
   caption: TBD
   year: 2014
-  url: "/assets/photos/DSC02455-Exposure.jpg"
+  url: "assets/photos/DSC02455-Exposure.jpg"
   print: https://kylebatsonphoto.bigcartel.com/product/andean-truck-bed
 - title: Traditional Kitchen
   location: Peru
   caption: TBD
   year: 2014
-  url: "/assets/photos/DSC02875-Exposure.jpg"
+  url: "assets/photos/DSC02875-Exposure.jpg"
 - title: Old Woman
   location: Peru
   caption: TBD
   year: 2014
-  url: "/assets/photos/DSC02888.jpg"
+  url: "assets/photos/DSC02888.jpg"
 - title: Old Woman and Child
   location: Peru
   caption: TBD
   year: 2014
-  url: "/assets/photos/DSC02940.jpg"
+  url: "assets/photos/DSC02940.jpg"
 
 ---

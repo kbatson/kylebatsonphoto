@@ -9,7 +9,7 @@ books:
     subject individuality and depth.
   year: 2019
   price: "$11.99"
-  image: "/assets/photos/zine-tempo-moderato.jpg"
+  image: "assets/photos/zine-tempo-moderato.jpg"
   url: http://www.magcloud.com/browse/issue/1475012
 
 ---

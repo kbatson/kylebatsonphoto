@@ -28,7 +28,9 @@
 			{% for photo in page.photos %}{% unless photo.hidden %}
 			<a href="#{{ forloop.index }}" class="thumbnail">
 				<figure>
-					<img src="{{ photo.url }}" alt="{{ photo.caption }}">
+					{% responsive_image_block %}
+						path: {{ photo.url }}
+					{% endresponsive_image_block %}
 					<figcaption>
 						<span class="title">{{ photo.title }}</span>
 						<span class="locationYear">{{ photo.location }}{% if photo.year and photo.year != '' and photo.location and photo.location != '' %}, {% endif %}{{ photo.year }}</span>

@@ -5,58 +5,58 @@ date: 2019-03-31 00:00:00 -0500
 photos:
 - title: Nelson-Atkins Museum of Art
   year: 2019
-  url: "/assets/photos/DSC02115.jpg"
+  url: "assets/photos/DSC02115.jpg"
 - title: Nelson-Atkins Museum of Art
   year: 2019
-  url: "/assets/photos/DSC02184.jpg"
+  url: "assets/photos/DSC02184.jpg"
 - title: Nelson-Atkins Museum of Art
   year: 2019
-  url: "/assets/photos/DSC02116.jpg"
+  url: "assets/photos/DSC02116.jpg"
 - title: Nelson-Atkins Museum of Art
   year: 2019
-  url: "/assets/photos/DSC02218.jpg"
+  url: "assets/photos/DSC02218.jpg"
 - title: Nelson-Atkins Museum of Art
   year: 2019
-  url: "/assets/photos/DSC02214.jpg"
+  url: "assets/photos/DSC02214.jpg"
 - title: Nelson-Atkins Museum of Art
   year: 2019
-  url: "/assets/photos/DSC02145.jpg"
+  url: "assets/photos/DSC02145.jpg"
 - title: Nelson-Atkins Museum of Art
   year: 2019
-  url: "/assets/photos/DSC02119.jpg"
+  url: "assets/photos/DSC02119.jpg"
 - title: Nelson-Atkins Museum of Art
   year: 2019
-  url: "/assets/photos/DSC02235.jpg"
+  url: "assets/photos/DSC02235.jpg"
 - title: Nelson-Atkins Museum of Art
   year: 2019
-  url: "/assets/photos/DSC02203.jpg"
+  url: "assets/photos/DSC02203.jpg"
 - title: Nelson-Atkins Museum of Art
   year: 2019
-  url: "/assets/photos/DSC02211.jpg"
+  url: "assets/photos/DSC02211.jpg"
 - title: Nelson-Atkins Museum of Art
   year: 2019
-  url: "/assets/photos/DSC02256.jpg"
+  url: "assets/photos/DSC02256.jpg"
 - title: Nelson-Atkins Museum of Art
   year: 2019
-  url: "/assets/photos/DSC02183.jpg"
+  url: "assets/photos/DSC02183.jpg"
 - title: Nelson-Atkins Museum of Art
   year: 2019
-  url: "/assets/photos/DSC02150.jpg"
+  url: "assets/photos/DSC02150.jpg"
 - title: Nelson-Atkins Museum of Art
   year: 2019
-  url: "/assets/photos/DSC02255.jpg"
+  url: "assets/photos/DSC02255.jpg"
 - year: 2019
-  url: "/assets/photos/DSC02155.jpg"
+  url: "assets/photos/DSC02155.jpg"
   title: Nelson-Atkins Museum of Art
 - title: Nelson-Atkins Museum of Art
   year: 2019
-  url: "/assets/photos/DSC02261.jpg"
+  url: "assets/photos/DSC02261.jpg"
 - title: Nelson-Atkins Museum of Art
   year: 2019
-  url: "/assets/photos/DSC02245.jpg"
+  url: "assets/photos/DSC02245.jpg"
 - title: Nelson-Atkins Museum of Art
   year: 2019
-  url: "/assets/photos/DSC02125.jpg"
+  url: "assets/photos/DSC02125.jpg"
 
 ---
 ![Flat, abstracted plans of varying hues of warm white, gray, and amber](/assets/photos/DSC02218.jpg "Ceiling of the Nelson-Atkins Museum of Art")

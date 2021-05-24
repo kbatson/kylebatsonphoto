@@ -5,16 +5,16 @@ date: 2019-01-28 06:00:00 +0000
 photos:
 - title: Primary colors with a wheel and glass building
   year: 2019
-  url: "/assets/photos/DSC0940-resized.jpg"
+  url: "assets/photos/DSC0940-resized.jpg"
   location: Kansas City, Missouri
 - title: Green shapes in front of a glass building
   location: Kansas City, Missouri
   year: 2019
-  url: "/assets/photos/DSC0928-resized.jpg"
+  url: "assets/photos/DSC0928-resized.jpg"
 - title: Intersecting shapes and textures
   location: Kansas City, Missouri
   year: 2019
-  url: "/assets/photos/DSC0925-resized.jpg"
+  url: "assets/photos/DSC0925-resized.jpg"
 ---
 {% include image.html
             img="assets/photos/DSC0899-resized.jpg"

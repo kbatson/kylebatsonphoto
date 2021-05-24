@@ -5,36 +5,36 @@ photos:
 - title: Portrait of a woman in shadow
   location: 'Lawrence, Kansas '
   year: "2019"
-  url: "/assets/photos/DSC1155-Edit-2.jpg"
+  url: "assets/photos/DSC1155-Edit-2.jpg"
   print: ''
 - title: Portrait of a woman
   location: ''
-  url: "/assets/photos/DSC02341.jpg"
+  url: "assets/photos/DSC02341.jpg"
 - title: Lady Justice by Felicity Bianca
   caption: Subject and art direction by Felicity Bianca
-  url: "/assets/photos/DSC01395-edits2-small.jpg"
+  url: "assets/photos/DSC01395-edits2-small.jpg"
   year: 2018
 - title: Pregnancy shoot
   location: ''
-  url: "/assets/photos/DSC03377-Exposure.jpg"
+  url: "assets/photos/DSC03377-Exposure.jpg"
 - title: Outdoor portrait of a young woman
   location: ''
-  url: "/assets/photos/DSC07372.jpg"
+  url: "assets/photos/DSC07372.jpg"
 - title: Portrait of a girl
   location: ''
-  url: "/assets/photos/DSC02404.jpg"
+  url: "assets/photos/DSC02404.jpg"
 - title: Portrait of a young woman
   location: ''
-  url: "/assets/photos/DSC05478.jpg"
+  url: "assets/photos/DSC05478.jpg"
 - title: Engagement shoot
   location: ''
-  url: "/assets/photos/DSC03403.jpg"
+  url: "assets/photos/DSC03403.jpg"
 - title: Pregnancy shoot
   year: ''
   location: ''
-  url: "/assets/photos/DSC03383-Exposure.jpg"
+  url: "assets/photos/DSC03383-Exposure.jpg"
 - title: Fitness Model
   caption: ''
-  url: "/assets/photos/DSC00405-Provia.jpg"
+  url: "assets/photos/DSC00405-Provia.jpg"
 
 ---

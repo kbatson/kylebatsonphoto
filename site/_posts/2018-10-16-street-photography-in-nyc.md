@@ -6,34 +6,34 @@ photos:
 - title: Sunglasses Raised
   location: SoHo, New York City, New York
   year: 2018
-  url: "/assets/photos/L1020066.jpg"
+  url: "assets/photos/L1020066.jpg"
 - title: Phones out at an Intersection
   location: SoHo, New York City, New York
   year: 2018
-  url: "/assets/photos/L1020434.jpg"
+  url: "assets/photos/L1020434.jpg"
 - title: Sailors in a Row
   location: New York City, New York
   year: 2018
-  url: "/assets/photos/L1020278.jpg"
+  url: "assets/photos/L1020278.jpg"
 - title: Old Woman Making Faces at a Little Girl
   location: SoHo, New York City, New York
   year: 2018
-  url: "/assets/photos/L1020243.jpg"
+  url: "assets/photos/L1020243.jpg"
 - title: Gathering in Front of a Nike Store
   location: SoHo, New York City, New York
   year: 2018
-  url: "/assets/photos/L1020180.jpg"
+  url: "assets/photos/L1020180.jpg"
 - title: Men Moving Walls
   location: Union Square, New York City, New York
   year: 2018
-  url: "/assets/photos/L1020154.jpg"
+  url: "assets/photos/L1020154.jpg"
 - title: Spring Street
   caption: A man and a woman cross the street wearing glasses. He is wearing white,
     she is wearing black. He also has reading glasses hanging from the collar of his
     shirt.
   location: SoHo, New York City, New York
   year: 2018
-  url: "/assets/photos/L1020042.jpg"
+  url: "assets/photos/L1020042.jpg"
 
 ---
 ![A woman appears to have a shocked expression as two women nearly kiss](/assets/photos/L1020072.jpg "Shocked expression? SoHo, NYC")

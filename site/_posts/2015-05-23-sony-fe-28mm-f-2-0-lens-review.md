@@ -5,46 +5,46 @@ date: 2015-05-23 11:51:34 -0500
 photos:
 - title: Good flare control and pleasing out-of-focus areas
   location: Wichita, KS
-  url: "/assets/photos/DSC03719.jpg"
+  url: "assets/photos/DSC03719.jpg"
 - title: My sister ascending the stairs with a slinky
   location: Wichita, KS
-  url: "/assets/photos/DSC03589.jpg"
+  url: "assets/photos/DSC03589.jpg"
 - title: A candid portraits of my sister
   location: Wichita, KS
   year: 2015
-  url: "/assets/photos/DSC03613.jpg"
+  url: "assets/photos/DSC03613.jpg"
 - title: A stone fountain at golden hour
   location: Wichita, KS
   year: 2015
-  url: "/assets/photos/DSC03761.jpg"
+  url: "assets/photos/DSC03761.jpg"
 - title: Demonstrating subject separation wide-open
   location: Wichita, KS
   year: 2015
-  url: "/assets/photos/DSC03827-Exposure.jpg"
+  url: "assets/photos/DSC03827-Exposure.jpg"
 - location: Wichita, KS
   year: 2015
-  url: "/assets/photos/DSC03831.jpg"
+  url: "assets/photos/DSC03831.jpg"
   title: Good subject separation even at moderate distances
 - title: Confectioners
   location: Istanbul, Turkey
   year: 2015
-  url: "/assets/photos/DSC07081-Exposure.jpg"
+  url: "assets/photos/DSC07081-Exposure.jpg"
 - title: A little girl twirls as she is getting her hair put up
   location: Istanbul, Turkey
   year: 2015
-  url: "/assets/photos/DSC07032-1.jpg"
+  url: "assets/photos/DSC07032-1.jpg"
 - title: Hagia Sophia
   location: Istanbul, Turkey
   year: 2015
-  url: "/assets/photos/DSC06680.jpg"
+  url: "assets/photos/DSC06680.jpg"
 - title: Hagia Sophia with wide-angle adapter
   location: Istanbul, Turkey
   year: 2015
-  url: "/assets/photos/DSC06698.jpg"
+  url: "assets/photos/DSC06698.jpg"
 - title: Muir Woods
   location: San Francisco, California
   year: 2015
-  url: "/assets/photos/DSC04332-Exposure.jpg"
+  url: "assets/photos/DSC04332-Exposure.jpg"
 
 ---
 ![](/assets/photos/DSC03777.jpg "Even suitable for portraits under certain circumstances.")
