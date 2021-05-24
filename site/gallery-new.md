@@ -2,10 +2,15 @@
 layout: gallery
 title: New
 photos:
+- title: Western Kansas Topography
+  location: Scott City, KS
+  year: "2021"
+  print: ''
+  url: "/assets/photos/dji_0448-edit.jpg"
 - title: Where the Crawdads Sing
   location: Outer Banks, North Carolina
   year: "2020"
-  print: 'https://kylebatsonphoto.bigcartel.com/product/where-the-crawdads-sing'
+  print: https://kylebatsonphoto.bigcartel.com/product/where-the-crawdads-sing
   url: "/assets/photos/M10A0358-Edit.jpg"
 - title: Osprey Fishing
   location: Frog Lake, Oregon
@@ -60,12 +65,12 @@ photos:
 - title: Street market
   location: Siem Reap, Cambodia
   year: "2020"
-  print: 'https://kylebatsonphoto.bigcartel.com/product/street-market'
+  print: https://kylebatsonphoto.bigcartel.com/product/street-market
   url: "/assets/photos/DSC02587-Edit.jpg"
 - title: Girl in Red Dress with Water Bottle
   location: Siem Reap, Cambodia
   year: "2020"
-  print: 'https://kylebatsonphoto.bigcartel.com/product/girl-in-red-dress-with-water-bottle'
+  print: https://kylebatsonphoto.bigcartel.com/product/girl-in-red-dress-with-water-bottle
   url: "/assets/photos/DSC02674-Edit.jpg"
 - title: Girl with Onlookers in Road
   location: Kompong Pluk, Cambodia
@@ -75,12 +80,12 @@ photos:
 - title: Boy with Bucket
   location: Kompong Pluk, Cambodia
   year: "2020"
-  print: 'https://kylebatsonphoto.bigcartel.com/product/boy-with-bucket'
+  print: https://kylebatsonphoto.bigcartel.com/product/boy-with-bucket
   url: "/assets/photos/DSC01295-Edit.jpg"
 - title: Outdoor Classroom
   location: Kompong Pluk, Cambodia
   year: "2020"
-  print: 'https://kylebatsonphoto.bigcartel.com/product/outdoor-classroom'
+  print: https://kylebatsonphoto.bigcartel.com/product/outdoor-classroom
   url: "/assets/photos/DSC01396-Edit.jpg"
 - title: Monk Shopping
   location: Kompong Pluk, Cambodia
@@ -113,11 +118,6 @@ photos:
   print: ''
   url: "/assets/photos/DSC01883.jpg"
   hidden: true
-
-
-
-
-
 
 ---
 <p>These are some of the most recent photos I have taken over the past six months or so.</p>
