@@ -2,6 +2,11 @@
 layout: gallery
 title: New
 photos:
+- title: Western Kansas Topography
+  location: Scott City, KS
+  year: "2021"
+  print: ''
+  url: "assets/photos/dji_0448-edit.jpg"
 - title: Where the Crawdads Sing
   location: Outer Banks, North Carolina
   year: "2020"
@@ -77,11 +82,6 @@ photos:
   year: "2020"
   print: 'https://kylebatsonphoto.bigcartel.com/product/boy-with-bucket'
   url: "assets/photos/DSC01295-Edit.jpg"
-- title: Outdoor Classroom
-  location: Kompong Pluk, Cambodia
-  year: "2020"
-  print: 'https://kylebatsonphoto.bigcartel.com/product/outdoor-classroom'
-  url: "assets/photos/DSC01396-Edit.jpg"
 - title: Monk Shopping
   location: Kompong Pluk, Cambodia
   year: "2020"
@@ -113,11 +113,6 @@ photos:
   print: ''
   url: "assets/photos/DSC01883.jpg"
   hidden: true
-
-
-
-
-
 
 ---
 <p>These are some of the most recent photos I have taken over the past six months or so.</p>
