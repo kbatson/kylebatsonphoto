@@ -19,8 +19,9 @@ toc:
     - name: New
       link: /gallery-new.html
   - title: Video
-    link: https://youtube.com/playlist?list=PLcPQ8CnrSBDfEOR0tb93dA0bXUQPkXJQM
+    link: /video.html
   - title: Commercial
+    hidden: true
     subfolderitems:
     - name: Weddings
       link: /gallery-weddings.html
