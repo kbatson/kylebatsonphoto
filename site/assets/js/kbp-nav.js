@@ -85,9 +85,9 @@ $(document).ready(function(){
 		owl.trigger('refresh.owl.carousel');
 		
 		if($('body').hasClass('theater')){
-			$('#theaterToggle').text('Exit Fullscreen').attr('aria-pressed', true);
+			$('#theaterToggle').text('Exit Gallery Mode').attr('aria-pressed', true);
 		} else {
-			$('#theaterToggle').text('Enter Fullscreen').attr('aria-pressed', false);
+			$('#theaterToggle').text('Enter Gallery Mode').attr('aria-pressed', false);
 		}
 	}
 
