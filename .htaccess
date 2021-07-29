@@ -1,4 +1,4 @@
 RewriteEngine On
-RewriteCond %{HTTP_HOST} ^kylebatson\.com [NC]
+RewriteCond %{HTTP_HOST} ^kylebatsonphoto\.com [NC]
 RewriteCond %{SERVER_PORT} 80
-RewriteRule ^(.*)$ https://kylebatson.com/$1 [R,L]
+RewriteRule ^(.*)$ https://kylebatsonphoto.com/$1 [R,L]
