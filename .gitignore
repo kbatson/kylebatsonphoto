@@ -8,3 +8,4 @@ kbp.sublime-project
 /.DS_Store
 /KyleBatsonPhoto/.nova/Publishing/KyleBatsonPhoto.com.json
 /site/.DS_Store
+/site/.jekyll-cache
