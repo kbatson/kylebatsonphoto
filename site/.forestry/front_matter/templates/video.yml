@@ -30,3 +30,5 @@ fields:
   - type: text
     name: youtube_embed_url
     label: youtube_embed_url
+pages:
+- site/video.md
