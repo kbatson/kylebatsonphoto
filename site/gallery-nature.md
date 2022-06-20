@@ -2,6 +2,11 @@
 layout: gallery
 title: Nature
 photos:
+- title: Milky Way with Wagon Wheel
+  location: Scott City, Kansas
+  year: "2020"
+  print: https://kylebatsonphoto.bigcartel.com/product/milky-way-with-wagon-wheel
+  url: "/assets/photos/DSC04413-Edit.jpg"
 - title: Gorilla in the Forest
   caption: Image of a woman outside crouched over taking a photograph of a subject
     out of frame while a young girl bends down to pet down a pug on a leash while
