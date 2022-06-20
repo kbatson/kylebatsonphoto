@@ -2,11 +2,6 @@
 layout: gallery
 title: Nature
 photos:
-- title: Milky Way with Wagon Wheel
-  location: Scott City, Kansas
-  year: "2020"
-  print: https://kylebatsonphoto.bigcartel.com/product/milky-way-with-wagon-wheel
-  url: "/assets/photos/DSC04413-Edit.jpg"
 - title: Gorilla in the Forest
   caption: Image of a woman outside crouched over taking a photograph of a subject
     out of frame while a young girl bends down to pet down a pug on a leash while
@@ -15,6 +10,16 @@ photos:
   year: "2016"
   url: assets/photos/DSC00948.jpg
   print: https://kylebatsonphoto.bigcartel.com/product/gorilla-in-the-forest-rwanda
+- title: Western Kansas Thunderstorm
+  location: Scott City, Kansas
+  year: "2020"
+  print: https://kylebatsonphoto.bigcartel.com/product/western-kansas-thunderstorm
+  url: "/assets/photos/DSC05080-2-Edit.jpg"
+- title: Milky Way with Wagon Wheel
+  location: Scott City, Kansas
+  year: "2020"
+  print: https://kylebatsonphoto.bigcartel.com/product/milky-way-with-wagon-wheel
+  url: "/assets/photos/DSC04413-Edit.jpg"
 - title: Arizona Sunset
   location: Quartzite, Arizona
   year: "2020"
