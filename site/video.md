@@ -6,12 +6,13 @@ photos:
   location: Arizona
   year: "2021"
   print: ''
-  url: "assets/photos/DSC02655.jpg"
-  youtube_embed_url: "https://www.youtube.com/embed/JF4aSbPDOzY"
-- title: Church Rock
-  location: Arizona
+  url: assets/photos/DSC02655.jpg
+  youtube_embed_url: https://www.youtube.com/embed/JF4aSbPDOzY
+- title: Views Over Vedauwoo
+  location: Vedauwoo, Wyoming
   year: "2021"
   print: ''
-  url: "assets/photos/DJI_0565-Edit.jpg"
-  youtube_embed_url: "https://www.youtube.com/embed/guuvyh9SyNE"
+  url: assets/photos/DJI_0565-Edit.jpg
+  youtube_embed_url: https://www.youtube.com/embed/guuvyh9SyNE
+
 ---

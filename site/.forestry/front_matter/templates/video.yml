@@ -1,0 +1,32 @@
+---
+label: Video
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+- type: field_group_list
+  name: photos
+  label: photos
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: location
+    label: location
+  - type: text
+    name: year
+    label: year
+  - type: text
+    name: print
+    label: print
+  - type: file
+    name: url
+    label: url
+  - type: text
+    name: youtube_embed_url
+    label: youtube_embed_url
