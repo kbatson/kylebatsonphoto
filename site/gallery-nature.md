@@ -10,6 +10,11 @@ photos:
   year: "2016"
   url: assets/photos/DSC00948.jpg
   print: https://kylebatsonphoto.bigcartel.com/product/gorilla-in-the-forest-rwanda
+- title: Arizona Sunset
+  location: Quartzite, Arizona
+  year: "2020"
+  print: ''
+  url: "/assets/photos/DSC02886-Edit.jpg"
 - title: As the Moon Rises
   location: Yuma, Arizona
   year: "2019"
