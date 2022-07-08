@@ -6,25 +6,25 @@ photos:
   location: Spread Creek, Wyoming
   year: "2022"
   print: ''
-  url: "/assets/photos/dji_0503.jpg"
+  url: "assets/photos/dji_0503.jpg"
   youtube_embed_url: https://youtu.be/JgZh45MtCr0
 - title: Manti-la Sal National Forest
   location: Moab, Utah
   year: "2022"
   print: ''
-  url: "/assets/photos/dji_0175-edit-edit.jpg"
+  url: "assets/photos/dji_0175-edit-edit.jpg"
   youtube_embed_url: https://youtu.be/qZz2cIqJPS8
 - title: Laramie, Wyoming
   location: Laramie, Wyoming
   year: "2022"
   print: ''
-  url: "/assets/photos/dji_0303.jpg"
+  url: "assets/photos/dji_0303.jpg"
   youtube_embed_url: https://youtu.be/kprUh1czN7Q
 - title: Alabama Hills
   location: Independence, California
   year: "2021"
   print: ''
-  url: "/assets/photos/dsc03709-edit.jpg"
+  url: "assets/photos/dsc03709-edit.jpg"
   youtube_embed_url: https://youtu.be/4FaJwyTtWr8
 - title: Church Rock
   location: Arizona

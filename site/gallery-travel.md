@@ -6,27 +6,27 @@ photos:
   location: Kampong Pluk, Cambodia
   year: "2020"
   print: https://kylebatsonphoto.bigcartel.com/product/boy-with-bucket
-  url: "/assets/photos/DSC01295-Edit.jpg"
+  url: "assets/photos/DSC01295-Edit.jpg"
 - title: Girl with Onlookers in Road
   location: Kampong Pluk, Cambodio
   year: "2020"
   print: ''
-  url: "/assets/photos/dsc01359-edit.jpg"
+  url: "assets/photos/dsc01359-edit.jpg"
 - title: Girl in Red Dress with Water Bottle
   location: Siem Reap, Cambodia
   year: "2020"
   print: https://kylebatsonphoto.bigcartel.com/product/girl-in-red-dress-with-water-bottle
-  url: "/assets/photos/DSC02674-Edit.jpg"
+  url: "assets/photos/DSC02674-Edit.jpg"
 - title: Street Market
   location: Siem Reap, Cambodia
   year: "2020"
   print: https://kylebatsonphoto.bigcartel.com/product/street-market
-  url: "/assets/photos/DSC02587-Edit.jpg"
+  url: "assets/photos/DSC02587-Edit.jpg"
 - title: Easy Speaking, Pub Street
   location: Siem Reap, Cambodio
   year: "2020"
   print: https://kylebatsonphoto.bigcartel.com/product/pub-street-siem-reap-cambodi
-  url: "/assets/photos/DSC02470-Edit.jpg"
+  url: "assets/photos/DSC02470-Edit.jpg"
 - title: A Buddhist Monk, A Sleeping Dog, and a Rooster
   caption: A Buddhist monk walks into the light in a temple complex while a dog sleeps
     on the ground nearby and a rooster passes.

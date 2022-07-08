@@ -6,52 +6,47 @@ photos:
   location: Spread Creek, Wyoming
   year: "2022"
   print: ''
-  url: "/assets/photos/dji_0503.jpg"
+  url: "assets/photos/dji_0503.jpg"
 - title: Milky Way Over the Alabama Hills
   location: Independence, California
   year: "2022"
   print: ''
-  url: "/assets/photos/dsc00511-edit.jpg"
+  url: "assets/photos/dsc00511-edit.jpg"
 - title: Castle Rock
   location: Navajo Nation, Arizona
   year: "2021"
   print: ''
-  url: "/assets/photos/dji_0741-edit.jpg"
+  url: "assets/photos/dji_0741-edit.jpg"
 - title: Back Door at Dusk
   location: Lawrence, Kansas
   year: "2022"
   print: ''
-  url: "/assets/photos/m10a2952-edit.jpg"
+  url: "assets/photos/m10a2952-edit.jpg"
 - title: Alien Landscape
   location: Alabama Hills, California
   year: "2022"
   print: ''
-  url: "/assets/photos/dsc03905-edit.jpg"
+  url: "assets/photos/dsc03905-edit.jpg"
 - title: Blue Heron
   location: Cary, North Carolina
   year: "2021"
   print: ''
-  url: "/assets/photos/dsc01927-edit-2-gigapixel.jpg"
+  url: "assets/photos/dsc01927-edit-2-gigapixel.jpg"
 - title: Industrial Buildings at Blue Hour
   location: Wichita, Kansas
   year: "2021"
   print: ''
-  url: "/assets/photos/dsc00092-edit.jpg"
+  url: "assets/photos/dsc00092-edit.jpg"
 - title: Sunrise at Dead Horse Point State Park
   location: Moab, Utah
   year: "2022"
   print: ''
-  url: "/assets/photos/dsc00179-edit.jpg"
+  url: "assets/photos/dsc00179-edit.jpg"
 - title: Zion National Park
   location: Moab, Utah
   year: ''
   print: ''
-  url: "/assets/photos/dsc00223-edit.jpg"
-- title: Western Kansas Topography
-  location: Scott City, KS
-  year: "2021"
-  print: ''
-  url: assets/photos/dji_0448-edit.jpg
+  url: "assets/photos/dsc00223-edit.jpg"
 - title: Where the Crawdads Sing
   location: Outer Banks, North Carolina
   year: "2020"

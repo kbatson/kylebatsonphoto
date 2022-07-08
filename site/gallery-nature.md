@@ -14,17 +14,17 @@ photos:
   location: Scott City, Kansas
   year: "2020"
   print: https://kylebatsonphoto.bigcartel.com/product/western-kansas-thunderstorm
-  url: "/assets/photos/DSC05080-2-Edit.jpg"
+  url: "assets/photos/DSC05080-2-Edit.jpg"
 - title: Milky Way with Wagon Wheel
   location: Scott City, Kansas
   year: "2020"
   print: https://kylebatsonphoto.bigcartel.com/product/milky-way-with-wagon-wheel
-  url: "/assets/photos/DSC04413-Edit.jpg"
+  url: "assets/photos/DSC04413-Edit.jpg"
 - title: Arizona Sunset
   location: Quartzite, Arizona
   year: "2020"
   print: ''
-  url: "/assets/photos/DSC02886-Edit.jpg"
+  url: "assets/photos/DSC02886-Edit.jpg"
 - title: As the Moon Rises
   location: Yuma, Arizona
   year: "2019"
