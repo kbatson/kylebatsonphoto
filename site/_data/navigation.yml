@@ -1,6 +1,8 @@
 toc:
   - title: Photos
     subfolderitems:
+    - name: New
+      link: /gallery-new.html
     - name: India
       link: /gallery-india.html
     - name: Festivals
@@ -18,8 +20,6 @@ toc:
       link: /gallery-nature.html
     - name: Travel
       link: /gallery-travel.html
-    - name: New
-      link: /gallery-new.html
   - title: Video
     link: /video.html
   - title: Commercial

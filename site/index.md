@@ -2,36 +2,37 @@
 layout: home
 title: Home
 photos:
-- title: Boy with Bucket
-  location: Kompong Pluk, Cambodia
-  year: "2020"
-  print: 'https://kylebatsonphoto.bigcartel.com/product/boy-with-bucket'
-  url: "assets/photos/DSC01295-Edit.jpg"
-- title: Girls at the Pig Show
-  location: Lawrence, KS
-  url: "assets/photos/DSC09395_435360-Edit.jpg"
-- title: Milky Way With Wagon Wheel
-  location: Scott City, Kansas
-  year: "2020"
-  print: https://kylebatsonphoto.bigcartel.com/product/milky-way-with-wagon-wheel
-  url: "assets/photos/DSC04413-Edit.jpg"
-- title: Saint of Meat
-  location: Copacabana, Bolivia
-  url: "assets/photos/DSC04213-Exposure.jpg"
-- title: Street Crossing
-  location: SoHo, New York
-  url: "assets/photos/L1020258_690817-Edit.jpg"
-- title: Mexican Commuters in Red
-  location: Merida, Mexio
-  url: "assets/photos/DSC08159-Exposure.jpg"
-- title: Mexican Commuters in Red
-  location: Merida, Mexio
-  url: "assets/photos/DSC08159-Exposure.jpg"
-- title: Gorilla in the Forest
-  location: Musanze, Rwanda
-  url: "assets/photos/DSC00948-highres.jpg"
-- title: Traditional Mexican Dancers
-  location: Topeka, Kansas
-  url: "assets/photos/DSC05062-highres.jpg"
+- title: Dogs Atop a Temple
+  location: Pushkar, Rajasthan, India
+  year: "2023"
+  url: "assets/photos/DSC07325.jpg"
+- title: American Bison in the Fog
+  location: Grand Tetons National Park
+  year: "2023"
+  url: assets/photos/DSC00323-Enhanced-NR.jpg
+- title: Women Visiting the Taj Mahal
+  location: Agra, Uttar Pradesh, India
+  year: "2023"
+  url: "assets/photos/DSC03616-Enhanced-NR-Edit.jpg"
+- title: Tailings Pond
+  location: Colorado
+  year: "2023"
+  url: assets/photos/DJI_0774.jpg
+- title: Boatman in front of the Taj Mahal
+  location: Agra, Uttar Pradesh, India
+  year: "2023"
+  url: "assets/photos/DSC03806.jpg"
+- title: Eye in the Green Hills
+  location: Western Missouri
+  year: "2023"
+  url: assets/photos/DJI_0488.jpg
+- title: Statue of Ganesha
+  location: Bengalaru, Karnataka, India
+  year: "2014"
+  url: "assets/photos/DSC08855-Exposure_449963.jpg"
+- title: Manhattan Road Crossing
+  location: Manhattan, New York City, New York
+  year: "2023"
+  url: assets/photos/DSC08255.jpg
 
 ---
