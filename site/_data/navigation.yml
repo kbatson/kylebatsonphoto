@@ -1,6 +1,8 @@
 toc:
   - title: Photos
     subfolderitems:
+    - name: India
+      link: /gallery-india.html
     - name: Festivals
       link: /gallery-festivals.html
       hidden: true

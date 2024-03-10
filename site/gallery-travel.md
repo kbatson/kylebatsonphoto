@@ -15,12 +15,10 @@ photos:
 - title: Girl in Red Dress with Water Bottle
   location: Siem Reap, Cambodia
   year: "2020"
-  print: https://kylebatsonphoto.bigcartel.com/product/girl-in-red-dress-with-water-bottle
   url: "assets/photos/DSC02674-Edit.jpg"
 - title: Street Market
   location: Siem Reap, Cambodia
   year: "2020"
-  print: https://kylebatsonphoto.bigcartel.com/product/street-market
   url: "assets/photos/DSC02587-Edit.jpg"
 - title: Easy Speaking, Pub Street
   location: Siem Reap, Cambodio
