@@ -2,6 +2,16 @@
 layout: gallery
 title: Urban Structure
 photos:
+- title: Industrial Buildings at Blue Hour
+  location: Wichita, Kansas
+  year: "2021"
+  print: ''
+  url: "assets/photos/dsc00092-edit.jpg"
+- title: Back Door at Dusk
+  location: Lawrence, Kansas
+  year: "2022"
+  print: ''
+  url: "assets/photos/m10a2952-edit.jpg"
 - title: Springfield Reflections
   location: Springfield, Missouri
   year: "2019"
