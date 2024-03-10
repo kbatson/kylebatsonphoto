@@ -152,6 +152,10 @@ main.gallery {
   }
 }
 
+.slide figure {
+  background: url(../images/ajax-loader.gif) center calc(50% - 50px) no-repeat;
+}
+
 @media(max-width: 500px){
   main.gallery {
     grid-template-rows: 1fr calc(63vh - 3rem) minmax(0, auto);
