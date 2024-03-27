@@ -166,6 +166,10 @@ photos:
   location: Western Missouri
   year: "2023"
   url: assets/photos/DJI_0488.jpg
+- title: Sunset in the Sangre De Christo Mountains
+  location: La Veta, Colorado
+  year: "2023"
+  url: assets/photos/DSC04785.jpg
 - title: Burning Flow
   location: Siem Reap, Cambodia
   year: "2020"

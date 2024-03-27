@@ -15,7 +15,7 @@ You can follow my latest work on my [Instagram page](). If you're interested in 
 
 ## Exhibitions
 <ul>
-  <li>Urban and Wild, KCSCP Member's Exhibition, Kansas City, Missouri, 2019</li>
+  <li>Urban and Wild, KCSCP Juried Member's Exhibition, Kansas City, Missouri, 2019</li>
   <li>SeedCo group exhibition, Lawrence, Kansas, 2019</li>
   <li>Group exhibition, Bohemian Moon Boutique, Kansas City, Missouri, 2018</li>
   <li>Visual Fragments, tandem exhibition, Cider Gallery, Lawrence, Kansas, 2016</li>

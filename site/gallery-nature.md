@@ -14,7 +14,7 @@ photos:
   location: Spread Creek, Wyoming
   year: "2022"
   print: ''
-  url: "assets/photos/dji_0503.jpg"
+  url: "assets/photos/DJI_0503-Enhanced-NR.jpg"
 - title: Castle Rock
   location: Navajo Nation, Arizona
   year: "2021"
