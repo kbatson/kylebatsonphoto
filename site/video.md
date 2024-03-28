@@ -1,6 +1,6 @@
 ---
 title: Video
-layout: gallery
+layout: gallery-video
 photos:
 - title: Sunset Over the Grand Tetons
   location: Spread Creek, Wyoming

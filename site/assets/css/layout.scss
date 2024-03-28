@@ -46,7 +46,7 @@ $imageHeight: 80vh;
 $image-maxWidth: 1000px;
 $image-maxHeight: $image-maxWidth;
 
-article, .slideshow {
+article, #mosaic {
   max-width: 1000px;
   // width: 75vw;
   margin-left: 0;
@@ -74,15 +74,6 @@ article figure {
   margin: 0;
 }
 
-#theaterToggle {
-  grid-area: slideshow;
-  display: block;
-  position: absolute;
-  top: 0;
-  right: 0;
-  z-index: 2;
-}
-
 figcaption {
   margin: .5rem 0;
 
@@ -99,7 +90,7 @@ figcaption {
   }
 }
 
-.slideshow {
+.slideshow, #mosaic {
   grid-area: slideshow;
   // max-height: unset;
 }

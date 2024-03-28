@@ -11,20 +11,9 @@
         {{ content }}
       </div>
     </article>
-    <div class="slideshow owl-carousel">
-
-      {% for photo in page.photos %}{% unless photo.hidden %}
-      <div class="slide">
-        <figure>
-          <img class="owl-lazy" data-src="/{{ photo.url }}" alt="{{ photo.caption }}">
-          <figcaption>
-            <span class="title">{{ photo.title }}</span>
-            <span class="locationYear">{{ photo.location }}</span>
-            {% if photo.print != '' %}<a href="{{ photo.print }}" class="button buyPrint">Buy a Print</a>{% endif %}
-          </figcaption>
-        </figure>
-      </div>
-      {% endunless %}{% endfor %}
+    <div id="mosaic">
+        {% for photo in page.photos %}{% unless photo.hidden %}
+        <a href = "/{{ photo.url}}"   data-ngThumb = "{% responsive_image_block %}path: {{ photo.url }}{% endresponsive_image_block %}" >{{ photo.title}}, {{ photo.location }} {{ photo.year }}</a>{% endunless %}{% endfor %}
     </div>
 
     <!-- <section class="comments">

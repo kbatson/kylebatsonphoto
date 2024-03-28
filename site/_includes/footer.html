@@ -5,17 +5,5 @@
 			</ul>
 		</nav>
 	</footer>
-	{% if page.url == "/" %}
-	<script>
-	$(document).ready(function(){
-		$("body").vegas({
-		    slides: [
-		    {% for photo in page.photos %}
-		        { src: "{{ photo.url}}" },{% endfor %}
-		    ]
-		});
-	});
-	</script>
-	{% endif %}
 </body>
 </html>
