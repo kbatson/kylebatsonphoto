@@ -31,68 +31,25 @@ $(document).ready(function(){
 		}
 	});
 
-	var owl = $('.owl-carousel');
-	owl.owlCarousel({
-		items: 1,
-		nav: true,
-		lazyLoad: true,
-		lazyLoadEager: 3,
-		loop: true,
-		dots: false,
-		URLhashListener:true,
-    startPosition: 'URLHash',
-    onInitialized: selectItem
-	});
-
-
-	$(document).keyup(function(e) {
-		if (e.keyCode == 37) { // Left arrow
-			owl.trigger('prev.owl.carousel');
+	$("#mosaic").nanogallery2({
+		galleryTheme: {
+			thumbnail : { background: '#fff', borderColor: '#fff' }
+		},
+		viewerGallery: 'bottom',
+		thumbnailDisplayTransition: 'scaleUp',
+		thumbnailHoverEffect2: 'image_scale_1.00_1.05|labelAppear',
+		thumbnailGutterWidth: 20,
+		thumbnailGutterHeight: 20,
+		thumbnailBorderHorizontal: 0,
+		thumbnailBorderVertical: 0,
+		thumbnailWidth:   600,
+		thumbnailHeight:  'auto',
+		thumbnailBaseGridHeight : 400,
+		thumbnailLabel: { displayDescription: false, align: 'left' },
+		viewerTools: {
+			topLeft:    'pageCounter, playPauseButton',
+			topRight:   'fullscreenButton, closeButton'
 		}
-		if (e.keyCode == 39) { // Right arrow
-			owl.trigger('next.owl.carousel');
-		}
-	});
-
-	owl.on('changed.owl.carousel', function(event) {
-		onChanged: selectItem(event);
-	});
-
-	// owl.on('initialized.owl.carousel', function(event) {
-	// 	onInitialized: selectItem(event);
-	// });
-
-	owl.on('translated.owl.carousel', function(event) {
-		onTranslated: selectItem(event);
-	});
-
-	function selectItem(event){
-		$('.slide').attr('aria-hidden', true);
-		$('.slide').each(function(){
-			$(this).find('.buyPrint').attr('tabindex', '-1');
-		});
-		var currentSlide = $('.owl-item').eq(event.item.index).children('.slide');
-		currentSlide.attr('aria-hidden', false);
-		currentSlide.find('.buyPrint').attr('tabindex', '0');
-		var carouselIndex = currentSlide.attr('data-hash');
-
-		$('.thumbnail').removeClass('active');
-		$(`.thumbnail[href="#${carouselIndex}"]`).addClass('active');
-	}
-
-	function toggleTheater(e){
-		$('body').toggleClass('theater');
-		owl.trigger('refresh.owl.carousel');
-		
-		if($('body').hasClass('theater')){
-			$('#theaterToggle').text('Exit Gallery Mode').attr('aria-pressed', true);
-		} else {
-			$('#theaterToggle').text('Enter Gallery Mode').attr('aria-pressed', false);
-		}
-	}
-
-	$('#theaterToggle').on('click', function(e){
-		toggleTheater(e);
 	});
 });
 

@@ -7,41 +7,9 @@
 				{{ content }}
 			</div>
 		</article>
-		<button id="theaterToggle" aria-pressed="false">Enter Gallery Mode</button>
-
-		<div class="slideshow owl-carousel">
-			{% for photo in page.photos %}{% unless photo.hidden %}
-			<div class="slide" data-hash="{{ forloop.index }}">
-				<figure>
-					{% if photo.youtube_embed_url %}
-						<iframe width="100%" height="100%" src="{{ photo.youtube_embed_url }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-					{% else %}	
-						<img class="owl-lazy" data-src="{{ photo.url }}" alt="{{ photo.caption }}">
-						<figcaption>
-							<span class="title">{{ photo.title }}</span>
-							<span class="locationYear">{{ photo.location }}{% if photo.year and photo.year != '' and photo.location and photo.location != '' %}, {% endif %}{{ photo.year }}</span>
-							{% if photo.print and photo.print != '' %}<a href="{{ photo.print }}" class="button buyPrint">Buy a Print</a>{% endif %}
-						</figcaption>
-					{% endif %}
-				</figure>
-			</div>
-			{% endunless %}{% endfor %}
-
-		</div>
-		<div class="thumbnails">
-			{% for photo in page.photos %}{% unless photo.hidden %}
-			<a href="#{{ forloop.index }}" class="thumbnail">
-				<figure>
-					{% responsive_image_block %}
-						path: {{ photo.url }}
-					{% endresponsive_image_block %}
-					<figcaption>
-						<span class="title">{{ photo.title }}</span>
-						<span class="locationYear">{{ photo.location }}{% if photo.year and photo.year != '' and photo.location and photo.location != '' %}, {% endif %}{{ photo.year }}</span>
-					</figcaption>
-				</figure>
-			</a>
-			{% endunless %}{% endfor %}
+		<div id="mosaic">
+				{% for photo in page.photos %}{% unless photo.hidden %}
+				<a href = "/{{ photo.url}}"   data-ngThumb = "{% responsive_image_block %}path: {{ photo.url }}{% endresponsive_image_block %}" >{{ photo.title}}, {{ photo.location }} {{ photo.year }}</a>{% endunless %}{% endfor %}
 		</div>
 	</main>
 

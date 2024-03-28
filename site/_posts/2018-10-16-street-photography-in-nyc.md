@@ -10,7 +10,7 @@ photos:
 - title: Phones out at an Intersection
   location: SoHo, New York City, New York
   year: 2018
-  url: "assets/photos/L1020434.jpg"
+  url: "assets/photos/L1020434_692682-Edit.jpg"
 - title: Sailors in a Row
   location: New York City, New York
   year: 2018

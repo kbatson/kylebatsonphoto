@@ -1,19 +1,23 @@
 header {
   height: 85vh;
   width: 100vw;
-  position: relative;
+  position: absolute;
+  z-index: 2;
+  pointer-events: none;
 }
 
 header h1 {
   position: absolute;
   bottom: 1em;
   left: 0;
+  pointer-events: all;
 }
 
 header nav {
   position: absolute;
   top: 1em;
   right: 0;
+  pointer-events: all;
 }
 
 header nav ul {

@@ -1,2 +1,8 @@
 {% include header.html %}
+<main>
+  <div id="mosaic">
+      {% for photo in page.photos %}
+      <a href = "/{{ photo.url}}"   data-ngThumb = "/{{ photo.url}}" >{{ photo.title}}</a>{% endfor %}
+  </div>
+</main>
 {% include footer.html %}
