@@ -114,10 +114,25 @@ photos:
   year: 2014
   url: "assets/photos/DSC04119.jpg"
   print: https://kylebatsonphoto.bigcartel.com/product/women-in-bowler-hats
+- title: Kids amongst the crowd
+  location: Wichita, KS
+  year: "2014"
+  url: "assets/photos/DSC06241_306700-Edit-2.jpg"
+  print: ''
 - title: Kids Jumping in the Splash of Water
   caption: A blonde girl jumps for joy into the splash of water made by a carnival
     ride at night surrounded by other playing kids.
   location: Hutchinson, Kansas
   url: "assets/photos/DSC04235.jpg"
+- title: Playing in a Fountain with a Toy Gun
+  location: Wichita, Kansas
+  url: "assets/photos/FUJI1118_410043.jpg"
+- title: Kids playing at the Crown Fountain in Millenium Park
+  location: Chicago, Illinois
+  year: 2014
+  caption: A blonde girl jumps for joy into the splash of water made by a carnival
+    ride at night surrounded by other playing kids.
+  location: Hutchinson, Kansas
+  url: "assets/photos/P1460418-Edit-2.jpg"
 
 ---

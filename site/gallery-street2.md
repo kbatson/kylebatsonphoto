@@ -2,21 +2,45 @@
 layout: gallery
 title: Street Color
 photos:
-- title: Street Crossing
-  location: SoHo, New York
-  year: "2018"
-  print: 'https://kylebatsonphoto.bigcartel.com/product/street-crossing'
-  url: "assets/photos/L1020258_690817-Edit.jpg"
+- title: Attendees at the Kansas State Fair
+  location: Hutchinson, Kansas
+  year: "2024"
+  url: "assets/photos/L1002356.jpg"
+- title: Attendees at the Kansas State Fair
+  location: Hutchinson, Kansas
+  year: "2024"
+  url: "assets/photos/L1002495.jpg"
 - title: Concessions at the Fair
   location: Cheyenne Frontier Days, Wyoming
   year: "2018"
   print: ''
   url: "assets/photos/DSC06259_676440-Edit.jpg"
+- title: Reading at the Beach
+  location: Dalaman, Turkey
+  year: "2016"
+  print: ''
+  url: "assets/photos/DSCF3276.jpg"
 - title: Moving a Bus Stuck in Sand
   location: Slab City, California
   year: "2019"
   print: 'https://kylebatsonphoto.bigcartel.com/product/stuck-bus-at-slab-city'
   url: "assets/photos/DSC02979-Edit.jpg"
+- title: 787 Coffee
+  location: Manhattan, New York
+  year: "2023"
+  url: "assets/photos/M10A6705.jpg"
+- title: Merchant Marines
+  location: Manhattan, New York
+  year: "2018"
+  url: "assets/photos/L1020278-Edit.jpg"
+- title: Woman with a Bag at an Intersection
+  location: Manhattan, New York
+  year: "2018"
+  url: "assets/photos/L1020588_691933.jpg"
+- title: Crossing the Intersection
+  location: Manhattan, New York
+  year: "2023"
+  url: "assets/photos/DSC08547-Edit.jpg"
 - title: Hot & Sweet Sausage
   location: Corning, New York
   year: "2018"
@@ -27,6 +51,11 @@ photos:
   year: "2018"
   print: 'to-report-an-emergency'
   url: "assets/photos/L1020240_690738.jpg"
+- title: Ice cream truck
+  location: New York City
+  year: "2018"
+  url: "assets/photos/L1080231-Edit.jpg"
+  print: ''
 - title: Game On
   location: Iowa State Fair Des Moines, Iowa
   year: "2019"
@@ -46,11 +75,6 @@ photos:
   url: "assets/photos/L1010962.jpg"
   year: ''
   print: 'https://kylebatsonphoto.bigcartel.com/product/yellow-belly-shirt'
-- title: Ice cream truck
-  location: New York City
-  year: "2018"
-  url: "assets/photos/L1080231-Edit.jpg"
-  print: ''
 - title: Fiesta Mexicana
   location: Topeka, Kansas
   year: "2019"
@@ -78,10 +102,20 @@ photos:
   year: "2018"
   url: "assets/photos/L1020434_692682-Edit.jpg"
   print: 'https://kylebatsonphoto.bigcartel.com/product/phones-out-at-intersection'
+- title: Girls in Matching Red Coats
+  location: Manhattan, New York City
+  year: "2023"
+  url: "assets/photos/DSC08325.jpg"
+  print: ''
+- title: Man with a Cigarette on his Phone
+  location: Manhattan, New York City
+  year: "2018"
+  url: "assets/photos/DSC03384_665352.jpg"
+  print: ''
 - title: Women Kissing
   location: SoHo, New York City
   year: "2018"
-  url: "assets/photos/L1020072.jpg"
+  url: "assets/photos/L1020071-Enhanced-NR.jpg"
   print: ''
 - title: Light Pole Phone Station
   location: Rio de Janiero, Brazil
@@ -114,11 +148,6 @@ photos:
   url: "assets/photos/L1010406-Lightroom.jpg"
   print: ''
   hidden: true
-- title: Kids amongst the crowd
-  location: Wichita, KS
-  year: "2014"
-  url: "assets/photos/DSC06241_306700-Edit.jpg"
-  print: ''
 - title: Girls at the Pig Show
   location: Lawrence, KS
   year: "2015"
@@ -140,11 +169,6 @@ photos:
   url: "assets/photos/DSC08297-Exposure.jpg"
   print: ''
   hidden: true
-- title: Man Crossing the Street with Earbuds
-  location: Merida, Mexico
-  year: "2018"
-  url: "assets/photos/DSC08309-Exposure.jpg"
-  print: ''
 - title: Woman Exiting a Bus
   location: Merida, Mexico
   year: "2018"
