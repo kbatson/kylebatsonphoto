@@ -2,6 +2,7 @@
 layout: post
 title: Abstraction at the Nelson
 date: 2019-03-31 00:00:00 -0500
+excerpt_photo: "assets/photos/DSC02115.jpg"
 photos:
 - title: Nelson-Atkins Museum of Art
   year: 2019

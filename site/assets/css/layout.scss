@@ -65,6 +65,11 @@ article.gallery-intro {
   grid-area: intro;
 }
 
+.excerpt_photo {
+  width: 250px;
+  height: auto;
+}
+
 article img {
   max-width: $image-maxWidth;
   width: 100%;

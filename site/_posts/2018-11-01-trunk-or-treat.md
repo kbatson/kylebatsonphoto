@@ -2,6 +2,7 @@
 title: Trunk or Treat
 layout: post
 date: 2018-11-01 00:00:00 +0000
+excerpt_photo: "assets/photos/IMG_5931.JPG"
 photos:
 - title: Face painting
   location: Lawrence, KS

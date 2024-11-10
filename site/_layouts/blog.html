@@ -8,6 +8,9 @@
         <section class="metadata">
           {{ post.date | date: "%b %d, %Y" }}
         </section>
+        {% if post.excerpt_photo %}
+          <a href="{{ post.url }}"><img class="excerpt_photo" src="{% responsive_image_block %}path: {{ post.excerpt_photo }}{% endresponsive_image_block %}"></a>
+        {% endif %}
       </article>
       {% endfor %}
 

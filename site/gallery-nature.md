@@ -10,6 +10,10 @@ photos:
   year: "2016"
   url: assets/photos/DSC00948.jpg
   print: https://kylebatsonphoto.bigcartel.com/product/gorilla-in-the-forest-rwanda
+- title: Heron Taking Flight
+  location: Tamarindo, Costa Rica
+  year: "2024"
+  url: assets/photos/DSC00268-Edit.jpg
 - title: Sunset over the Grand Tetons
   location: Spread Creek, Wyoming
   year: "2022"

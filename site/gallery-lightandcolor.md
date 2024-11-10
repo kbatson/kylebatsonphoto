@@ -2,11 +2,23 @@
 layout: gallery
 title: Light & Color
 photos:
+- title: Canyonlands Motel
+  location: Mexican Hat, Utah
+  year: "2024"
+  url: assets/photos/DSC00096.jpg
+- title: Major Brands Gas
+  location: Utah
+  year: "2024"
+  url: assets/photos/DSC00179.jpg
 - title: Morning Reflections
   location: Henderson, North Carolina
   year: "2019"
   print: ''
   url: "assets/photos/DSC09897-Edit.jpg"
+- title: Poodle Head
+  location: Springfield, Missouri
+  year: "2023"
+  url: assets/photos/L1010840.jpg
 - title: Yellow and Legs
   location: Lawrence, Kansas
   year: "2019"

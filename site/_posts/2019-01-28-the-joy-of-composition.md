@@ -2,6 +2,7 @@
 layout: post
 title: The Joy of Composition
 date: 2019-01-28 06:00:00 +0000
+excerpt_photo: "assets/photos/DSC0940-resized.jpg"
 photos:
 - title: Primary colors with a wheel and glass building
   year: 2019

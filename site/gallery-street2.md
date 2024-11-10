@@ -2,6 +2,10 @@
 layout: gallery
 title: Street Color
 photos:
+- title: Sunset Cruise
+  location: Tamarindo, Costa Rica
+  year: "2024"
+  url: assets/photos/DSC09696.jpg
 - title: Attendees at the Kansas State Fair
   location: Hutchinson, Kansas
   year: "2024"

@@ -2,6 +2,7 @@
 title: Sony FE 28mm f/2.0 Lens Review
 layout: post
 date: 2015-05-23 11:51:34 -0500
+excerpt_photo: "assets/photos/DSC03719.jpg"
 photos:
 - title: Good flare control and pleasing out-of-focus areas
   location: Wichita, KS
@@ -81,6 +82,6 @@ I just wanted to make a quick note about the distortion of the lens. I does have
 
 I just returned from the three-week vacation to Turkey and I had my 28mm lens along for the tip. However, you may be surprised to hear that I ended up renting, falling in love with, and subsequently buying the Sony Zeiss FE 35mm f1.4 lens after-all. It ended up being my primary lens on the trip, but I did use the 28mm with wide-angle adapter on the trip as well. I have added a few additional photos from the trip to the gallery below.
 
-Unfortunately, despite the positive impressions I had with the lens, it does have an overall lower build-quality than any of the Sony/Zeiss full-frame lenses available. And that, apparently, does result in lower reliability. I had to send off the lens (under warranty) to Precision Camera for repair this week. The circular plastic element surrounding the front element of the lens had started to come loose. I'm not sure what caused this issue, but as it appeared to be glued into place, it could be that some hot weather in Kansas had caused the glue to come loose. A very stark contrast to the build of the FE 35mm f1.4, which I will address in its own review soon. 
+Unfortunately, despite the positive impressions I had with the lens, it does have an overall lower build-quality than any of the Sony/Zeiss full-frame lenses available. And that, apparently, does result in lower reliability. I had to send off the lens (under warranty) to Precision Camera for repair this week. The circular plastic element surrounding the front element of the lens had started to come loose. I'm not sure what caused this issue, but as it appeared to be glued into place, it could be that some hot weather in Kansas had caused the glue to come loose. A very stark contrast to the build of the FE 35mm f1.4, which I will address in its own review soon.
 
 After receiving the repaired lens, it appears as good as new and I have not noticed any problems since.

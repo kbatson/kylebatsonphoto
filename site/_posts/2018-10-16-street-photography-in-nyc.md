@@ -2,6 +2,7 @@
 title: Street Photography in NYC
 date: 2018-10-16 09:11:46 +0000
 layout: post
+excerpt_photo: "assets/photos/L1020066.jpg"
 photos:
 - title: Sunglasses Raised
   location: SoHo, New York City, New York

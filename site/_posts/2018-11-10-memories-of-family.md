@@ -2,6 +2,7 @@
 title: Memories of Family
 layout: post
 date: 2018-11-10 17:44:10 +0000
+excerpt_photo: "assets/photos/DSC01481.jpg"
 photos:
 - title: Mom and my sister discuss playing outside
   location: Wichita, Kansas

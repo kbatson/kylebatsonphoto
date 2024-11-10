@@ -2,6 +2,10 @@
 layout: gallery
 title: Travel
 photos:
+- title: Beach-Goers
+  location: Tamarindo, Costa Rica
+  year: "2024"
+  url: assets/photos/DSC00338.jpg
 - title: Boy with Bucket
   location: Kampong Pluk, Cambodia
   year: "2020"
